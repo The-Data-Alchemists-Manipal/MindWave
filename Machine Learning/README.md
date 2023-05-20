@@ -1,8 +1,10 @@
 # Machine Learning
 
 ## Implemented Algorithms
+ 
+  - [Logistic Regression - Titanic Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/titanic---logistic/Machine%20Learning/Logistic%20Regression%20-%20Titanic%20Dataset)
 
-- <Enter here>
+
   
 ## Implementation Ideas
   
