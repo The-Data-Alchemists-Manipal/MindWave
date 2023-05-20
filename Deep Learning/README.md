@@ -2,7 +2,7 @@
 
 ## Implemented Algorithms
 
-- <Enter here>
+- ANN
 
 ## Implementation Ideas
   
