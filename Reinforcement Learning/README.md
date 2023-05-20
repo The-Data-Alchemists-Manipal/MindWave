@@ -2,7 +2,8 @@
 
 ## Implemented Algorithms
 
-- <Enter here>
+SARSA-Taxi[]
+
 
   
 ## Implementation Ideas
