@@ -14,6 +14,10 @@
 
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
+- [SVM classification - Bank Churn classification](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
+
+- [SVM classification - Mobile Price Prediction](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
+
 
 ## Implementation Ideas
   
