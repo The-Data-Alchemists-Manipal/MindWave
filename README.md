@@ -35,3 +35,8 @@ You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
 This project follows the [MIT License](/LICENSE).
 
+## Contributors
+
+<a href="https://github.com/The-Data-Alchemists-Manipal/MindWave/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=The-Data-Alchemists-Manipal/MindWave" />
+</a>
