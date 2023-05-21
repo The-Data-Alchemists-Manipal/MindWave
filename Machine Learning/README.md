@@ -7,6 +7,9 @@
 - [Logistic Regression - dermatology disease classification dataset]( https://www.kaggle.com/datasets/olcaybolat1/dermatology-dataset-classification)
 
 - [Random Forest - obesity classification](  https://www.kaggle.com/datasets/sujithmandala/obesity-classification-dataset?select=Obesity+Classification.csv)
+
+- [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+
 ## Implementation Ideas
   
   - Linear Regression
