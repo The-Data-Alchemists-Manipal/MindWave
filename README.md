@@ -1,5 +1,21 @@
 # MindWave
 
+<div align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/uses-brains.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
+  <br>
+  <img src="https://img.shields.io/github/repo-size/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-closed-raw/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-pr/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-pr-closed/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  <img src="https://img.shields.io/github/contributors/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/stars/The-Data-Alchemists-Manipal/MindWave?style=for-the-badge" />
+  </div>
 MindWave is an open-source project aimed at beginners who want to learn about Data Science, Machine Learning, Deep Learning, and Reinforcement Learning algorithms in Python. This project aims to provide a platform for beginners to implement the relevant algorithms in Python.
 
 ## Overview
@@ -35,3 +51,8 @@ You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
 This project follows the [MIT License](/LICENSE).
 
+## Contributors
+
+<a href="https://github.com/The-Data-Alchemists-Manipal/MindWave/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=The-Data-Alchemists-Manipal/MindWave" />
+</a>
