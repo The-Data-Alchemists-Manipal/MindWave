@@ -4,8 +4,9 @@
  
   - [Logistic Regression - Titanic Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/titanic---logistic/Machine%20Learning/Logistic%20Regression%20-%20Titanic%20Dataset)
 
+- [Logistic Regression - dermatology disease classification dataset]( https://www.kaggle.com/datasets/olcaybolat1/dermatology-dataset-classification)
 
-  
+- [Random Forest - obesity classification](  https://www.kaggle.com/datasets/sujithmandala/obesity-classification-dataset?select=Obesity+Classification.csv)
 ## Implementation Ideas
   
   - Linear Regression
