@@ -1,4 +1,4 @@
-df <- read.csv("D:\\Important Documents\\GSSoC'23\\housing.csv")
+df <- read.csv("housing.csv")
 df <- na.omit(df)
 df$ocean_proximity <- as.factor(df$ocean_proximity)
 set.seed(2023)
