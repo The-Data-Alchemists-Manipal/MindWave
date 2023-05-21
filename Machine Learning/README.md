@@ -15,7 +15,8 @@
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
-- [Random Forest,XGboost - Duplicate Question Pairs - NLP](https://www.kaggle.com/c/quora-question-pairs)
+- [Random Forest,XGboost - Duplicate Question Pairs-NLP](https://www.kaggle.com/c/quora-question-pairs)
+
 
 
 ## Implementation Ideas
