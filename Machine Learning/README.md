@@ -11,6 +11,10 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
+
+- [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
+
+
 ## Implementation Ideas
   
   - Linear Regression
