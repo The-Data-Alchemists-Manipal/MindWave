@@ -1,0 +1,102 @@
+---
+title: "Linear Regression - California"
+author: "Debartha Paul"
+date: "2023-05-20"
+output:
+  html_document: default
+  html_notebook: 
+    fig_caption: yes
+  pdf_document: default
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+We'll be doing a Linear Regression for the California Dataset available at [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
+
+## Loading and cleaning data
+
+We first load the dataset:
+
+```{r california, comment=NA}
+california <- read.csv("housing.csv")
+names(california)
+dim(california)
+summary(california)
+```
+
+We note that the dataset contains `207` missing values. As this is an insignificant amount of data with respect to the whole set, we may omit those observations.
+
+```{r naomit, comment=NA}
+california <- na.omit(california)
+california$ocean_proximity <- as.factor(california$ocean_proximity)
+```
+
+We also briefly view the contents of the dataset:
+
+```{r head, comment=NA}
+head(california)
+```
+
+## Building Linear Model
+
+Our variable of interest is the `median_house_value` variable, which contains the median of house values based on various factors.
+
+Now we check for any multicollinearity in the dataset:
+
+```{r pairs, comment=NA}
+pairs(california[, c(-9, -10)],
+      pch = 16,
+      col = rgb(120, 120, 120, maxColorValue = 255, alpha = 150))
+```
+
+This helps us to decrease the number of covariates in our linear regression model, which further results in drastically reducing the time complexity of our program. We note that `latitude` and `longitude` are highly collinear with each other, so it is redundant to keep both of them in our model. Further, we note that the `total_rooms`, `total_bedrooms`, `population` and `households` are almost perfectly multicollinear. Hence, we keep any one of them, and drop the other three. For simplicity, we choose `latitude` and `population` from the above and continue our model.
+
+Thus, our linear regression model now looks like the following: $$y = \beta_0+\beta_1x_1+\beta_2x_2+\beta_3x_3+\beta_4x_4+\beta_5x_5$$ where:
+
+-   $\beta_0$ is the average value of the house when all the other covariates are `0`
+-   $\beta_1$ is the coefficient corresponding to `latitude`
+-   $\beta_2$ is the coefficient corresponding to `housing_median_age`
+-   $\beta_3$ is the coefficient corresponding to `population`
+-   $\beta_4$ is the coefficient corresponding to `median_income`
+-   $\beta_5$ is the coefficient corresponding to the factor variable `ocean_proximity`
+
+The function for the linear model in `R` is `lm`. We use this to build our model for the linear regression. However, before doing that, we would like to break our data into training and test sets. We would do a random sampling, after setting a fixed seed for reproducibility and the ratio for train to test is 80:20.
+
+```{r sets, comment=NA}
+set.seed(2023)
+x <- sample(1:nrow(california),
+            0.8 * nrow(california))
+train <- california[x,]
+test <- california[-x,]
+```
+
+We now proceed to build the model with the training set:
+
+```{r linmodel, comment=NA}
+model <- lm(median_house_value ~ latitude + housing_median_age + population + median_income + ocean_proximity,
+            data = train)
+summary(model)
+```
+
+## Prediction
+
+We will predict with the help of our model and compare it with the original test data that we have kept aside. The `predict` function in `R` is used to predict values with the help of a fitted model:
+
+```{r prediction, comment=NA}
+pred <- predict(model,
+                newdata = data.frame(latitude=test$latitude,
+                                     housing_median_age=test$housing_median_age,
+                                     population=test$population,
+                                     median_income=test$median_income,
+                                     ocean_proximity=test$ocean_proximity)
+)
+head(pred)
+```
+
+That ends the discussion for Linear regression on the California Dataset.
