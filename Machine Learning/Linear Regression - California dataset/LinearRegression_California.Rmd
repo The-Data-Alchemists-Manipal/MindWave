@@ -24,7 +24,7 @@ We'll be doing a Linear Regression for the California Dataset available at [Kagg
 We first load the dataset:
 
 ```{r california, comment=NA}
-california <- read.csv("D:\\Important Documents\\GSSoC'23\\housing.csv")
+california <- read.csv("housing.csv")
 names(california)
 dim(california)
 summary(california)
