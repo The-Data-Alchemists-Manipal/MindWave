@@ -2,7 +2,7 @@
 
 ## Implemented Algorithms
 
-- <Enter here>
+- [Multinomial Naive Bayes - Kaggle Spam Dataset]()
   
 ## Implementation Ideas
   
