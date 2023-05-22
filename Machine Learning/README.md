@@ -27,6 +27,7 @@
 
 - [SVM classification - Mobile Price Prediction](https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates)
 
+- [SVM classification - Mobile Price Prediction](https://www.kaggle.com/datasets/emmanuelfwerr/thyroid-disease-data)
 
 ## Implementation Ideas
   
