@@ -1,5 +1,5 @@
 # MindWave
-
+<div id="top"></div>
 <div align="center">
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
@@ -56,3 +56,4 @@ This project follows the [MIT License](/LICENSE).
 <a href="https://github.com/The-Data-Alchemists-Manipal/MindWave/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=The-Data-Alchemists-Manipal/MindWave" />
 </a>
+<p align="right">(<a href="#top">Back to top</a>)</p>
