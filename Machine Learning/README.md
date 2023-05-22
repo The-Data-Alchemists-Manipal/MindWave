@@ -18,6 +18,9 @@
 
 - [SVM classification - Mobile Price Prediction](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
 
+- [Random Forest classification -heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
+
+
 
 ## Implementation Ideas
   
