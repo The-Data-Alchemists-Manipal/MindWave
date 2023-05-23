@@ -17,6 +17,8 @@
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
 
 
+- [SVM classification - Bank Churn classification](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
+- 
 ## Implementation Ideas
   
   - Linear Regression
