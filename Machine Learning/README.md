@@ -16,6 +16,7 @@
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
 
+- [SVM classification - Thyroid disease classification](https://www.kaggle.com/datasets/emmanuelfwerr/thyroid-disease-data)
 
 ## Implementation Ideas
   
