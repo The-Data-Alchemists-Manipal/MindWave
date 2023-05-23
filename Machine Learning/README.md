@@ -1,7 +1,7 @@
 # Machine Learning
 
 ## Implemented Algorithms
- 
+  - [algorithm-dataset](https://github.com/ManaswiKasiraju/MindWave/blob/ManaswiKasiraju-patch-1/Machine%20Learning/algorithm_dataset.ipynb)
   - [Logistic Regression - Titanic Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/titanic---logistic/Machine%20Learning/Logistic%20Regression%20-%20Titanic%20Dataset)
   - [Linear Regression - California Dataset - R](https://github.com/itsdebartha/MindWave/tree/9f4900d287096e4a930f110d2d79dbed159b2251/Machine%20Learning/Linear%20Regression%20-%20California%20dataset%20-%20R)
 
@@ -18,7 +18,7 @@
 
 
 ## Implementation Ideas
-  
+  - algorithm-dataset
   - Linear Regression
   - Logistic Regression
   - Ridge & Lasso Regression
