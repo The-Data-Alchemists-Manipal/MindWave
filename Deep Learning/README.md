@@ -2,7 +2,7 @@
 
 ## Implemented Algorithms
 
-- <Enter here>
+- CNNforBinaryClassification_<a href="">IEEECISFraudDetection</a>
 
 ## Implementation Ideas
   
