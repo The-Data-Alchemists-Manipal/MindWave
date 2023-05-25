@@ -8,6 +8,9 @@
 
 - <a href=" https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri/code"> ANN -Brain tumor classification </a>
 
+- <a href=" https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package"> ANN -Rain in Australia Prediction </a>
+
+
 ## Implementation Ideas
   
 - LeNet
