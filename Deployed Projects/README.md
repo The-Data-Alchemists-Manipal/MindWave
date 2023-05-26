@@ -1,6 +1,6 @@
 # Deployed Projects
 
-- [RFR_FlightPricePrediction](https://himanshu-03-flight-prediction-system-streamlit-app-fkj7k0.streamlit.app/)
+- [RFR - FlightPricePrediction](/Deployed%20Projects%2FRFR_FlightPricePrediction)
 
 <br />
 
