@@ -19,7 +19,7 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
-- [Linear Regression- Music Recommendor System](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
+- [Linear Regression- Music Recommendor System](https://github.com/samarthjain422005/MindWave/tree/main/Machine%20Learning/Linear%20Regression%20-%20Music%20Recommendor%20System)
 
 ## Implementation Ideas
   
