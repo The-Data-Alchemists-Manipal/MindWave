@@ -19,6 +19,8 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+- [KNN and Randorm Forest - News Category Detection](https://www.kaggle.com/datasets/rmisra/news-category-dataset/code)
+
 
 ## Implementation Ideas
   
@@ -31,3 +33,4 @@
   - Random Forest
   - XGBoost
   - AdaBoost
+  - KNN
