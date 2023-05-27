@@ -7,6 +7,7 @@
 - <a href="https://github.com/okaditya84/MindWave/blob/main/Deep%20Learning/RNN_word2vec.ipynb"> RNN - Sentiment Analyzer </a>
 - <a herf="https://github.com/NisargPipaliya/GSSOC_MindWave/blob/main/Deep%20Learning/ANN_Telco_Customer_Churn.ipynb">ANN - Telco Customer Churn</a>
 - <a href="https://github.com/YB73/MindWave/blob/nk-droid-RetinaDamage/Deep%20Learning/CNN_RetinaDamage.ipynb"> CNN - Retina Damage Detection </a>
+- <a href = "https://github.com/aman-kumar29/MindWave/blob/faceemotion/Deep%20Learning/CNN_FER2013.ipynb"> CNN - FER2013 </a>
 
 
 
@@ -21,3 +22,4 @@
 - LSTM
 - GRU
 - Bidirectional RNN
+- ResNet50
