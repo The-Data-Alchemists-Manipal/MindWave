@@ -21,7 +21,7 @@
 
 
   RandomForest-SmokerUK
-- <a href='https://colab.research.google.com/drive/1wfHIiUNdZ7mlzT_aL-kmrjN0s3_ZrJak'>Random_Forest_Classifier-SmokerUK</a>
+- <a href='https://github.com/pgs17/MindWave-GSSOC-/blob/RandomForest-SmokerUK/Machine%20Learning/RandomForest_Smoker_UK.ipynb'>Random_Forest_Classifier-SmokerUK</a>
  
  main
 ## Implementation Ideas
