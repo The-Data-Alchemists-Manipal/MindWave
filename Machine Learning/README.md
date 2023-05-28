@@ -21,6 +21,8 @@
 
 - [SVM classification - Thyroid disease classification](https://www.kaggle.com/datasets/emmanuelfwerr/thyroid-disease-data)
 
+- [Random Forest classification -heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
+
 
 ## Implementation Ideas
   
