@@ -1,7 +1,8 @@
 # Machine Learning
 
 ## Implemented Algorithms
- 
+
+
   - [Logistic Regression - Titanic Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/titanic---logistic/Machine%20Learning/Logistic%20Regression%20-%20Titanic%20Dataset)
   - [Linear Regression - California Dataset - R](https://github.com/itsdebartha/MindWave/tree/9f4900d287096e4a930f110d2d79dbed159b2251/Machine%20Learning/Linear%20Regression%20-%20California%20dataset%20-%20R)
 
@@ -32,6 +33,8 @@
 - [Linear Regression- Music Recommendor System](https://github.com/samarthjain422005/MindWave/tree/main/Machine%20Learning/Linear%20Regression%20-%20Music%20Recommendor%20System)
  
 - [RandomForestClassifier - Credit Card Fraud Detection Dataset](https://github.com/sujanrupu/MindWave/tree/main/Machine%20Learning/RnadomForestClassifier-CreditCardFraudDataset)
+
+ - [Linear Regression - Kolkata House Price Dataset](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
 
 
 
