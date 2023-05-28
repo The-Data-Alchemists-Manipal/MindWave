@@ -25,6 +25,8 @@
 
 - [Random Forest classification -heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
+- [SVM classification - Bank Churn classification](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
+
 
 ## Implementation Ideas
   
