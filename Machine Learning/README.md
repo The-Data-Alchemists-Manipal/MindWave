@@ -22,6 +22,8 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+- [KNN and Randorm Forest - News Category Detection](https://www.kaggle.com/datasets/rmisra/news-category-dataset/code)
+
 - [SVM classification - Thyroid disease classification](https://www.kaggle.com/datasets/emmanuelfwerr/thyroid-disease-data)
 
 - [Random Forest classification -heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
@@ -38,6 +40,7 @@
 
 
 
+
 ## Implementation Ideas
   
   - Linear Regression
@@ -49,3 +52,4 @@
   - Random Forest
   - XGBoost
   - AdaBoost
+  - KNN
