@@ -19,6 +19,8 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+- [SVM classification - Thyroid disease classification](https://www.kaggle.com/datasets/emmanuelfwerr/thyroid-disease-data)
+
 
 ## Implementation Ideas
   
