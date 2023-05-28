@@ -19,6 +19,14 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+- [SVM classification - Thyroid disease classification](https://www.kaggle.com/datasets/emmanuelfwerr/thyroid-disease-data)
+
+- [Random Forest classification -heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
+
+- [SVM classification - Bank Churn classification](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
+
+- [Random Forest,XGboost - Duplicate Question Pairs-NLP](https://github.com/MohnishK7/MindWave/blob/nlpbranch/Machine%20Learning/NLP_Duplicate_Question/initial_EDA.ipynb)
+
 - [Linear Regression- Music Recommendor System](https://github.com/samarthjain422005/MindWave/tree/main/Machine%20Learning/Linear%20Regression%20-%20Music%20Recommendor%20System)
 
 ## Implementation Ideas
