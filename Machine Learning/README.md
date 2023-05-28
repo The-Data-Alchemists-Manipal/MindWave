@@ -1,7 +1,7 @@
 # Machine Learning
 
 ## Implemented Algorithms
-  - [Support Vector Machine(SVM) - Breast Cancer Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/Breast%20Cancer%20Prediction.ipynb)
+  - [Support Vector Machine - Breast Cancer Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/Breast%20Cancer%20Prediction.ipynb)
   - [Logistic Regression - Titanic Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/titanic---logistic/Machine%20Learning/Logistic%20Regression%20-%20Titanic%20Dataset)
   - [Linear Regression - California Dataset - R](https://github.com/itsdebartha/MindWave/tree/9f4900d287096e4a930f110d2d79dbed159b2251/Machine%20Learning/Linear%20Regression%20-%20California%20dataset%20-%20R)
 
