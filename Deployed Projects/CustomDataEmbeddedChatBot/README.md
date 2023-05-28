@@ -18,7 +18,7 @@ To get started with the project -
 3.)Install the dependencies by -
 
 ```
-pip install langchain,faiss-cpu,python-dotenv,Pypdf2,streamlit
+pip install langchain,faiss-cpu,python-dotenv,Pypdf2,streamlit,openai
 ```
 4.) Run the streamlit webUI by running the command -
 ```
