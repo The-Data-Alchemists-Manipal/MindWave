@@ -11,7 +11,6 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
-
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
@@ -27,6 +26,7 @@
 - [Random Forest classification -heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 - [SVM classification - Bank Churn classification](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
+
 
 ## Implementation Ideas
   
