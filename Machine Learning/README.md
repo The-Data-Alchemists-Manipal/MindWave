@@ -30,6 +30,9 @@
 - [Random Forest,XGboost - Duplicate Question Pairs-NLP](https://github.com/MohnishK7/MindWave/blob/nlpbranch/Machine%20Learning/NLP_Duplicate_Question/initial_EDA.ipynb)
 
 - [Linear Regression- Music Recommendor System](https://github.com/samarthjain422005/MindWave/tree/main/Machine%20Learning/Linear%20Regression%20-%20Music%20Recommendor%20System)
+ 
+- [RandomForestClassifier - Credit Card Fraud Detection Dataset](https://github.com/sujanrupu/MindWave/tree/main/Machine%20Learning/RnadomForestClassifier-CreditCardFraudDataset)
+
 
 
 ## Implementation Ideas
