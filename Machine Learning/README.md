@@ -27,6 +27,8 @@
 
 - [SVM classification - Bank Churn classification](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
 
+- [Random Forest,XGboost - Duplicate Question Pairs-NLP](https://github.com/MohnishK7/MindWave/blob/nlpbranch/Machine%20Learning/NLP_Duplicate_Question/initial_EDA.ipynb)
+
 
 ## Implementation Ideas
   
