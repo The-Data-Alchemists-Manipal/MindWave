@@ -18,12 +18,18 @@ To get started with the project -
 3.)Install the dependencies by -
 
 ```
-pip install langchain,faiss-cpu,python-dotenv,Pypdf2,streamlit
+pip install langchain,faiss-cpu,python-dotenv,Pypdf2,streamlit,openai
 ```
 4.) Run the streamlit webUI by running the command -
 ```
 streamlit run "{FILE PATH TO APP.PY FILE}"
 ```
 ## Screenshots
+Interface When file is not loaded - 
 
+![Screenshot (179)](https://github.com/shubhexists/MindWave/assets/110319892/5485d337-4ea6-456c-8859-3e0c298e4817)
+
+Full Working Results -
+
+![Screenshot (188)](https://github.com/shubhexists/MindWave/assets/110319892/1c542ed1-c6ac-40f4-a34f-19798f8e2515)
 
