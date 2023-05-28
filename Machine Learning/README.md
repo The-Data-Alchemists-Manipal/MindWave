@@ -16,6 +16,8 @@
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
 
+- [SVM classification - Mobile Price Prediction](https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates)
+
 - [Naive Bayes - Kaggle Spam Dataset](https://github.com/PraNavKumAr01/MindWave/blob/main/Machine%20Learning/NaiveBayes%20-%20SpamDataset/MultinomialNaiveBayes_Spam.ipynb)
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
@@ -33,6 +35,7 @@
 - [RandomForestClassifier - Credit Card Fraud Detection Dataset](https://github.com/sujanrupu/MindWave/tree/main/Machine%20Learning/RnadomForestClassifier-CreditCardFraudDataset)
 
  - [Linear Regression - Kolkata House Price Dataset](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
+
 
 
 ## Implementation Ideas
