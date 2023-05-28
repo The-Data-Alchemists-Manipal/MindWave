@@ -53,7 +53,8 @@ This project follows the [MIT License](/LICENSE).
 
 ## Contributors
 
-<a href="https://github.com/The-Data-Alchemists-Manipal/MindWave/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=The-Data-Alchemists-Manipal/MindWave" />
+<a href="https://github.com/the-data-alchemists-manipal/mindWave/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=the-data-alchemists-manipal/mindWave" />
 </a>
+
 <p align="right">(<a href="#top">Back to top</a>)</p>
