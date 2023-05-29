@@ -8,6 +8,8 @@
 
 - <a href=" https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates"> World air quality classification </a>
 
+- <a href=" -https://www.kaggle.com/datasets/bongsang/eye-disease-deep-learning-dataset"> Eye disease classification(flaky corneal ulcers) </a>
+
 ## Implementation Ideas
   
 - LeNet
