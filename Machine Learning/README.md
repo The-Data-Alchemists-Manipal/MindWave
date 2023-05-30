@@ -16,7 +16,7 @@
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
 
-- [algorithm - dataset](https://github.com/ASHWIN492/MindWave?organization=ASHWIN492&organization=ASHWIN492)
+- [SVM and diabetes dataset](https://github.com/ASHWIN492/MindWave?organization=ASHWIN492&organization=ASHWIN492)
 
 
 
