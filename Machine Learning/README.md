@@ -38,7 +38,7 @@
 
  - [Linear Regression - Kolkata House Price Dataset](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
 
-
+ - [K Cross Fold Technique - Bank Marketing Dataset](https://github.com/KaviRana/MindWave/tree/main/Machine%20Learning/K%20fold%20Cross%20Validation%20Technique)
 
 
 ## Implementation Ideas
@@ -53,3 +53,5 @@
   - XGBoost
   - AdaBoost
   - KNN
+  - Cross Validation Techniques 
+    - K fold CV technique
