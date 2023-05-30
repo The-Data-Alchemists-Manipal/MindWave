@@ -11,12 +11,11 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
-
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
 
-- [SVM and diabetes dataset](https://github.com/ASHWIN492/MindWave?organization=ASHWIN492&organization=ASHWIN492)
+- [algorithm - dataset](https://github.com/ASHWIN492/MindWave?organization=ASHWIN492&organization=ASHWIN492)
 
 
 
