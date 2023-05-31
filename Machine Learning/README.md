@@ -19,6 +19,8 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+- [Logistic Regression_Scikit-Learn Breast Cancer Dataset](https://colab.research.google.com/drive/1hLvNUkHeDP-umMNtAdjhbb1Irg-n-_Cg)
+
 
 ## Implementation Ideas
   
