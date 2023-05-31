@@ -38,7 +38,7 @@
 
  - [Linear Regression - Kolkata House Price Dataset](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
 
-
+ - [Logistic regression model - Portuguese banking dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
 
 
 ## Implementation Ideas
