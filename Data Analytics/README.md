@@ -6,7 +6,7 @@
 - <a href="https://github.com/rahulkothuri/MindWave/tree/main/Data%20Analytics/Forbes_Billionaires_analysis"> Data Analytics - Forbes Billionaires Dataset(Fobres Billionaires Analysis) </a>
 - [EDA On Sales Data](https://github.com/NisargPipaliya/GSSOC_MindWave/blob/main/Data%20Analytics/Data_analysis_Sales_data.ipynb)
 - <a href="https://github.com/adhikari-pratik/MindWave/blob/issue-79/Data%20Analytics/Happines_index_Data_analysis_visualization"> Happines_index_Data_analysis_visualization </a>
--[Analysis of Udemy courses](https://github.com/Abhinavcode13/GSSOC_MindWave/blob/main/Data%20Analytics/udemy_courses_analysis.ipynb)
+-[Analysis of Udemy courses](https://github.com/Abhinavcode13/MindWave/blob/main/Data%20Analytics/Udemy_courses_Analysis.ipynb)
 
 ## Implementation Ideas
 
