@@ -17,6 +17,8 @@
 - <a href="https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/code">CNN - Tomato Leaf Disease Detection</a>
 - <a href="https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset">CNN - Monkey pox  Disease Detection</a>
 
+- <a href="https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning">CNN - WCE curated colon disease</a>
+
 ## Implementation Ideas
   
 - LeNet
