@@ -35,7 +35,9 @@
  
 - [RandomForestClassifier - Credit Card Fraud Detection Dataset](https://github.com/sujanrupu/MindWave/tree/main/Machine%20Learning/RnadomForestClassifier-CreditCardFraudDataset)
 
- - [Linear Regression - Kolkata House Price Dataset](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
+- [Linear Regression - Kolkata House Price Dataset](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
+
+- [Logistic Regression - Heart Disease Dataset - R](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Heart%20Disease%20dataset%20-%20R)
 
 
 
