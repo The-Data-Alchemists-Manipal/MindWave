@@ -21,7 +21,7 @@ We'll be doing a Logistic Regression for the Heart Disease Dataset available at 
 We first load the dataset:
 
 ```{r heart, comment=NA}
-heart <- read.csv("D:\\Important Documents\\GSSoC'23\\heart.csv")
+heart <- read.csv("heart.csv")
 names(heart)
 dim(heart)
 summary(heart)
