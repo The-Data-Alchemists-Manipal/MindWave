@@ -22,6 +22,8 @@
 - <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">ANN - Music genre classification</a>
 
 - <a href="https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset">ANN - Movie recommendation</a>
+
+- <a href="https://www.kaggle.com/datasets/gpiosenka/100-bird-species">ANN - Birds classification</a>
 ## Implementation Ideas
   
 - LeNet
