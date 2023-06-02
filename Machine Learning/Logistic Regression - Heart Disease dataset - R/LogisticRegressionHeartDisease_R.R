@@ -1,4 +1,4 @@
-heart <- read.csv("D:\\Important Documents\\GSSoC'23\\heart.csv")
+heart <- read.csv("heart.csv")
 summary(heart)
 
 heart$sex <- as.factor(heart$sex)
