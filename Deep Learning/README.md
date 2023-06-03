@@ -24,6 +24,8 @@
 - <a href="https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset">ANN - Movie recommendation</a>
 
 - <a href="https://www.kaggle.com/datasets/gpiosenka/100-bird-species">ANN - Birds classification</a>
+
+- <a href="https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images">ANN - Pneumonia detection</a>
 ## Implementation Ideas
   
 - LeNet
