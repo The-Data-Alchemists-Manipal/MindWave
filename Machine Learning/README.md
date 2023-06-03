@@ -37,7 +37,6 @@
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
 - [Parkinsons disease prediction model](https://github.com/tushtithakur/MindWave/tree/main/Machine%20Learning/Parkinsons%20disease%20prediction%20model)
-- [Object Prediction Model](https://github.com/tushtithakur/MindWave/tree/main/Machine%20Learning/Object%20Prediction%20Model)
 
 ## Implementation Ideas
   
