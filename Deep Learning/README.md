@@ -26,6 +26,8 @@
 - <a href="https://www.kaggle.com/datasets/gpiosenka/100-bird-species">ANN - Birds classification</a>
 
 - <a href="https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images">ANN - Pneumonia detection</a>
+
+- <a href="https://www.kaggle.com/datasets/paultimothymooney/blood-cells">ANN - Blood cell classification</a>
 ## Implementation Ideas
   
 - LeNet
