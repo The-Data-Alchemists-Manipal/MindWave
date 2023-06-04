@@ -19,3 +19,4 @@
 - DBSCAN
 - Recommendation System
 - Big data analysis
+- EDA Analysis
