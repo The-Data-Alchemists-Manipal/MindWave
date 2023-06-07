@@ -28,6 +28,8 @@
 - <a href="https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images">ANN - Pneumonia detection</a>
 
 - <a href="https://www.kaggle.com/datasets/paultimothymooney/blood-cells">ANN - Blood cell classification</a>
+
+- <a href="https://www.kaggle.com/datasets/mloey1/ahcd1">ANN - Arabic letters classification</a>
 ## Implementation Ideas
   
 - LeNet
