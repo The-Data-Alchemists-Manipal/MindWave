@@ -37,6 +37,7 @@
 
  - [Linear Regression - Kolkata House Price Dataset](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
 
+- [Passive Agressive Classifier](https://github.com/Mansi168/MindWave-gssoc-23/blob/mansi168_2/Machine%20Learning/FakeNewDetection.ipynb)
 
 
 
@@ -51,3 +52,4 @@
   - XGBoost
   - AdaBoost
   - KNN
+  - Passive Agressive Classifier
