@@ -1,4 +1,4 @@
-# Time Series 
+# Time Series Forecasting
 
 ## Implemented Algorithms
 
