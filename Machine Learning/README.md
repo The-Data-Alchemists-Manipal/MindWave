@@ -37,6 +37,7 @@
 
  - [Linear Regression - Kolkata House Price Dataset](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
 
+- [Random forest and KNN Classifier - Bank Fraud Detection](https://github.com/mkswagger/MindWave/tree/main/Machine%20Learning/Randomforest_KNN_BankFraud_detection_model/algorithm_dataset)
 
 
 
