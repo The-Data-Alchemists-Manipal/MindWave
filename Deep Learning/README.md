@@ -14,6 +14,7 @@
 - <a href="https://github.com/Shashank1130/MindWave/blob/Loan-Repayment-System/Deep%20Learning/ANN_Loan_Repayment_System.ipynb"> ANN - Loan repayment System </a>
 - <a href="https://github.com/ranodeepbanerjee/MindWave/blob/main/Deep%20Learning/CNN-Image_Based_Species_Recognition.ipynb"> CNN - Image Based Species Recognition
 - <a href="https://github.com/YB73/MindWave/blob/YB73-IEEECISFRAUD/Deep%20Learning/CNN_IEEECISFRAUD.ipynb">CNN - IEEECISFraudDetection</a>
+- <a href="https://github.com/Rushi7667/MindWave/blob/main/Deep%20Learning/CNN_Natural_Scenes_Image_Classification.ipynb">CNN - Natural Scenes Image Classification </a>
 
 
 
@@ -30,4 +31,3 @@
 - Bidirectional RNN
 - ResNet50
 - VGG16
-
