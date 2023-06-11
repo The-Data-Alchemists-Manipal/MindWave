@@ -39,6 +39,9 @@
 
 - [Passive Agressive Classifier - Fake News Detection](https://github.com/Mansi168/MindWave-gssoc-23/blob/mansi168_2/Machine%20Learning/FakeNewDetection.ipynb)
 
+- [Linear Regression - California Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/california/Machine%20Learning/Linear%20Regression%20-%20California%20Dataset)
+
+
 
 
 ## Implementation Ideas
