@@ -19,8 +19,6 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
-
-  RandomForest-SmokerUK
 - <a href='https://github.com/pgs17/MindWave-GSSOC-/blob/RandomForest-SmokerUK/Machine%20Learning/RandomForest_Smoker_UK.ipynb'>Random_Forest_Classifier-SmokerUK</a>
  
  main
