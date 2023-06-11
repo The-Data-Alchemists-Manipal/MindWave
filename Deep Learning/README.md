@@ -45,7 +45,7 @@
 
 - <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">ANN - Music genre classification</a>
 
-- <a href="https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset">ANN - Movie recommendation</a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/Netflix_Movie_recommendation_%2347/Deep%20Learning/movie_recommendation/model-algrotihm.ipynb">ANN -Netflix Movie recommendation</a>
 ## Implementation Ideas
   
 - LeNet
