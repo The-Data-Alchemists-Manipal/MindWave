@@ -46,8 +46,12 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+
+- [Parkinsons disease prediction model](https://github.com/tushtithakur/MindWave/tree/main/Machine%20Learning/Parkinsons%20disease%20prediction%20model)
+
 - [SVM-Parkinsons disease prediction model](https://github.com/tushtithakur/MindWave/tree/main/Machine%20Learning/Parkinsons%20disease%20prediction%20model)
 - [Logistic Regression - Object Prediction Model](https://github.com/tushtithakur/MindWave/tree/object-prediction/Machine%20Learning/Object%20Prediction%20Model)
+
 - [KNN and Randorm Forest - News Category Detection](https://www.kaggle.com/datasets/rmisra/news-category-dataset/code)
 
 - [SVM classification - Thyroid disease classification](https://www.kaggle.com/datasets/emmanuelfwerr/thyroid-disease-data)
@@ -65,6 +69,7 @@
  - [Linear Regression - Kolkata House Price Dataset](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
 
 
+
 ## Datasets
 
 - [Effective Targeting of Advertisments](https://www.kaggle.com/datasets/hiimanshuagarwal/advertising-ef)
@@ -80,7 +85,6 @@
 - [AdaBoost_CERN Electron Collision](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
-
 
 
 ## Implementation Ideas
