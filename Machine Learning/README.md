@@ -21,8 +21,12 @@
 - [Naive Bayes - Kaggle Spam Dataset](https://github.com/PraNavKumAr01/MindWave/blob/main/Machine%20Learning/NaiveBayes%20-%20SpamDataset/MultinomialNaiveBayes_Spam.ipynb)
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
+- [Logistic Regression - Effective Targeting of Advertisments](./Effective%20Targeting%20of%20Advertisments/)
+
 - [Support Vector Machine - Breast Cancer Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/Breast%20Cancer%20Prediction.ipynb)
+
 - [Logistic Regression - Titanic Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/titanic---logistic/Machine%20Learning/Logistic%20Regression%20-%20Titanic%20Dataset)
+
 - [Linear Regression - California Dataset - R](https://github.com/itsdebartha/MindWave/tree/9f4900d287096e4a930f110d2d79dbed159b2251/Machine%20Learning/Linear%20Regression%20-%20California%20dataset%20-%20R)
 
 
@@ -42,8 +46,12 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+
 - [Parkinsons disease prediction model](https://github.com/tushtithakur/MindWave/tree/main/Machine%20Learning/Parkinsons%20disease%20prediction%20model)
-=======
+
+- [SVM-Parkinsons disease prediction model](https://github.com/tushtithakur/MindWave/tree/main/Machine%20Learning/Parkinsons%20disease%20prediction%20model)
+- [Logistic Regression - Object Prediction Model](https://github.com/tushtithakur/MindWave/tree/object-prediction/Machine%20Learning/Object%20Prediction%20Model)
+
 - [KNN and Randorm Forest - News Category Detection](https://www.kaggle.com/datasets/rmisra/news-category-dataset/code)
 
 - [SVM classification - Thyroid disease classification](https://www.kaggle.com/datasets/emmanuelfwerr/thyroid-disease-data)
@@ -61,6 +69,24 @@
  - [Linear Regression - Kolkata House Price Dataset](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
 
 
+
+## Datasets
+
+- [Effective Targeting of Advertisments](https://www.kaggle.com/datasets/hiimanshuagarwal/advertising-ef)
+
+- [Passive Agressive Classifier - Fake News Detection](https://github.com/Mansi168/MindWave-gssoc-23/blob/mansi168_2/Machine%20Learning/FakeNewDetection.ipynb)
+
+- [Linear Regression - California Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/california/Machine%20Learning/Linear%20Regression%20-%20California%20Dataset)
+ 
+- [AdaBoost_CERN Electron Collision](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
+
+- [Linear Regression - California Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/california/Machine%20Learning/Linear%20Regression%20-%20California%20Dataset)
+ 
+- [AdaBoost_CERN Electron Collision](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
+
+- [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
+
+
 ## Implementation Ideas
   - Linear Regression
   - Logistic Regression
@@ -72,3 +98,4 @@
   - XGBoost
   - AdaBoost
   - KNN
+  - Passive Agressive Classifier
