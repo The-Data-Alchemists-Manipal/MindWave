@@ -46,4 +46,3 @@
 - Bidirectional RNN
 - ResNet50
 - VGG16
-
