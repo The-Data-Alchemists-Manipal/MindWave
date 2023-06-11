@@ -36,6 +36,7 @@
 - <a href = "https://github.com/ArunMaramraj/MindWave/blob/main/Deep%20Learning/CNN_Potato-Disease-Detection.ipynb" > CNN - Disease Detection in Potato Leaves </a>
 - <a href="https://github.com/mahesh-11102/MindWave/blob/Search-Bot/Deep%20Learning/Search%20Bot/Search_Bot.ipynb"> RNN - Result Sumamrizer </a>
 
+
 ## Implementation Ideas
   
 - LeNet
@@ -47,3 +48,5 @@
 - LSTM
 - GRU
 - Bidirectional RNN
+- ResNet50
+- VGG16
