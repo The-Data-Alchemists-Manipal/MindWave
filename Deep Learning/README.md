@@ -25,7 +25,7 @@
 
 - <a href="https://www.kaggle.com/datasets/gpiosenka/100-bird-species">ANN - Birds classification</a>
 
-- <a href="https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images">ANN - Pneumonia detection</a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/pneumonia_detection_%23167/Deep%20Learning/Pneumonia%20detection/model-algorithm.ipynb">ANN - Pneumonia detection</a>
 ## Implementation Ideas
   
 - LeNet
