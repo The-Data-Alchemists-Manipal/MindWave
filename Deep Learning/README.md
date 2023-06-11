@@ -8,7 +8,7 @@
 
 - <a href=" https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates"> World air quality classification </a>
 
-- <a href=" -https://www.kaggle.com/datasets/bongsang/eye-disease-deep-learning-dataset"> Eye disease classification(flaky corneal ulcers) </a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/Eye_disease_classification_using_ANN_%23169/Deep%20Learning/Eye%20disease%20classification/model-dataset/model-algorithm.ipynb"> ANN- Eye disease classification(flaky corneal ulcers) </a>
 
 ## Implementation Ideas
   
