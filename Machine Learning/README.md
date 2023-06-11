@@ -83,6 +83,8 @@
  - [Logistic Regression - Crop Recommendation Dataset](https://github.com/Shubhamkumar-op/MindWave/tree/main/Machine%20Learning/Logistic_regression_crop_recommendation)
  - [Random Forest - Crop Recommendation Dataset](https://github.com/Shubhamkumar-op/MindWave/tree/main/Machine%20Learning/Random_Forest_crop_recommendation)
 
+- [Logistic Regression - Heart Disease Dataset - R](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Heart%20Disease%20dataset%20-%20R)
+
 
 
 ## Datasets
@@ -100,6 +102,7 @@
 - [AdaBoost_CERN Electron Collision](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
+
 
 
 
