@@ -30,7 +30,7 @@
 - <a href="https://www.kaggle.com/datasets/paultimothymooney/blood-cells">ANN - Blood cell classification</a>
 - <a href="https://www.kaggle.com/datasets/mloey1/ahcd1">ANN - Arabic letters classification</a>
 - <a href="https://www.kaggle.com/datasets/anshulmehtakaggl/chess-pieces-detection-images-dataset"> ANN - Chess piece detection </a>
-
+- <a href = "https://github.com/ArunMaramraj/MindWave/blob/main/Deep%20Learning/CNN_Potato-Disease-Detection.ipynb" > CNN - Disease Detection in Potato Leaves </a>
 
 
 ## Implementation Ideas
