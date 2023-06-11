@@ -2,6 +2,11 @@
 
 ## Implemented Algorithms
 
+ - [Logistic Regression - Credit Card Fraud Detection](https://github.com/dibyarupnath/MindWave/tree/logistic-ccfraud/Machine%20Learning/Logistic%20Regression%20-%20Credit%20Card%20Fraud%20Detection)
+
+ - [Linear Regression - Kolkata House Price Prediction](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
+
+
 - [LeNet - MNIST Dataset](https://github.com/dibyarupnath/MindWave/tree/lenet-mnist/Machine%20Learning/LeNet%20-%20MNIST%20Dataset)
 
 
@@ -25,6 +30,7 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 - [Logistic Regression - Effective Targeting of Advertisments](./Effective%20Targeting%20of%20Advertisments/)
+
 
 
 - [Support Vector Machine - Breast Cancer Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/Breast%20Cancer%20Prediction.ipynb)
@@ -92,6 +98,7 @@
 - [AdaBoost_CERN Electron Collision](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
+
 
 
 ## Implementation Ideas
