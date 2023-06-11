@@ -25,7 +25,7 @@
 - <a href="https://github.com/Shreyg-27/MindWave/blob/main/Deep%20Learning/CNN_Animal_Species_Classification.ipynb">CNN - Animal Species Classification</a>
 - <a href="https://github.com/nk-droid/MindWave/blob/nk-droid-PIIDoc/Deep%20Learning/CNN_PIIDoc.ipynb"> CNN - PII Documents Classification </a>
 - <a href="https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/code">CNN - Tomato Leaf Disease Detection</a>
-- <a href="https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset">CNN - Monkey pox  Disease Detection</a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/MonkeyPox_skin_lesion_prediction_%23225/Deep%20Learning/MonkeyPox%20skin%20lesion%20disease%20prediction%20/CNN-Monkeypox_disease_detection.ipynb">CNN - Monkey pox  Disease Detection</a>
 - <a href="https://github.com/Mansi168/MindWave-gssoc-23/blob/mansi168/Deep%20Learning/CNN_MalariaDetection.ipynb">CNN - Malaria Detection</a>
 - <a href="https://github.com/Rushi7667/MindWave/blob/main/Deep%20Learning/CNN_Natural_Scenes_Image_Classification.ipynb">CNN - Natural Scenes Image Classification </a>
 - <a href="https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning">CNN - WCE curated colon disease</a>
