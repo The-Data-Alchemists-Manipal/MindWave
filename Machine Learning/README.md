@@ -39,6 +39,9 @@
 
 - [Random forest and KNN Classifier - Bank Fraud Detection](https://github.com/mkswagger/MindWave/tree/main/Machine%20Learning/Randomforest_KNN_BankFraud_detection_model/algorithm_dataset)
 
+- [Passive Agressive Classifier - Fake News Detection](https://github.com/Mansi168/MindWave-gssoc-23/blob/mansi168_2/Machine%20Learning/FakeNewDetection.ipynb)
+
+
 
 
 ## Implementation Ideas
@@ -52,3 +55,4 @@
   - XGBoost
   - AdaBoost
   - KNN
+  - Passive Agressive Classifier
