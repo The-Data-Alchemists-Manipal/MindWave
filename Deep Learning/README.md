@@ -20,7 +20,7 @@
 - <a href="https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/code">CNN - Tomato Leaf Disease Detection</a>
 - <a href="https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset">CNN - Monkey pox  Disease Detection</a>
 
-- <a href="https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning">CNN - WCE curated colon disease</a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/WCE_Curated_Colon_Disease_classification_%23168/Deep%20Learning/WCE%20Curated%20Colon%20Disease%20classification/model.algorithm.ipynb">CNN - WCE curated colon disease</a>
 - <a href="https://github.com/okaditya84/MindWave/blob/main/Deep%20Learning/Profanity_checker.ipynb">NLP - Profanity Checker</a>
 - <a href="https://github.com/Nandini-singh05/MindWave/blob/main/Deep%20Learning/CNN_SiameseNetwork_LFW.ipynb">CNN-SiameseNetwork-LFW</a>
 - <a href="https://github.com/NisargPipaliya/GSSOC_MindWave/blob/main/Deep%20Learning/LSTM_NEXT_WORD_PREDICTION/LSTM_NEXT_WORD_PREDICTION_final.ipynb"> LSTM - Next Word Prediction </a>
