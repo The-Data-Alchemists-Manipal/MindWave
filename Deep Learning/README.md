@@ -16,6 +16,7 @@
 - <a href="https://github.com/Shashank1130/MindWave/blob/Loan-Repayment-System/Deep%20Learning/ANN_Loan_Repayment_System.ipynb"> ANN - Loan repayment System </a>
 - <a href="https://github.com/ranodeepbanerjee/MindWave/blob/main/Deep%20Learning/CNN-Image_Based_Species_Recognition.ipynb"> CNN - Image Based Species Recognition
 - <a href="https://github.com/YB73/MindWave/blob/YB73-IEEECISFRAUD/Deep%20Learning/CNN_IEEECISFRAUD.ipynb">CNN - IEEECISFraudDetection</a>
+- <a href="https://github.com/okaditya84/MindWave/blob/main/Deep%20Learning/Profanity_checker.ipynb">NLP - Profanity Checker</a>
 - <a href="https://github.com/Nandini-singh05/MindWave/blob/main/Deep%20Learning/CNN_SiameseNetwork_LFW.ipynb">CNN-SiameseNetwork-LFW</a>
 - <a href="https://github.com/NisargPipaliya/GSSOC_MindWave/blob/main/Deep%20Learning/LSTM_NEXT_WORD_PREDICTION/LSTM_NEXT_WORD_PREDICTION_final.ipynb"> LSTM - Next Word Prediction </a>
 - <a href="https://github.com/Shreyg-27/MindWave/blob/main/Deep%20Learning/CNN_Animal_Species_Classification.ipynb">CNN - Animal Species Classification</a>
@@ -33,6 +34,7 @@
 - <a href="https://www.kaggle.com/datasets/mloey1/ahcd1">ANN - Arabic letters classification</a>
 - <a href="https://www.kaggle.com/datasets/anshulmehtakaggl/chess-pieces-detection-images-dataset"> ANN - Chess piece detection </a>
 - <a href = "https://github.com/ArunMaramraj/MindWave/blob/main/Deep%20Learning/CNN_Potato-Disease-Detection.ipynb" > CNN - Disease Detection in Potato Leaves </a>
+
 
 
 ## Implementation Ideas
