@@ -58,11 +58,13 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+- [Logistic Regression_Scikit-Learn Breast Cancer Dataset](https://github.com/adityabachu/MindWave/blob/main/Machine%20Learning/Logistic%20Regression_Scikit-Learn%20Breast%20Cancer%20Prediction/Logistic%20Regression_Scikit-Learn%20Breast%20Cancer%20Dataset.ipynb)
 
 - [Parkinsons disease prediction model](https://github.com/tushtithakur/MindWave/tree/main/Machine%20Learning/Parkinsons%20disease%20prediction%20model)
 
 - [SVM-Parkinsons disease prediction model](https://github.com/tushtithakur/MindWave/tree/main/Machine%20Learning/Parkinsons%20disease%20prediction%20model)
 - [Logistic Regression - Object Prediction Model](https://github.com/tushtithakur/MindWave/tree/object-prediction/Machine%20Learning/Object%20Prediction%20Model)
+
 
 - [KNN and Randorm Forest - News Category Detection](https://www.kaggle.com/datasets/rmisra/news-category-dataset/code)
 
@@ -103,7 +105,6 @@
 - [AdaBoost_CERN Electron Collision](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
-
 
 ## Implementation Ideas
   - Linear Regression
