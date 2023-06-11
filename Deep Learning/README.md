@@ -14,7 +14,7 @@
 - <a href="https://github.com/Shashank1130/MindWave/blob/Loan-Repayment-System/Deep%20Learning/ANN_Loan_Repayment_System.ipynb"> ANN - Loan repayment System </a>
 - <a href="https://github.com/ranodeepbanerjee/MindWave/blob/main/Deep%20Learning/CNN-Image_Based_Species_Recognition.ipynb"> CNN - Image Based Species Recognition
 - <a href="https://github.com/YB73/MindWave/blob/YB73-IEEECISFRAUD/Deep%20Learning/CNN_IEEECISFRAUD.ipynb">CNN - IEEECISFraudDetection</a>
-- <a href="https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/code">CNN - Tomato Leaf Disease Detection</a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/Tomato_Leaf_Disease_Detection_by_using_CNN_%2398/Deep%20Learning/Tomato%20Leaf%20Disease%20Detection/CNN_Tomato_Leaf_Disease_Detection.ipynb">CNN - Tomato Leaf Disease Detection</a>
 
 
 ## Implementation Ideas
