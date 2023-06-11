@@ -43,7 +43,7 @@
 
 - <a href="https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset">ANN - Movie recommendation</a>
 
-- <a href="https://www.kaggle.com/datasets/gpiosenka/100-bird-species">ANN - Birds classification</a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/birds_classification_%23115/Deep%20Learning/Birds%20classification/model-algorithm.ipynb">ANN - Birds classification</a>
 ## Implementation Ideas
   
 - LeNet
