@@ -37,6 +37,8 @@
 
 - [Logistic Regression - Titanic Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/titanic---logistic/Machine%20Learning/Logistic%20Regression%20-%20Titanic%20Dataset)
 
+- [Linear Regression - Salary Prediction](https://github.com/Soumya-Kushwaha/MindWave/tree/salary/Machine%20Learning/Linear%20Regression%20-%20Salary%20Prediction)
+
 - [Linear Regression - California Dataset - R](https://github.com/itsdebartha/MindWave/tree/9f4900d287096e4a930f110d2d79dbed159b2251/Machine%20Learning/Linear%20Regression%20-%20California%20dataset%20-%20R)
 
 
