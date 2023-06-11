@@ -43,7 +43,7 @@
 - <a href="https://github.com/mahesh-11102/MindWave/blob/Search-Bot/Deep%20Learning/Search%20Bot/Search_Bot.ipynb"> RNN - Result Sumamrizer </a>
 
 
-- <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">ANN - Music genre classification</a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/Music_genre_classification_%2345/Deep%20Learning/Music_genre_classification/model-algorithm.ipynb">ANN - Music genre classification</a>
 ## Implementation Ideas
   
 - LeNet
