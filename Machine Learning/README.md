@@ -45,6 +45,7 @@
 
 
 
+
 ## Implementation Ideas
   - Linear Regression
   - Logistic Regression
@@ -56,3 +57,4 @@
   - XGBoost
   - AdaBoost
   - KNN
+  - Passive Agressive Classifier
