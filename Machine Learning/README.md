@@ -55,3 +55,4 @@
   - XGBoost
   - AdaBoost
   - KNN
+  - Passive Agressive Classifier
