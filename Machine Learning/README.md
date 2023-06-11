@@ -40,6 +40,8 @@
 - [Passive Agressive Classifier - Fake News Detection](https://github.com/Mansi168/MindWave-gssoc-23/blob/mansi168_2/Machine%20Learning/FakeNewDetection.ipynb)
 
 - [Linear Regression - California Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/california/Machine%20Learning/Linear%20Regression%20-%20California%20Dataset)
+ 
+- [AdaBoost_CERN Electron Collision](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
 
 
