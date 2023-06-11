@@ -43,6 +43,10 @@
  
 - [AdaBoost_CERN Electron Collision](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
+- [Linear Regression - California Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/california/Machine%20Learning/Linear%20Regression%20-%20California%20Dataset)
+ 
+- [AdaBoost_CERN Electron Collision](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
+
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
 
 
@@ -57,3 +61,4 @@
   - XGBoost
   - AdaBoost
   - KNN
+  - Passive Agressive Classifier
