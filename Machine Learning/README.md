@@ -68,6 +68,9 @@
 
  - [Linear Regression - Kolkata House Price Dataset](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
 
+ - [Logistic Regression - Crop Recommendation Dataset](https://github.com/Shubhamkumar-op/MindWave/tree/main/Machine%20Learning/Logistic_regression_crop_recommendation)
+ - [Random Forest - Crop Recommendation Dataset](https://github.com/Shubhamkumar-op/MindWave/tree/main/Machine%20Learning/Random_Forest_crop_recommendation)
+
 
 
 ## Datasets
