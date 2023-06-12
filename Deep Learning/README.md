@@ -5,6 +5,9 @@
 - <a href="https://github.com/YB73/MindWave/blob/YB73-ExoplanetDetection/Deep%20Learning/MLDL_ExoplanetDetection.ipynb"> CNN - Exoplanet Detection </a>
 - <a href="https://github.com/YB73/MindWave/blob/YB73-BreastCancer/Deep%20Learning/ANN_BreastCancer.ipynb"> ANN - Breast Cancer </a>
 - <a href="https://github.com/okaditya84/MindWave/blob/main/Deep%20Learning/RNN_word2vec.ipynb"> RNN - Sentiment Analyzer </a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/ECG_Heartbeat_Categorization_%23224/Deep%20Learning/ECG%20Categorization/model-algorithm.ipynb"> CNN - ECG categorization </a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/Brain_Tumor_classification_%23114/Deep%20Learning/Brain_Tumor_classification/Model-dataset/model_algorithm.ipynb
+"> ANN -Brain tumor classification </a>
 - <a herf="https://github.com/NisargPipaliya/GSSOC_MindWave/blob/main/Deep%20Learning/ANN_Telco_Customer_Churn.ipynb">ANN - Telco Customer Churn</a>
 - <a href="https://github.com/nk-droid/MindWave/blob/nk-droid-RetinaDamage/Deep%20Learning/CNN_RetinaDamage.ipynb"> CNN - Retina Damage Detection </a>
 - <a href="https://github.com/YB73/MindWave/blob/nk-droid-RetinaDamage/Deep%20Learning/CNN_RetinaDamage.ipynb"> CNN - Retina Damage Detection </a>
@@ -36,7 +39,6 @@
 - <a href = "https://github.com/ArunMaramraj/MindWave/blob/main/Deep%20Learning/CNN_Potato-Disease-Detection.ipynb" > CNN - Disease Detection in Potato Leaves </a>
 - <a href="https://github.com/mahesh-11102/MindWave/blob/Search-Bot/Deep%20Learning/Search%20Bot/Search_Bot.ipynb"> RNN - Result Sumamrizer </a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/ECG_Heartbeat_Categorization_%23224/Deep%20Learning/ECG%20Categorization/model-algorithm.ipynb"> CNN - ECG categorization </a>
-
 
 ## Implementation Ideas
   
