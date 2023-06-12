@@ -22,13 +22,16 @@
 - <a href="https://github.com/Shashank1130/MindWave/blob/Loan-Repayment-System/Deep%20Learning/ANN_Loan_Repayment_System.ipynb"> ANN - Loan repayment System </a>
 - <a href="https://github.com/ranodeepbanerjee/MindWave/blob/main/Deep%20Learning/CNN-Image_Based_Species_Recognition.ipynb"> CNN - Image Based Species Recognition
 - <a href="https://github.com/YB73/MindWave/blob/YB73-IEEECISFRAUD/Deep%20Learning/CNN_IEEECISFRAUD.ipynb">CNN - IEEECISFraudDetection</a>
+
+- <a href="https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/code">CNN - Tomato Leaf Disease Detection</a>
+
 - <a href="https://github.com/okaditya84/MindWave/blob/main/Deep%20Learning/Profanity_checker.ipynb">NLP - Profanity Checker</a>
 - <a href="https://github.com/Nandini-singh05/MindWave/blob/main/Deep%20Learning/CNN_SiameseNetwork_LFW.ipynb">CNN-SiameseNetwork-LFW</a>
 - <a href="https://github.com/NisargPipaliya/GSSOC_MindWave/blob/main/Deep%20Learning/LSTM_NEXT_WORD_PREDICTION/LSTM_NEXT_WORD_PREDICTION_final.ipynb"> LSTM - Next Word Prediction </a>
 - <a href="https://github.com/Shreyg-27/MindWave/blob/main/Deep%20Learning/CNN_Animal_Species_Classification.ipynb">CNN - Animal Species Classification</a>
 - <a href="https://github.com/nk-droid/MindWave/blob/nk-droid-PIIDoc/Deep%20Learning/CNN_PIIDoc.ipynb"> CNN - PII Documents Classification </a>
 - <a href="https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/code">CNN - Tomato Leaf Disease Detection</a>
-- <a href="https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset">CNN - Monkey pox  Disease Detection</a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/MonkeyPox_skin_lesion_prediction_%23225/Deep%20Learning/MonkeyPox%20skin%20lesion%20disease%20prediction%20/CNN-Monkeypox_disease_detection.ipynb">CNN - Monkey pox  Disease Detection</a>
 - <a href="https://github.com/Mansi168/MindWave-gssoc-23/blob/mansi168/Deep%20Learning/CNN_MalariaDetection.ipynb">CNN - Malaria Detection</a>
 - <a href="https://github.com/Rushi7667/MindWave/blob/main/Deep%20Learning/CNN_Natural_Scenes_Image_Classification.ipynb">CNN - Natural Scenes Image Classification </a>
 - <a href="https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning">CNN - WCE curated colon disease</a>
