@@ -138,7 +138,7 @@
  - [Random Forest - Crop Recommendation Dataset](https://github.com/Shubhamkumar-op/MindWave/tree/main/Machine%20Learning/Random_Forest_crop_recommendation)
 
 - [Logistic Regression - Heart Disease Dataset - R](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Heart%20Disease%20dataset%20-%20R)
-
+- [DBSCAN - Mall Customer Dataset](https://github.com/NisargPipaliya/GSSOC_MindWave/tree/main/Machine%20Learning/DBSCAN%20-%20Mall%20Customer%20Dataset)
 
 
 ## Datasets
