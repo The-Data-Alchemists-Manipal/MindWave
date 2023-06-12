@@ -16,7 +16,7 @@
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb) 
 - [SVM classification - Twitter Sentiment Analysis for COVID]( https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates)
-- - [SVM classification- World air quality classification]( https://github.com/lcs2022026/MindWave_fork/blob/world_air_class_classification_%23111/Machine%20Learning/World%20Air%20quality%20classification/Algorithm-dataset/model-algorithm.ipynb)
+- [SVM classification- World air quality classification]( https://github.com/lcs2022026/MindWave_fork/blob/world_air_class_classification_%23111/Machine%20Learning/World%20Air%20quality%20classification/Algorithm-dataset/model-algorithm.ipynb)
 
 
 ## Implementation Ideas
