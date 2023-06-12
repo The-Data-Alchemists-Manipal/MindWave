@@ -44,6 +44,7 @@
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/ECG_Heartbeat_Categorization_%23224/Deep%20Learning/ECG%20Categorization/model-algorithm.ipynb"> CNN - ECG categorization </a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/Tomato_Leaf_Disease_Detection_by_using_CNN_%2398/Deep%20Learning/Tomato%20Leaf%20Disease%20Detection/CNN_Tomato_Leaf_Disease_Detection.ipynb">CNN - Tomato Leaf Disease Detection</a>
 
+
 ## Implementation Ideas
   
 - LeNet
