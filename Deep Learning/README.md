@@ -36,7 +36,7 @@
 - <a href="https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset">ANN - Movie recommendation</a>
 - <a href="https://www.kaggle.com/datasets/gpiosenka/100-bird-species">ANN - Birds classification</a>
 - <a href="https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images">ANN - Pneumonia detection</a>
-- <a href="https://www.kaggle.com/datasets/paultimothymooney/blood-cells">ANN - Blood cell classification</a>
+
 - <a href="https://www.kaggle.com/datasets/mloey1/ahcd1">ANN - Arabic letters classification</a>
 - <a href="https://www.kaggle.com/datasets/anshulmehtakaggl/chess-pieces-detection-images-dataset"> ANN - Chess piece detection </a>
 - <a href = "https://github.com/ArunMaramraj/MindWave/blob/main/Deep%20Learning/CNN_Potato-Disease-Detection.ipynb" > CNN - Disease Detection in Potato Leaves </a>
