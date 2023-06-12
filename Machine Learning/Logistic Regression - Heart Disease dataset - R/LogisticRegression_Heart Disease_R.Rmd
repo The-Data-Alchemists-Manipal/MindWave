@@ -1,0 +1,116 @@
+---
+title: "Logistic Regression - Heart Disease"
+author: "Debartha Paul"
+date: "2023-05-23"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Logistic Regression - Heart Disease
+
+We'll be doing a Logistic Regression for the Heart Disease Dataset available at [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
+
+
+## Loading and cleaning data
+
+We first load the dataset:
+
+```{r heart, comment=NA}
+heart <- read.csv("heart.csv")
+names(heart)
+dim(heart)
+summary(heart)
+```
+
+We then convert to factors some of the predictors:
+
+```{r factors, comment=NA}
+heart$sex <- as.factor(heart$sex)
+heart$cp <- as.factor(heart$cp)
+heart$restecg <- as.factor(heart$restecg)
+heart$fbs <- as.factor(heart$fbs)
+heart$exang <- as.factor(heart$exang)
+heart$slope <- as.factor(heart$slope)
+heart$ca <- as.factor(heart$ca)
+heart$thal <- as.factor(heart$thal)
+summary(heart)
+```
+
+## Building the model
+
+We first break the data into training and test sets:
+
+```{r sets, comment=NA}
+set.seed(2023)
+x <- sample(1:nrow(heart), 0.8 * nrow(heart))
+train <- heart[x,]
+test <- heart[-x,]
+```
+
+Then we fit the model for logistic regression:
+
+```{r logistic, comment=NA}
+model <- glm(target~., data=train, family=binomial)
+summary(model)
+```
+
+What we actually do in the logistic regression is fit a model of the form
+$$
+\log\frac{\pi}{1-\pi}=\beta_0+\beta_1x_1+\cdots+\beta_px_p
+$$
+where $\pi$ is the probability of success (in this case, the probability of
+getting a heart disease)
+
+## Prediction
+
+We make use of the test set to predict the probability of getting a heart
+disease on an average:
+
+```{r prediction, comment=NA}
+pred <- predict(model, newdata=test, type="response")
+head(pred)
+```
+
+## Tests of accuracy
+
+Finally, we test for the accuracy of our prediction. We test for the hypothesis:
+$$H_{0}	:\text{fitted model is as good as the null model vs.}\\
+H_{1}	:\text{fitted model is better than the null model}
+$$
+The test statistic for our test is as follows:
+$$
+\text{Null deviance}-\text{Residual deviance}\overset{\text{asymptotically}}{\underset{H_{0}}{\sim}}\chi_{4}^{2}
+$$
+We find the p-value of this test and find it as:
+
+```{r test, comment=NA}
+pchisq(model$null.deviance - model$deviance,
+	model$df.null - model$df.residual,
+	lower.tail=FALSE)
+```
+
+We note that the p-value of this test is $<0.05$. Hence we may reject the null
+hypothesis and conclude that our fitted model is better than the null model.
+
+## ROC Curve and AUC
+
+We'll use the `pROC` package in R for the plots:
+
+```{r ROC, echo=FALSE, comment=NA}
+library(pROC)
+plot(roc(test$target, pred))
+```
+
+We finally find the AUC and note that:
+```{r AUC, comment=NA}
+auc(roc(test$target, pred))
+```
+
+An AUC value of $1$ implies an ideal case of perfect presiction whereas a value
+of 0.5 defaults down to a random prediction. As our value is very close to 1, we
+say that the model prediction is very good.
