@@ -13,13 +13,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-get_ipython().run_line_magic('matplotlib', 'inline')
+get_ipython().run_line_magic("matplotlib", "inline")
 
 
 # In[2]:
 
 
-df = pd.read_csv('trainfile.csv')
+df = pd.read_csv("trainfile.csv")
 
 
 # In[3]:
@@ -75,13 +75,13 @@ salary.columns
 # In[11]:
 
 
-salary = salary.dropna(subset=['HireDate'])
+salary = salary.dropna(subset=["HireDate"])
 
 
 # In[12]:
 
 
-salary = salary.drop('GrossPay', axis=1)
+salary = salary.drop("GrossPay", axis=1)
 
 
 # In[13]:
@@ -105,7 +105,7 @@ salary.head()
 # In[16]:
 
 
-salary['AnnualSalary'] = salary['AnnualSalary'].apply(lambda x: float(str(x)[1:]))
+salary["AnnualSalary"] = salary["AnnualSalary"].apply(lambda x: float(str(x)[1:]))
 
 
 # In[17]:
@@ -117,19 +117,19 @@ salary.head()
 # In[18]:
 
 
-salary['Day'] = pd.DatetimeIndex(salary['HireDate']).day
+salary["Day"] = pd.DatetimeIndex(salary["HireDate"]).day
 
 
 # In[19]:
 
 
-salary['Month'] = pd.DatetimeIndex(salary['HireDate']).month
+salary["Month"] = pd.DatetimeIndex(salary["HireDate"]).month
 
 
 # In[20]:
 
 
-salary['Year'] = pd.DatetimeIndex(salary['HireDate']).year
+salary["Year"] = pd.DatetimeIndex(salary["HireDate"]).year
 
 
 # In[21]:
@@ -183,7 +183,7 @@ salary.AnnualSalary.describe()
 # In[29]:
 
 
-salary = salary[salary['AnnualSalary']<140000]
+salary = salary[salary["AnnualSalary"] < 140000]
 
 
 # In[30]:
@@ -198,13 +198,13 @@ salary.AnnualSalary.plot.box()
 
 
 sns.histplot(salary.AnnualSalary)
-plt.title('Annual Salary Distrbution')
+plt.title("Annual Salary Distrbution")
 
 
 # In[32]:
 
 
-salary.groupby(['JobTitle']).count()
+salary.groupby(["JobTitle"]).count()
 
 
 # **Top 10 jobs for being hired?**
@@ -212,11 +212,11 @@ salary.groupby(['JobTitle']).count()
 # In[33]:
 
 
-plt.figure(figsize = (10, 5))
+plt.figure(figsize=(10, 5))
 salary.JobTitle.value_counts().sort_values(ascending=False).head(10).plot.bar()
-plt.title('Top 10 Jobs')
-plt.xlabel('Jobs')
-plt.ylabel('Number of employees')
+plt.title("Top 10 Jobs")
+plt.xlabel("Jobs")
+plt.ylabel("Number of employees")
 plt.show()
 
 
@@ -226,10 +226,12 @@ plt.show()
 
 
 plt.figure(figsize=(10, 5))
-salary.groupby(['JobTitle'])['AnnualSalary'].mean().sort_values(ascending=False).head(10).plot.bar()
-plt.title('Top 10 Jobs with highest Salary')
-plt.xlabel('Jobs')
-plt.ylabel('Salary')
+salary.groupby(["JobTitle"])["AnnualSalary"].mean().sort_values(ascending=False).head(
+    10
+).plot.bar()
+plt.title("Top 10 Jobs with highest Salary")
+plt.xlabel("Jobs")
+plt.ylabel("Salary")
 plt.show()
 
 
@@ -244,13 +246,13 @@ mean_sal = salary.AnnualSalary.mean()
 # In[36]:
 
 
-x = salary.groupby(['JobTitle'])['AnnualSalary'].mean().reset_index()
+x = salary.groupby(["JobTitle"])["AnnualSalary"].mean().reset_index()
 
 
 # In[37]:
 
 
-x[x['AnnualSalary'] > mean_sal]['JobTitle'].count()
+x[x["AnnualSalary"] > mean_sal]["JobTitle"].count()
 
 
 # In[38]:
@@ -262,7 +264,7 @@ salary.shape
 # In[39]:
 
 
-salary['Agency'] = salary['Agency'].apply(lambda x : str(x).strip().replace("  "," "))
+salary["Agency"] = salary["Agency"].apply(lambda x: str(x).strip().replace("  ", " "))
 
 
 # **Top 10 agencies that have hired higher number of employees?**
@@ -270,11 +272,11 @@ salary['Agency'] = salary['Agency'].apply(lambda x : str(x).strip().replace("  "
 # In[40]:
 
 
-plt.figure(figsize = (10, 5))
+plt.figure(figsize=(10, 5))
 salary.AgencyID.value_counts().sort_values(ascending=False).head(10).plot.bar()
-plt.title('Top 10 agencies with more hiring')
-plt.xlabel('Agencies')
-plt.ylabel('Hired Employees')
+plt.title("Top 10 agencies with more hiring")
+plt.xlabel("Agencies")
+plt.ylabel("Hired Employees")
 plt.show()
 
 
@@ -283,11 +285,11 @@ plt.show()
 # In[41]:
 
 
-plt.figure(figsize = (10, 5))
+plt.figure(figsize=(10, 5))
 salary.AgencyID.value_counts().sort_values(ascending=False).head(10).plot.bar()
-plt.title('AgencyId & number of employees')
-plt.xlabel('AgencyId')
-plt.ylabel('Number of employees')
+plt.title("AgencyId & number of employees")
+plt.xlabel("AgencyId")
+plt.ylabel("Number of employees")
 plt.show()
 
 
@@ -296,8 +298,8 @@ plt.show()
 # In[42]:
 
 
-plt.figure(figsize = (10, 5))
-sns.lineplot(x = salary['Year'], y = salary['AnnualSalary'])
+plt.figure(figsize=(10, 5))
+sns.lineplot(x=salary["Year"], y=salary["AnnualSalary"])
 
 
 # **Latest Trend in Salary?**
@@ -305,8 +307,8 @@ sns.lineplot(x = salary['Year'], y = salary['AnnualSalary'])
 # In[43]:
 
 
-plt.figure(figsize = (10, 5))
-salary.groupby(['Year'])['AnnualSalary'].mean().tail(10).plot.bar()
+plt.figure(figsize=(10, 5))
+salary.groupby(["Year"])["AnnualSalary"].mean().tail(10).plot.bar()
 
 
 # **Months have any impact on Salary?**
@@ -314,8 +316,8 @@ salary.groupby(['Year'])['AnnualSalary'].mean().tail(10).plot.bar()
 # In[44]:
 
 
-plt.figure(figsize = (10, 5))
-salary.groupby(['Month'])['AnnualSalary'].mean().plot.bar()
+plt.figure(figsize=(10, 5))
+salary.groupby(["Month"])["AnnualSalary"].mean().plot.bar()
 
 
 # **Months with more hiring?**
@@ -323,7 +325,7 @@ salary.groupby(['Month'])['AnnualSalary'].mean().plot.bar()
 # In[45]:
 
 
-plt.figure(figsize = (10, 5))
+plt.figure(figsize=(10, 5))
 salary.Month.value_counts().plot.bar()
 
 
@@ -348,7 +350,7 @@ sns.heatmap(salary.corr(), annot=True)
 # In[48]:
 
 
-mean_sal = salary.groupby('JobTitle')['AnnualSalary'].mean()
+mean_sal = salary.groupby("JobTitle")["AnnualSalary"].mean()
 
 
 # In[49]:
@@ -360,7 +362,7 @@ mean_sal
 # In[50]:
 
 
-salary['Mean Salary'] = salary.JobTitle.map(mean_sal)
+salary["Mean Salary"] = salary.JobTitle.map(mean_sal)
 
 
 # In[51]:
@@ -374,7 +376,7 @@ salary.head()
 # In[52]:
 
 
-mean_agency_id = salary.groupby('AgencyID')['AnnualSalary'].mean()
+mean_agency_id = salary.groupby("AgencyID")["AnnualSalary"].mean()
 
 
 # In[53]:
@@ -386,7 +388,7 @@ mean_agency_id
 # In[54]:
 
 
-salary['Mean AgencyID'] = salary.AgencyID.map(mean_agency_id)
+salary["Mean AgencyID"] = salary.AgencyID.map(mean_agency_id)
 
 
 # In[55]:
@@ -400,7 +402,7 @@ salary.head()
 # In[56]:
 
 
-mean_agency = salary.groupby('Agency')['AnnualSalary'].mean()
+mean_agency = salary.groupby("Agency")["AnnualSalary"].mean()
 
 
 # In[57]:
@@ -412,7 +414,7 @@ mean_agency
 # In[58]:
 
 
-salary['Mean Agency'] = salary.Agency.map(mean_agency)
+salary["Mean Agency"] = salary.Agency.map(mean_agency)
 
 
 # In[59]:
@@ -424,7 +426,9 @@ salary.head()
 # In[60]:
 
 
-salary.drop(['Name', 'JobTitle', 'AgencyID', 'Agency', 'HireDate'], axis=1, inplace=True)
+salary.drop(
+    ["Name", "JobTitle", "AgencyID", "Agency", "HireDate"], axis=1, inplace=True
+)
 
 
 # In[61]:
@@ -444,8 +448,8 @@ from sklearn.model_selection import train_test_split
 # In[63]:
 
 
-features = salary.drop('AnnualSalary', axis=1)
-target = salary['AnnualSalary']
+features = salary.drop("AnnualSalary", axis=1)
+target = salary["AnnualSalary"]
 
 
 # ## Feature Scaling
@@ -483,7 +487,9 @@ scaled_features.head()
 # In[68]:
 
 
-X_train, X_test, Y_train, Y_test = train_test_split(scaled_features, target, test_size = 0.3, random_state = 101)
+X_train, X_test, Y_train, Y_test = train_test_split(
+    scaled_features, target, test_size=0.3, random_state=101
+)
 
 
 # In[69]:
@@ -549,7 +555,3 @@ linear.intercept_
 
 
 # In[ ]:
-
-
-
-
