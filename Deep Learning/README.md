@@ -5,9 +5,15 @@
 - <a href="https://github.com/YB73/MindWave/blob/YB73-ExoplanetDetection/Deep%20Learning/MLDL_ExoplanetDetection.ipynb"> CNN - Exoplanet Detection </a>
 - <a href="https://github.com/YB73/MindWave/blob/YB73-BreastCancer/Deep%20Learning/ANN_BreastCancer.ipynb"> ANN - Breast Cancer </a>
 - <a href="https://github.com/okaditya84/MindWave/blob/main/Deep%20Learning/RNN_word2vec.ipynb"> RNN - Sentiment Analyzer </a>
+- <a href=" https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates"> World air quality classification </a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/Eye_disease_classification_using_ANN_%23169/Deep%20Learning/Eye%20disease%20classification/model-dataset/model-algorithm.ipynb"> ANN- Eye disease classification(flaky corneal ulcers) </a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/ECG_Heartbeat_Categorization_%23224/Deep%20Learning/ECG%20Categorization/model-algorithm.ipynb"> CNN - ECG categorization </a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/Brain_Tumor_classification_%23114/Deep%20Learning/Brain_Tumor_classification/Model-dataset/model_algorithm.ipynb
+"> ANN -Brain tumor classification </a>
 - <a herf="https://github.com/NisargPipaliya/GSSOC_MindWave/blob/main/Deep%20Learning/ANN_Telco_Customer_Churn.ipynb">ANN - Telco Customer Churn</a>
 - <a href="https://github.com/nk-droid/MindWave/blob/nk-droid-RetinaDamage/Deep%20Learning/CNN_RetinaDamage.ipynb"> CNN - Retina Damage Detection </a>
 - <a href="https://github.com/YB73/MindWave/blob/nk-droid-RetinaDamage/Deep%20Learning/CNN_RetinaDamage.ipynb"> CNN - Retina Damage Detection </a>
+- <a href="https://github.com/kunal1383/MindWave/blob/main/Deep%20Learning/CNN-%20Image%20Classification%20using%20Dogs%20vs%20Cats%20Dataset.ipynb"> CNN - Image Classifcation </a>
 - <a href="https://github.com/YB73/MindWave/blob/YB73-IEEECISFRAUD/Deep%20Learning/CNN-Flickr8k.ipynb">CNN - Flickr8k (Image Caption Generator)</a>
 - <a href="https://github.com/aman-kumar29/MindWave/blob/faceemotion/Deep%20Learning/CNN_FER2013.ipynb"> CNN - FER2013 </a>
 - <a href="https://github.com/ayush-09/MindWave/blob/master/Deep%20Learning/CNN_AI_Image_Search.ipynb"> CNN - AI Image Search </a>
@@ -35,6 +41,9 @@
 - <a href="https://www.kaggle.com/datasets/anshulmehtakaggl/chess-pieces-detection-images-dataset"> ANN - Chess piece detection </a>
 - <a href = "https://github.com/ArunMaramraj/MindWave/blob/main/Deep%20Learning/CNN_Potato-Disease-Detection.ipynb" > CNN - Disease Detection in Potato Leaves </a>
 - <a href="https://github.com/mahesh-11102/MindWave/blob/Search-Bot/Deep%20Learning/Search%20Bot/Search_Bot.ipynb"> RNN - Result Sumamrizer </a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/ECG_Heartbeat_Categorization_%23224/Deep%20Learning/ECG%20Categorization/model-algorithm.ipynb"> CNN - ECG categorization </a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/Tomato_Leaf_Disease_Detection_by_using_CNN_%2398/Deep%20Learning/Tomato%20Leaf%20Disease%20Detection/CNN_Tomato_Leaf_Disease_Detection.ipynb">CNN - Tomato Leaf Disease Detection</a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/WCE_Curated_Colon_Disease_classification_%23168/Deep%20Learning/WCE%20Curated%20Colon%20Disease%20classification/model.algorithm.ipynb">CNN - WCE curated colon disease</a>
 
 
 ## Implementation Ideas
