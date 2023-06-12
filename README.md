@@ -43,6 +43,11 @@ Open Source has played a critical role in the growth and success of data science
 - The files should be uploaded directly into the corresponding folder (eg. Machine Learning, Deep Learning, etc.) and linked in the README.md file of the respective folder. Do not create new folders within the concept folders unless instructed to do so.
 - Please be courteous to the reviewers as they will always be polite to you.
 
+## Tech Stack Used
+![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
 ## Code of Conduct 
 
 You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
@@ -53,7 +58,8 @@ This project follows the [MIT License](/LICENSE).
 
 ## Contributors
 
-<a href="https://github.com/The-Data-Alchemists-Manipal/MindWave/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=The-Data-Alchemists-Manipal/MindWave" />
+<a href="https://github.com/the-data-alchemists-manipal/mindWave/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=the-data-alchemists-manipal/mindWave" />
 </a>
+
 <p align="right">(<a href="#top">Back to top</a>)</p>
