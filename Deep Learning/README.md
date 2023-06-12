@@ -32,7 +32,7 @@
 - <a href="https://github.com/Mansi168/MindWave-gssoc-23/blob/mansi168/Deep%20Learning/CNN_MalariaDetection.ipynb">CNN - Malaria Detection</a>
 - <a href="https://github.com/Rushi7667/MindWave/blob/main/Deep%20Learning/CNN_Natural_Scenes_Image_Classification.ipynb">CNN - Natural Scenes Image Classification </a>
 - <a href="https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning">CNN - WCE curated colon disease</a>
-- <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">ANN - Music genre classification</a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/Music_genre_classification_%2345/Deep%20Learning/Music_genre_classification/model-algorithm.ipynb">ANN - Music genre classification</a>
 - <a href="https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset">ANN - Movie recommendation</a>
 - <a href="https://www.kaggle.com/datasets/gpiosenka/100-bird-species">ANN - Birds classification</a>
 - <a href="https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images">ANN - Pneumonia detection</a>
