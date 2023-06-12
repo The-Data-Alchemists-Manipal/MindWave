@@ -22,6 +22,7 @@ The solution involves the following steps:
 3. **Return ranked results:**
    - Designed a function that accepts a text string, extracts its features, computes similarities with the items in the database, ranks them based on similarity, and returns the URLs of the top-N most similar items.
    - 
+notebook_link :- Machine Learning/NLP_cloth_similarity_search/similarity_search.ipynb
 
 video_link : https://youtu.be/EUFEDruCOvM
 
