@@ -10,11 +10,14 @@
 - <a href="https://github.com/affaannn/MindWave/tree/main/Data%20Analytics/Obesity_dataset_analysis"> Data Analytics - Obesity Dataset </a>
 - <a href="https://github.com/VB-deeksha/MindWave/blob/main/Data%20Analytics/Covid_19_Analysis%20Project.ipynb"> Covid_19_data </a>
 
+- [Time Series Analysis](https://github.com/Akhil-77/MindWave_ML/tree/main/Data%20Analytics/Time%20Series%20Forecasting) - <a href="https://www.kaggle.com/datasets/akhiljethwa/world-energy-statistics"> Global Energy Dataset on Kaggle </a>
+
 
   
 ## Implementation Ideas
 
 - Exploratory Data Analysis
+- Time Series Data Analysis
 - Sentiment Analysis
 - RFM Analysis
 - Statistical Tests
