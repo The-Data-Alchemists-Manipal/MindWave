@@ -2,8 +2,7 @@
 
 - [RFR - FlightPricePrediction](https://himanshu-03-flight-prediction-system-streamlit-app-fkj7k0.streamlit.app/)
 
-
-## Directory 
+## Directory
 
 - [RFR - FlightPricePrediction](/Deployed%20Projects%2FRFR_FlightPricePrediction)
 
