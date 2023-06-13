@@ -2,7 +2,7 @@
 
 ## Implemented Algorithms
 
- - [Linear Regression - Iris Flower CLassification](https://github.com/Sindhu-2004/MindWave/blob/main/Machine%20Learning/iris_classification.ipynb)
+ - [Decision Tree CLassifier - Iris Flower CLassification](https://github.com/Sindhu-2004/MindWave/blob/main/Machine%20Learning/iris_classification.ipynb)
 
  - [Logistic Regression - Credit Card Fraud Detection](https://github.com/dibyarupnath/MindWave/tree/logistic-ccfraud/Machine%20Learning/Logistic%20Regression%20-%20Credit%20Card%20Fraud%20Detection)
 
