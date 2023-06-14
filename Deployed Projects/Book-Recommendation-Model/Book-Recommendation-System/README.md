@@ -1,6 +1,5 @@
-**Book Recommendation System**
+**Book Recommendation Model**
 
-<!-- if any of the topics seem irrelavent - please ignore -->
 
 **GOAL**
 
@@ -14,7 +13,7 @@ Dataset link: https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
 
 This project introduces a collaborative book recommendation system. By entering a book name, users can receive recommendations based on the preferences of other users who enjoyed similar books.
 
-**WHAT I HAD DONE**
+**STEPS**
 
 1. Data Cleaning
 2. Data Preprocessing
@@ -45,5 +44,3 @@ The project utilizes the following libraries:
 
 During the last few decades, with the rise of YouTube, Amazon, Netflix, and many other such web services, recommender systems have taken more and more place in our lives. From e-commerce (suggest to buyers articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), recommender systems are today unavoidable in our daily online journeys. In this project, I have tried to build a book recommendation system for the user based on collaborative filtering.
 
-**NAME**
-Shruti Chandak
