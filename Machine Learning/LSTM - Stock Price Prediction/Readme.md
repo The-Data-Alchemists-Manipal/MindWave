@@ -28,6 +28,9 @@ reduce the overfitting of the model. </li>
 <li> <b> matplotlib.pylot: </b> Is used for plotting the graphs for values. </li>
 </ul>
 
+### Model Link
+https://colab.research.google.com/drive/1Ox1Na9x-iM2Oyzb4nN_wVsCGWsd8ATMi?usp=sharing
+
 
 ### Images:
 <figure>
