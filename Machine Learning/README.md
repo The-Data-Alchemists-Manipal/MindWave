@@ -164,7 +164,7 @@
 
 - [SVM and diabetes dataset](https://github.com/ASHWIN492/MindWave/tree/main/Machine%20Learning/Support%20Vector%20Machines%20(SVMs)%20on%20Diabetes%20Dataset)
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
-
+- [BlueBerry Yield Prediction - Regression](https://github.com/Durga-Sowjanya-Sanku/MindWave/tree/New/Machine%20Learning/Regression-Blueberry%20Yield%20Prediction)
 
 ## Implementation Ideas
   - Linear Regression
