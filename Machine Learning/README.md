@@ -161,6 +161,8 @@
 
 - [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
 
+- [Kmeans clustering - customer clustering](https://github.com/lcs2022026/MindWave_fork/blob/customer_clustering_%23143/Machine%20Learning/Customer%20clustering/Kmeans%20clustering%20-customer%20clustering.ipynb)
+
 
 ## Implementation Ideas
   - Linear Regression
