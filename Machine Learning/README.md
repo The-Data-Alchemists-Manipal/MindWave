@@ -159,6 +159,8 @@
 - [SVM and diabetes dataset](https://github.com/ASHWIN492/MindWave/tree/main/Machine%20Learning/Support%20Vector%20Machines%20(SVMs)%20on%20Diabetes%20Dataset)
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
 
+- [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
+
 
 ## Implementation Ideas
   - Linear Regression
