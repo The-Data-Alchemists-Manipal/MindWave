@@ -145,6 +145,7 @@
 
 - [Logistic Regression - Heart Disease Dataset - R](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Heart%20Disease%20dataset%20-%20R)
 - [DBSCAN - Mall Customer Dataset](https://github.com/NisargPipaliya/GSSOC_MindWave/tree/main/Machine%20Learning/DBSCAN%20-%20Mall%20Customer%20Dataset)
+- [Logistic Regression-Predict Hotel Cancellation](https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/391/commits/95f5ea0f9f9915ca840675a1e9f5b9bb35a2be89#diff-2466fc1ef6d2cd794e0d64a20f7ef59a541c191c5e1e9f51cc683776f6c15b6d)
 
 
 ## Datasets
@@ -164,6 +165,7 @@
 
 - [SVM and diabetes dataset](https://github.com/ASHWIN492/MindWave/tree/main/Machine%20Learning/Support%20Vector%20Machines%20(SVMs)%20on%20Diabetes%20Dataset)
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
+- [Logistic Regression- Hotel Booking](https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/391/commits/95f5ea0f9f9915ca840675a1e9f5b9bb35a2be89#diff-047aac678f9f504931110a10d028121790cd07e81138ba5b8afd4508688af66a)
 
 
 ## Implementation Ideas
