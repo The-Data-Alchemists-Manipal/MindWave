@@ -145,7 +145,7 @@
 
 - [Logistic Regression - Heart Disease Dataset - R](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Heart%20Disease%20dataset%20-%20R)
 - [DBSCAN - Mall Customer Dataset](https://github.com/NisargPipaliya/GSSOC_MindWave/tree/main/Machine%20Learning/DBSCAN%20-%20Mall%20Customer%20Dataset)
-
+- [Fraud detection model using KNN and Random forest](https://github.com/mkswagger/MindWave/blob/main/Machine%20Learning/Randomforest_KNN_BankFraud_detection_model/frauddetection.ipynb)
 
 ## Datasets
 
@@ -164,6 +164,7 @@
 
 - [SVM and diabetes dataset](https://github.com/ASHWIN492/MindWave/tree/main/Machine%20Learning/Support%20Vector%20Machines%20(SVMs)%20on%20Diabetes%20Dataset)
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
+- [RandomForest and KNN Fraud detection model](https://www.kaggle.com/datasets/ealaxi/banksim1)
 
 
 ## Implementation Ideas
