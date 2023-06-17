@@ -1,6 +1,11 @@
 # Machine Learning
 
 ## Implemented Algorithms
+- [Linear Regression - House Price Prediction](https://github.com/Sindhu-2004/MindWave/blob/patch1/Machine%20Learning/House_prediction.ipynb)
+
+
+- [Linear Regression - House Price Prediction](https://github.com/Sindhu-2004/MindWave/blob/patch1/Machine%20Learning/House_prediction.ipynb)
+
 
  - [Linear Regression - House Price Prediction](https://github.com/Sindhu-2004/MindWave/blob/patch1/Machine%20Learning/House_prediction.ipynb)
 
@@ -160,6 +165,7 @@
 
 - [Corona Virus Outbreak Prediction](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
+
 ## Datasets
 
 - [Effective Targeting of Advertisments](https://www.kaggle.com/datasets/hiimanshuagarwal/advertising-ef)
@@ -177,6 +183,19 @@
 - [Corona Virus Outbreak Prediction](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 - [SVM and diabetes dataset](https://github.com/ASHWIN492/MindWave/tree/main/Machine%20Learning/Support%20Vector%20Machines%20(SVMs)%20on%20Diabetes%20Dataset)
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
+- [Logistic Regression- Hotel Booking](https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/391/commits/95f5ea0f9f9915ca840675a1e9f5b9bb35a2be89#diff-047aac678f9f504931110a10d028121790cd07e81138ba5b8afd4508688af66a)
+
+
+- [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
+
+- [Kmeans clustering - customer clustering](https://github.com/lcs2022026/MindWave_fork/blob/customer_clustering_%23143/Machine%20Learning/Customer%20clustering/Kmeans%20clustering%20-customer%20clustering.ipynb)
+
+- [BlueBerry Yield Prediction - Regression](https://github.com/Durga-Sowjanya-Sanku/MindWave/tree/New/Machine%20Learning/Regression-Blueberry%20Yield%20Prediction)
+
+- [RandomForest and KNN Fraud detection model](https://www.kaggle.com/datasets/ealaxi/banksim1)
+
+- [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
+
 
 
 ## Implementation Ideas
