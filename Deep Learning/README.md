@@ -25,6 +25,9 @@
 - <a href="https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/code">CNN - Tomato Leaf Disease Detection</a>
 - <a href="https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset">CNN - Monkey pox  Disease Detection</a>
 - <a href="https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning">CNN - WCE curated colon disease</a>
+- <a href="https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/code">CNN - Tomato Leaf Disease Detection</a>
+- <a href="https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset">CNN - Monkey pox  Disease Detection</a>
+- <a href="https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning">CNN - WCE curated colon disease</a>
 - <a href="https://github.com/okaditya84/MindWave/blob/main/Deep%20Learning/Profanity_checker.ipynb">NLP - Profanity Checker</a>
 - <a href="https://github.com/Nandini-singh05/MindWave/blob/main/Deep%20Learning/CNN_SiameseNetwork_LFW.ipynb">CNN-SiameseNetwork-LFW</a>
 - <a href="https://github.com/NisargPipaliya/GSSOC_MindWave/blob/main/Deep%20Learning/LSTM_NEXT_WORD_PREDICTION/LSTM_NEXT_WORD_PREDICTION_final.ipynb"> LSTM - Next Word Prediction </a>
@@ -39,7 +42,6 @@
 - <a href="https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset">ANN - Movie recommendation</a>
 - <a href="https://www.kaggle.com/datasets/gpiosenka/100-bird-species">ANN - Birds classification</a>
 - <a href="https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images">ANN - Pneumonia detection</a>
-- <a href="https://www.kaggle.com/datasets/paultimothymooney/blood-cells">ANN - Blood cell classification</a>
 - <a href="https://www.kaggle.com/datasets/mloey1/ahcd1">ANN - Arabic letters classification</a>
 - <a href="https://www.kaggle.com/datasets/anshulmehtakaggl/chess-pieces-detection-images-dataset"> ANN - Chess piece detection </a>
 - <a href = "https://github.com/ArunMaramraj/MindWave/blob/main/Deep%20Learning/CNN_Potato-Disease-Detection.ipynb" > CNN - Disease Detection in Potato Leaves </a>
@@ -51,8 +53,14 @@
 - <a href="https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset">ANN - Movie recommendation</a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/birds_classification_%23115/Deep%20Learning/Birds%20classification/model-algorithm.ipynb">ANN - Birds classification</a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/Music_genre_classification_%2345/Deep%20Learning/Music_genre_classification/model-algorithm.ipynb">ANN - Music genre classification</a>
+- <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">ANN - Music genre classification</a>
+- <a href="https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset">ANN - Movie recommendation</a>
+- <a href="https://www.kaggle.com/datasets/gpiosenka/100-bird-species">ANN - Birds classification</a>
+- <a href="https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images">ANN - Pneumonia detection</a>
+- <a href="https://github.com/lcs2022026/MindWave_fork/blob/bloodCells_classification_%23189/Deep%20Learning/blood%20cells%20classification/model-algorithm.ipynb">ANN - Blood cell classification</a>
 
-## Implementation Ideas
+  
+  ## Implementation Ideas
   
 - LeNet
 - AlexNet
