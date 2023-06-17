@@ -209,6 +209,4 @@
   - XGBoost
   - AdaBoost
   - KNN
-  - Cross Validation Techniques 
-  - K fold CV technique
   - Passive Agressive Classifier
