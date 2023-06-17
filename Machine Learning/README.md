@@ -165,7 +165,8 @@
 
 - [Corona Virus Outbreak Prediction](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
-
+- [Hold Out Cross Validation - Chemical Content in Wine ](https://github.com/KaviRana/MindWave/tree/main/Machine%20Learning/Hold%20out%20CV%20-%20ChemicalContentinWine)
+  
 ## Datasets
 
 - [Effective Targeting of Advertisments](https://www.kaggle.com/datasets/hiimanshuagarwal/advertising-ef)
