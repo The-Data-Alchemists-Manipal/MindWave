@@ -1,6 +1,11 @@
 # Machine Learning
 
 ## Implemented Algorithms
+- [Linear Regression - House Price Prediction](https://github.com/Sindhu-2004/MindWave/blob/patch1/Machine%20Learning/House_prediction.ipynb)
+
+
+- [Linear Regression - House Price Prediction](https://github.com/Sindhu-2004/MindWave/blob/patch1/Machine%20Learning/House_prediction.ipynb)
+
 
  - [Logistic Regression - Credit Card Fraud Detection](https://github.com/dibyarupnath/MindWave/tree/logistic-ccfraud/Machine%20Learning/Logistic%20Regression%20-%20Credit%20Card%20Fraud%20Detection)
 
@@ -145,6 +150,9 @@
 
 - [Logistic Regression - Heart Disease Dataset - R](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Heart%20Disease%20dataset%20-%20R)
 - [DBSCAN - Mall Customer Dataset](https://github.com/NisargPipaliya/GSSOC_MindWave/tree/main/Machine%20Learning/DBSCAN%20-%20Mall%20Customer%20Dataset)
+- [Anime Recommendation System Dataset](https://github.com/sahaycodes/MindWave/tree/anime_rec/Machine%20Learning/Anime_Recommendation%20System)
+- [Fraud detection model using KNN and Random forest](https://github.com/mkswagger/MindWave/blob/main/Machine%20Learning/Randomforest_KNN_BankFraud_detection_model/frauddetection.ipynb)
+- [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
 
 
 ## Datasets
@@ -164,7 +172,14 @@
 
 - [SVM and diabetes dataset](https://github.com/ASHWIN492/MindWave/tree/main/Machine%20Learning/Support%20Vector%20Machines%20(SVMs)%20on%20Diabetes%20Dataset)
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
+
 - [BlueBerry Yield Prediction - Regression](https://github.com/Durga-Sowjanya-Sanku/MindWave/tree/New/Machine%20Learning/Regression-Blueberry%20Yield%20Prediction)
+
+- [RandomForest and KNN Fraud detection model](https://www.kaggle.com/datasets/ealaxi/banksim1)
+
+- [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
+
+
 
 ## Implementation Ideas
   - Linear Regression
