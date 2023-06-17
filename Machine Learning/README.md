@@ -1,6 +1,8 @@
 # Machine Learning
 
 ## Implemented Algorithms
+- [Linear Regression - House Price Prediction](https://github.com/Sindhu-2004/MindWave/blob/patch1/Machine%20Learning/House_prediction.ipynb)
+
 
  - [Logistic Regression - Credit Card Fraud Detection](https://github.com/dibyarupnath/MindWave/tree/logistic-ccfraud/Machine%20Learning/Logistic%20Regression%20-%20Credit%20Card%20Fraud%20Detection)
 
