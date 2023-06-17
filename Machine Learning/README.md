@@ -2,6 +2,9 @@
 
 ## Implemented Algorithms
 
+- [Linear Regression - House Price Prediction](https://github.com/Sindhu-2004/MindWave/blob/patch1/Machine%20Learning/House_prediction.ipynb)
+
+
  - [Logistic Regression - Credit Card Fraud Detection](https://github.com/dibyarupnath/MindWave/tree/logistic-ccfraud/Machine%20Learning/Logistic%20Regression%20-%20Credit%20Card%20Fraud%20Detection)
 
  - [Linear Regression - Kolkata House Price Prediction](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
@@ -65,6 +68,7 @@
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
+ - [SVM classification - Twitter Sentiment Analysis for COVID]( https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates)
 
 - [Naive Bayes - Kaggle Spam Dataset](https://github.com/PraNavKumAr01/MindWave/blob/main/Machine%20Learning/NaiveBayes%20-%20SpamDataset/MultinomialNaiveBayes_Spam.ipynb)
 
@@ -125,6 +129,11 @@
 
  - [K Cross Fold Technique - Bank Marketing Dataset](https://github.com/KaviRana/MindWave/tree/main/Machine%20Learning/K%20fold%20Cross%20Validation%20Technique)
 
+ - [Logistic regression model - Portuguese banking dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+ - [Logistic Regression - Crop Recommendation Dataset](https://github.com/Shubhamkumar-op/MindWave/tree/main/Machine%20Learning/Logistic_regression_crop_recommendation)
+ - [Random Forest - Crop Recommendation Dataset](https://github.com/Shubhamkumar-op/MindWave/tree/main/Machine%20Learning/Random_Forest_crop_recommendation)
+
+- [Logistic Regression - Heart Disease Dataset - R](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Heart%20Disease%20dataset%20-%20R)
 
  - [Logistic regression model - Portuguese banking dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
  - [Logistic Regression - Crop Recommendation Dataset](https://github.com/Shubhamkumar-op/MindWave/tree/main/Machine%20Learning/Logistic_regression_crop_recommendation)
@@ -138,8 +147,10 @@
  - [Random Forest - Crop Recommendation Dataset](https://github.com/Shubhamkumar-op/MindWave/tree/main/Machine%20Learning/Random_Forest_crop_recommendation)
 
 - [Logistic Regression - Heart Disease Dataset - R](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Heart%20Disease%20dataset%20-%20R)
-
-
+- [DBSCAN - Mall Customer Dataset](https://github.com/NisargPipaliya/GSSOC_MindWave/tree/main/Machine%20Learning/DBSCAN%20-%20Mall%20Customer%20Dataset)
+- [Anime Recommendation System Dataset](https://github.com/sahaycodes/MindWave/tree/anime_rec/Machine%20Learning/Anime_Recommendation%20System)
+- [Fraud detection model using KNN and Random forest](https://github.com/mkswagger/MindWave/blob/main/Machine%20Learning/Randomforest_KNN_BankFraud_detection_model/frauddetection.ipynb)
+- [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
 
 ## Datasets
 
