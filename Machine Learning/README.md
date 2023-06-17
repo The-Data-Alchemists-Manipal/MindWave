@@ -146,6 +146,7 @@
 - [Logistic Regression - Heart Disease Dataset - R](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Heart%20Disease%20dataset%20-%20R)
 - [DBSCAN - Mall Customer Dataset](https://github.com/NisargPipaliya/GSSOC_MindWave/tree/main/Machine%20Learning/DBSCAN%20-%20Mall%20Customer%20Dataset)
 - [Fraud detection model using KNN and Random forest](https://github.com/mkswagger/MindWave/blob/main/Machine%20Learning/Randomforest_KNN_BankFraud_detection_model/frauddetection.ipynb)
+- [LSTM - The Stock Price Prediction](https://colab.research.google.com/drive/1Ox1Na9x-iM2Oyzb4nN_wVsCGWsd8ATMi?usp=sharing)
 
 ## Datasets
 
