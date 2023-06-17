@@ -1,0 +1,8 @@
+test
+train
+.DS_Store
+activity_labels.txt
+features.txt
+features_info.txt
+README.txt
+uci_har.h5
