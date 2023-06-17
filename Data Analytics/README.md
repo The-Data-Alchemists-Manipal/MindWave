@@ -26,5 +26,3 @@
 - K-Mean Clustering
 - DBSCAN
 - Recommendation System
-- Big data analysis
-- EDA Analysis
