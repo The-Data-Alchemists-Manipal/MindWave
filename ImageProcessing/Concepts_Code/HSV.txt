@@ -1,0 +1,11 @@
+H - Hue
+S - Saturation
+V - Value
+
+Hue is the color component(Base pigment). Hence, it is the color name like red, blue, green, yellow, etc. It's value is in degrees from 0 to 360. 0 is red, 120 is green, 240 is blue. The other values are in between.
+
+
+Saturation is the amount of color. It is the purity of the color. It's value is from 0 to 100 percent. 0 means no color and 100 means full color. 0 is white, 100 is full color.
+
+
+Value is the brightness of the color. It's value is from 0 to 100 percent. 0 means black and 100 means full brightness. 0 is black, 100 is full brightness.
