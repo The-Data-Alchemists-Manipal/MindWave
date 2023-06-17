@@ -15,40 +15,40 @@ Make sure you are in your project directory
 
 Example :
 
-```sh
-   ? django-admin startproject Diabetes_Detection
-   ? cd Diabetes_Detection
-   ? python manage.py runserver
-   ? django-admin startapp Disease
+```
+   > django-admin startproject Diabetes_Detection
+   > cd Diabetes_Detection
+   > python manage.py runserver
+   > django-admin startapp Disease
 
 ```
 
 ## Step 2 : Creating a Machine Learning Model and adding dataset in the project
 
-Mention your algorithms.py file and your dataset in the same folder where your application is present. 
+Mention your algorithms.py file and your dataset in the same folder where your application is present. <br><br> 
 ![Alt text](image-2.png)
 
 ## Step 3 : Creating joblib file to dump Machine Learning Model.
 
 Make sure joblib is installed in your system.
 To install joblib, use : `pip install joblib`.
-Don't forget to import joblib in your algorithms.py file.
+Don't forget to import joblib in your algorithms.py file.<br><br>
 ![Alt text](image-3.png)
 
 ## Step 4 : Create the templates and static folder in your projects directory.
 
-Register your templates and static folder inside settings.py file in your project directory.
+Register your templates and static folder inside settings.py file in your project directory.<br><br>
 ![Alt text](image-1.png)
 
 ## Step 5 : Adding your logic in views.py file. Add your HTML and CSS content for forms in templates folder and static folder respectively.
-
+<br><br>
 ![Alt text](image-4.png)
 
 ## Step 6 : Adding URL in urls.py file in your project directory.
 
-In your project's urls.py file, add the URL of your application.
+In your project's urls.py file, add the URL of your application.<br><br>
 ![Alt text](image-5.png)
 
 You need to set path inside views.py file that would be rendered when you would run your project on server.
-In the application's urls.py file, you need to set path for the form that would be rendered when you would run your project on server.
+In the application's urls.py file, you need to set path for the form that would be rendered when you would run your project on server.<br><br>
 ![Alt text](image.png)

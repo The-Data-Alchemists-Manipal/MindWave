@@ -17,4 +17,4 @@
 
 3.) [Book Recommendation algorithm - dataset](https://github.com/shruti-2412/MindWave/tree/main/Deployed%20Projects/Book-Recommendation-Model/Book-Recommendation-System)
 
-   4.) [Diabetes Prediction System.]() 
+   4.) [Diabetes Prediction System.](https://github.com/dishamodi0910/MindWave/tree/DeployNewProject/Deployed%20Projects/Diabetes_Detection) 
