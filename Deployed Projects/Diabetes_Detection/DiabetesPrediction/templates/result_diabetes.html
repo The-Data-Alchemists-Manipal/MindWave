@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" xmlns:th="https://www.thymeleaf.com">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result</title>
+    <link rel="icon" type="image/x-icon" href="{% static 'favicon.jpg' %}">
+</head>
+<style>
+    .congrats {
+  text-align: center;
+  font-size: 2em;
+  color: #ffffff;
+  background-color: #28a2d2;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  animation-name: slidein;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes slidein {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0%);
+    opacity: 1;
+  }
+}
+
+</style>
+<body style="background-image: url('{% static '4.jpg '%}');">
+    <div class="congrats">
+        <!-- <h1>Enjoy The Movie !</h1> --><br><br>
+        <p>{{result}}</p><br><br>
+      </div>
+      
+</body>
+</html>
