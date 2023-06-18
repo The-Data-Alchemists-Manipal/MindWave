@@ -37,7 +37,7 @@
 - <a href="https://github.com/mahesh-11102/MindWave/blob/Search-Bot/Deep%20Learning/Search%20Bot/Search_Bot.ipynb"> RNN - Result Sumamrizer </a>
 - <a href = "https://github.com/Kota-Karthik/MindWave_fork/tree/sportsCategoryClassification%23377/Deep%20Learning/Sports%20image%20classification" > CNN - Sports Image Classification</a>
 
-
+- <a href = "https://github.com/Kota-Karthik/MindWave_fork/blob/microOrganismClassification%23405/Deep%20Learning/MicroOrganisms_classification/CNN_microorganisms.ipynb" > CNN - Micro Organism Classification</a>
 ## Implementation Ideas
   
 - LeNet
