@@ -146,6 +146,8 @@
 - [Logistic Regression - Heart Disease Dataset - R](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Heart%20Disease%20dataset%20-%20R)
 - [DBSCAN - Mall Customer Dataset](https://github.com/NisargPipaliya/GSSOC_MindWave/tree/main/Machine%20Learning/DBSCAN%20-%20Mall%20Customer%20Dataset)
 
+- [Random Forest Regression- Used Car Price Prediction](https://github.com/Samyakta-P/MindWave-Samyakta-used-car-price/tree/main/Machine%20Learning/Used%20Car%20Price%20Prediction)
+
 
 ## Datasets
 
@@ -164,6 +166,7 @@
 
 - [SVM and diabetes dataset](https://github.com/ASHWIN492/MindWave/tree/main/Machine%20Learning/Support%20Vector%20Machines%20(SVMs)%20on%20Diabetes%20Dataset)
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
+
 
 
 ## Implementation Ideas
