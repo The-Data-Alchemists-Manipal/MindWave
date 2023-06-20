@@ -196,7 +196,7 @@
 
 - [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
 
-
+- [Loan Status Prediction_Linear-Regression](https://github.com/i-am-SnehaChauhan/MindWave/tree/main/Machine%20Learning/LoanStatusPrediction_Linear-Regression)
 
 ## Implementation Ideas
   - Linear Regression
