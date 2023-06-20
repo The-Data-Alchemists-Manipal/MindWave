@@ -13,7 +13,7 @@
 
 - [Time Series Analysis](https://github.com/Akhil-77/MindWave_ML/tree/main/Data%20Analytics/Time%20Series%20Forecasting) - <a href="https://www.kaggle.com/datasets/akhiljethwa/world-energy-statistics"> Global Energy Dataset on Kaggle </a>
 
-
+- [Book Data Analysis](https://github.com/Akhil-77/MindWave_ML/tree/main/Data%20Analytics/Bookdata_analysis) - <a href="https://www.kaggle.com/code/tisha9991/book-store/input?select=Books+Data+with+Category+Language+and+Summary"> Book-Crossing: User review ratings on Kaggle </a>
   
 ## Implementation Ideas
 
@@ -28,3 +28,4 @@
 - Recommendation System
 - Big data analysis
 - EDA Analysis
+- Book Data Analysis and Recommendation
