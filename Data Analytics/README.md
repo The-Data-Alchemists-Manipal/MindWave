@@ -13,6 +13,7 @@
 
 - [Time Series Analysis](https://github.com/Akhil-77/MindWave_ML/tree/main/Data%20Analytics/Time%20Series%20Forecasting) - <a href="https://www.kaggle.com/datasets/akhiljethwa/world-energy-statistics"> Global Energy Dataset on Kaggle </a>
 
+- <a href="https://github.com/tanujbordikar/MindWave/grocery_sales/main/Data%20Analytics/Grocery_Sales_Analysis"> Data Analytics - Grocery Sales Analysis </a>
 
   
 ## Implementation Ideas
@@ -28,3 +29,4 @@
 - Recommendation System
 - Big data analysis
 - EDA Analysis
+- Exploratory Data Analysis
