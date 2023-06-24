@@ -8,6 +8,8 @@ local
 - [Flappy Bird Agent](https://github.com/ayush-09/MindWave/blob/remote/Reinforcement%20Learning/FlappyBird/Flappy.py)
 main
 - [UCB - Content Recommendation Algorithm](https://github.com/tarun25c/MindWave/blob/main/Reinforcement%20Learning/Content%20Recommendation%20Algorithm/UCB_ContentRecommendation.ipynb)
+
+- [DQN - CartPole Problem](https://github.com/tanujbordikar/MindWave/tree/cartpole/Reinforcement%20Learning/CartPole)
   
 ## Implementation Ideas
 
@@ -20,3 +22,4 @@ main
 - Temporal Difference
 - SARSA
 - QLearning
+- Deep Q-Network Algorithm
