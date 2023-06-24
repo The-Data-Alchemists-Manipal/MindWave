@@ -9,7 +9,7 @@ local
 main
 - [UCB - Content Recommendation Algorithm](https://github.com/tarun25c/MindWave/blob/main/Reinforcement%20Learning/Content%20Recommendation%20Algorithm/UCB_ContentRecommendation.ipynb)
 
-- [DQN - CartPole Problem](https://github.com/tanujbordikar/MindWave/tree/cartpole/Reinforcement%20Learning/CartPole)
+- [DQN - CartPole Problem](https://github.com/tanujbordikar/MindWave/tree/dqn/Reinforcement%20Learning/CartPole)
   
 ## Implementation Ideas
 
