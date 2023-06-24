@@ -38,6 +38,9 @@
 - <a href = "https://github.com/Kota-Karthik/MindWave_fork/tree/sportsCategoryClassification%23377/Deep%20Learning/Sports%20image%20classification" > CNN - Sports Image Classification</a>
 
 - <a href = "https://github.com/Kota-Karthik/MindWave_fork/blob/microOrganismClassification%23405/Deep%20Learning/MicroOrganisms_classification/CNN_microorganisms.ipynb" > CNN - Micro Organism Classification</a>
+- <a href = "https://github.com/Kota-Karthik/MindWave_fork/blob/RealOrFake_JobPosting_Classification%23334/Deep%20Learning/Real%20or%20fake%20job%20classification/BidirectionalRNN.ipynb
+" >BidirectionRNN-Real or fake job classification</a>
+
 ## Implementation Ideas
   
 - LeNet
