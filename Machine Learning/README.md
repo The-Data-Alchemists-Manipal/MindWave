@@ -1,6 +1,17 @@
 # Machine Learning
 
 ## Implemented Algorithms
+- [Linear Regression - House Price Prediction](https://github.com/Sindhu-2004/MindWave/blob/patch1/Machine%20Learning/House_prediction.ipynb)
+
+
+- [Linear Regression - House Price Prediction](https://github.com/Sindhu-2004/MindWave/blob/patch1/Machine%20Learning/House_prediction.ipynb)
+
+
+ - [Linear Regression - House Price Prediction](https://github.com/Sindhu-2004/MindWave/blob/patch1/Machine%20Learning/House_prediction.ipynb)
+
+
+- [Linear Regression - House Price Prediction](https://github.com/Sindhu-2004/MindWave/blob/patch1/Machine%20Learning/House_prediction.ipynb)
+
 
  - [Logistic Regression - Credit Card Fraud Detection](https://github.com/dibyarupnath/MindWave/tree/logistic-ccfraud/Machine%20Learning/Logistic%20Regression%20-%20Credit%20Card%20Fraud%20Detection)
 
@@ -65,6 +76,7 @@
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
+ - [SVM classification - Twitter Sentiment Analysis for COVID]( https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates)
 
 - [Naive Bayes - Kaggle Spam Dataset](https://github.com/PraNavKumAr01/MindWave/blob/main/Machine%20Learning/NaiveBayes%20-%20SpamDataset/MultinomialNaiveBayes_Spam.ipynb)
 
@@ -125,6 +137,11 @@
 
  - [K Cross Fold Technique - Bank Marketing Dataset](https://github.com/KaviRana/MindWave/tree/main/Machine%20Learning/K%20fold%20Cross%20Validation%20Technique)
 
+ - [Logistic regression model - Portuguese banking dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+ - [Logistic Regression - Crop Recommendation Dataset](https://github.com/Shubhamkumar-op/MindWave/tree/main/Machine%20Learning/Logistic_regression_crop_recommendation)
+ - [Random Forest - Crop Recommendation Dataset](https://github.com/Shubhamkumar-op/MindWave/tree/main/Machine%20Learning/Random_Forest_crop_recommendation)
+
+- [Logistic Regression - Heart Disease Dataset - R](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Heart%20Disease%20dataset%20-%20R)
 
  - [Logistic regression model - Portuguese banking dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
  - [Logistic Regression - Crop Recommendation Dataset](https://github.com/Shubhamkumar-op/MindWave/tree/main/Machine%20Learning/Logistic_regression_crop_recommendation)
@@ -138,7 +155,15 @@
  - [Random Forest - Crop Recommendation Dataset](https://github.com/Shubhamkumar-op/MindWave/tree/main/Machine%20Learning/Random_Forest_crop_recommendation)
 
 - [Logistic Regression - Heart Disease Dataset - R](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Heart%20Disease%20dataset%20-%20R)
+- [DBSCAN - Mall Customer Dataset](https://github.com/NisargPipaliya/GSSOC_MindWave/tree/main/Machine%20Learning/DBSCAN%20-%20Mall%20Customer%20Dataset)
 
+- [Logistic Regression-Predict Hotel Cancellation](https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/391/commits/95f5ea0f9f9915ca840675a1e9f5b9bb35a2be89#diff-2466fc1ef6d2cd794e0d64a20f7ef59a541c191c5e1e9f51cc683776f6c15b6d)
+
+- [Anime Recommendation System Dataset](https://github.com/sahaycodes/MindWave/tree/anime_rec/Machine%20Learning/Anime_Recommendation%20System)
+- [Fraud detection model using KNN and Random forest](https://github.com/mkswagger/MindWave/blob/main/Machine%20Learning/Randomforest_KNN_BankFraud_detection_model/frauddetection.ipynb)
+- [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
+
+- [Corona Virus Outbreak Prediction](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
 
 ## Datasets
@@ -155,9 +180,22 @@
  
 - [AdaBoost_CERN Electron Collision](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
-
+- [Corona Virus Outbreak Prediction](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 - [SVM and diabetes dataset](https://github.com/ASHWIN492/MindWave/tree/main/Machine%20Learning/Support%20Vector%20Machines%20(SVMs)%20on%20Diabetes%20Dataset)
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
+- [Logistic Regression- Hotel Booking](https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/391/commits/95f5ea0f9f9915ca840675a1e9f5b9bb35a2be89#diff-047aac678f9f504931110a10d028121790cd07e81138ba5b8afd4508688af66a)
+
+
+- [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
+
+- [Kmeans clustering - customer clustering](https://github.com/lcs2022026/MindWave_fork/blob/customer_clustering_%23143/Machine%20Learning/Customer%20clustering/Kmeans%20clustering%20-customer%20clustering.ipynb)
+
+- [BlueBerry Yield Prediction - Regression](https://github.com/Durga-Sowjanya-Sanku/MindWave/tree/New/Machine%20Learning/Regression-Blueberry%20Yield%20Prediction)
+
+- [RandomForest and KNN Fraud detection model](https://www.kaggle.com/datasets/ealaxi/banksim1)
+
+- [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
+
 
 
 ## Implementation Ideas
