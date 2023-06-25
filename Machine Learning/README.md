@@ -178,10 +178,6 @@
 - [NLP- News Scraper and Summariser](https://github.com/mkswagger/MindWave/blob/main/Machine%20Learning/NLP_News_Summariser/summariser_scraper.py)
 
 
-
-
-## Datasets
-
 - [Effective Targeting of Advertisments](https://www.kaggle.com/datasets/hiimanshuagarwal/advertising-ef)
 
 - [Passive Agressive Classifier - Fake News Detection](https://github.com/Mansi168/MindWave-gssoc-23/blob/mansi168_2/Machine%20Learning/FakeNewDetection.ipynb)
