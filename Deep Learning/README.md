@@ -62,7 +62,7 @@
 - <a href="https://www.kaggle.com/datasets/gpiosenka/100-bird-species">ANN - Birds classification</a>
 - <a href="https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images">ANN - Pneumonia detection</a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/bloodCells_classification_%23189/Deep%20Learning/blood%20cells%20classification/model-algorithm.ipynb">ANN - Blood cell classification</a>
-
+- <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Pytorch_NLTK-Alice_Dataset-Word_Embedding">NLTK - Alice Dataset - Word Embedding Using Pytorch</a>
 
   
   ## Implementation Ideas
