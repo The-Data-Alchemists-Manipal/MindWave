@@ -164,6 +164,7 @@
 - [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
 
 - [Corona Virus Outbreak Prediction](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
+- [Water Quality Prediction Model](https://github.com/sahaycodes/MindWave/tree/waterquality/Machine%20Learning/Water%20Quality%20Prediction%20Model)
 
 
 ## Datasets
