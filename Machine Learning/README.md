@@ -157,6 +157,9 @@
 - [Logistic Regression - Heart Disease Dataset - R](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Heart%20Disease%20dataset%20-%20R)
 - [DBSCAN - Mall Customer Dataset](https://github.com/NisargPipaliya/GSSOC_MindWave/tree/main/Machine%20Learning/DBSCAN%20-%20Mall%20Customer%20Dataset)
 
+
+- [Random Forest Regression- Used Car Price Prediction](https://github.com/Samyakta-P/MindWave-Samyakta-used-car-price/tree/main/Machine%20Learning/Used%20Car%20Price%20Prediction)
+
 - [Logistic Regression-Predict Hotel Cancellation](https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/391/commits/95f5ea0f9f9915ca840675a1e9f5b9bb35a2be89#diff-2466fc1ef6d2cd794e0d64a20f7ef59a541c191c5e1e9f51cc683776f6c15b6d)
 
 - [Anime Recommendation System Dataset](https://github.com/sahaycodes/MindWave/tree/anime_rec/Machine%20Learning/Anime_Recommendation%20System)
@@ -164,6 +167,7 @@
 - [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
 
 - [Corona Virus Outbreak Prediction](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
+
 
 
 ## Datasets
@@ -195,6 +199,7 @@
 - [RandomForest and KNN Fraud detection model](https://www.kaggle.com/datasets/ealaxi/banksim1)
 
 - [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
+
 
 
 
