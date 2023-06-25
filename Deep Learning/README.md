@@ -49,7 +49,6 @@
 - <a href="https://github.com/mahesh-11102/MindWave/blob/Search-Bot/Deep%20Learning/Search%20Bot/Search_Bot.ipynb"> RNN - Result Sumamrizer </a>
 
 - <a href = "https://github.com/Kota-Karthik/MindWave_fork/tree/sportsCategoryClassification%23377/Deep%20Learning/Sports%20image%20classification" > CNN - Sports Image Classification</a>
-
 - <a href = "https://github.com/Kota-Karthik/MindWave_fork/blob/microOrganismClassification%23405/Deep%20Learning/MicroOrganisms_classification/CNN_microorganisms.ipynb" > CNN - Micro Organism Classification</a>
 ## Implementation Ideas
 
@@ -58,6 +57,7 @@
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/WCE_Curated_Colon_Disease_classification_%23168/Deep%20Learning/WCE%20Curated%20Colon%20Disease%20classification/model.algorithm.ipynb">CNN - WCE curated colon disease</a>
 - <a href="https://github.com/Soumya1219/MindWave/blob/master/Deep%20Learning/Traffic%20Sign%20Recognition/Traffic-Sign-Recognition.ipynb"> CNN - Traffic Sign Recognition
  </a>
+
 
 - <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">ANN - Music genre classification</a>
 - <a href="https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset">ANN - Movie recommendation</a>
@@ -68,6 +68,8 @@
 - <a href="https://www.kaggle.com/datasets/gpiosenka/100-bird-species">ANN - Birds classification</a>
 - <a href="https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images">ANN - Pneumonia detection</a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/bloodCells_classification_%23189/Deep%20Learning/blood%20cells%20classification/model-algorithm.ipynb">ANN - Blood cell classification</a>
+- <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/Moview%20Review%20Sentiment%20Analysis">DL- Movie review sentiment anaylsis</a>
+- <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Pytorch_NLTK-Alice_Dataset-Word_Embedding">NLTK - Alice Dataset - Word Embedding Using Pytorch</a>
 
 
   
