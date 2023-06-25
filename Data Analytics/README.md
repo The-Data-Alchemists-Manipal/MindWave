@@ -11,7 +11,10 @@
 - <a href="https://github.com/VB-deeksha/MindWave/blob/main/Data%20Analytics/Covid_19_Analysis%20Project.ipynb"> Covid_19_data </a>
 - <a href="https://github.com/mkswagger/MindWave/tree/main/Data%20Analytics/EDA_Indian_Cuisine/dataset"> Data Analytics - Indian Cuisine </a>
 
+
 - [Time Series Analysis](https://github.com/Akhil-77/MindWave_ML/tree/main/Data%20Analytics/Time%20Series%20Forecasting) - <a href="https://www.kaggle.com/datasets/akhiljethwa/world-energy-statistics"> Global Energy Dataset on Kaggle </a>
+
+- <a href="https://github.com/RoopakMallik/MindWave/tree/4238410ba778cc84f90b4fa41ef2d024fb2f688a/Data%20Analytics/Uber_Data_Analysis"> Uber_Data_Analysis </a>
 
 
   
