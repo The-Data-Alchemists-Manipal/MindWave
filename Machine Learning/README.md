@@ -165,6 +165,8 @@
 
 - [Corona Virus Outbreak Prediction](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
+- [Linear Regression- Movie Revenue Prediction](https://github.com/smty2018/MindWave/tree/main/Machine%20Learning/Movie%20Revenue%20Prediction)
+
 
 ## Datasets
 
