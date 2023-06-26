@@ -181,9 +181,14 @@ rn
 - [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
 main
 
+ rn
+
+- [Loan Status Prediction_Linear-Regression](https://github.com/i-am-SnehaChauhan/MindWave/tree/main/Machine%20Learning/LoanStatusPrediction_Linear-Regression)
+  
+- [RandomForest Healthy Food Predictor](https://github.com/barkhaaroraa/MindWave/tree/main/Machine%20Learning/RandomForest_healthy%20food%20predictor)
+ main
 
 - [Linear Regression - Medical Insurance Cost - Julia](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Linear%20Regression%20-%20Medical%20Insurance%20Cost%20-%20Julia)
-
 
 ## Implementation Ideas
 
