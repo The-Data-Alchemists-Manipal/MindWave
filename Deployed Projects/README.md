@@ -1,11 +1,12 @@
 # Deployed Projects
 
 - [RFR - FlightPricePrediction](https://himanshu-03-flight-prediction-system-streamlit-app-fkj7k0.streamlit.app/)
-
+- [Platn-Disease-Detection](https://savi-plant-disease-detection-app.netlify.app/)
 
 ## Directory 
 
 - [RFR - FlightPricePrediction](/Deployed%20Projects%2FRFR_FlightPricePrediction)
+- [Plant-Disease-Detection](Deployed%20Projects/Plant_disease_detection)
 
 ## Steps
 
