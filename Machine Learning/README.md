@@ -208,6 +208,8 @@
 
 - [Loan Status Prediction_Linear-Regression](https://github.com/i-am-SnehaChauhan/MindWave/tree/main/Machine%20Learning/LoanStatusPrediction_Linear-Regression)
 
+- [Linear Regression - Medical Insurance Cost - Julia](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Linear%20Regression%20-%20Medical%20Insurance%20Cost%20-%20Julia)
+
 
 ## Implementation Ideas
 
