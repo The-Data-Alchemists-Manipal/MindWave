@@ -1,6 +1,7 @@
 # Deep Learning
 
 ## Implemented Algorithms
+- <a href="https://github.com/Akhil-77/MindWave_ML/tree/main/Deep%20Learning/Image_Classifier_WebApp"> CNN Classifier Web app on CIFAR-10 Dataset </a>
 - <a href="https://github.com/hkcs1206/MindWave/tree/main/Deep%20Learning/CNN%20on%20HAR%20dataset"> CNN/DNN/RNN on HAR Dataset </a>
 - <a href="https://github.com/YB73/MindWave/blob/YB73-ExoplanetDetection/Deep%20Learning/MLDL_ExoplanetDetection.ipynb"> CNN - Exoplanet Detection </a>
 - <a href="https://github.com/YB73/MindWave/blob/YB73-BreastCancer/Deep%20Learning/ANN_BreastCancer.ipynb"> ANN - Breast Cancer </a>
