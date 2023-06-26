@@ -1,6 +1,14 @@
 # Machine Learning
 
 ## Implemented Algorithms
+
+ - [Decision Tree CLassifier - Iris Flower CLassification](https://github.com/Sindhu-2004/MindWave/blob/main/Machine%20Learning/iris_classification.ipynb)
+- [Logistic Regression - earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/LogisticRegression_EarthquakePrediction.ipynb)
+- [Naive Bayes classification - Earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/NaiveBayes_EarthquakePrediction.ipynb)
+- [Support Vector Machine - Earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/SVM_EarthquakePrediction.ipynb)
+- [Support Vector Machine - Breast Cancer Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/Breast%20Cancer%20Prediction.ipynb)
+- [Logistic Regression - Titanic Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/titanic---logistic/Machine%20Learning/Logistic%20Regression%20-%20Titanic%20Dataset)
+
 - [Linear Regression - House Price Prediction](https://github.com/Sindhu-2004/MindWave/blob/patch1/Machine%20Learning/House_prediction.ipynb)
 
 
@@ -91,6 +99,7 @@
 
 - [Linear Regression - Salary Prediction](https://github.com/Soumya-Kushwaha/MindWave/tree/salary/Machine%20Learning/Linear%20Regression%20-%20Salary%20Prediction)
 
+
 - [Linear Regression - California Dataset - R](https://github.com/itsdebartha/MindWave/tree/9f4900d287096e4a930f110d2d79dbed159b2251/Machine%20Learning/Linear%20Regression%20-%20California%20dataset%20-%20R)
 
 - [Logistic Regression - dermatology disease classification dataset]( https://www.kaggle.com/datasets/olcaybolat1/dermatology-dataset-classification)
@@ -106,6 +115,8 @@
 - [SVM classification - Mobile Price Prediction](https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates)
 
 - [Naive Bayes - Kaggle Spam Dataset](https://github.com/PraNavKumAr01/MindWave/blob/main/Machine%20Learning/NaiveBayes%20-%20SpamDataset/MultinomialNaiveBayes_Spam.ipynb)
+
+- [NLP - cloth_similarity_search](https://github.com/shashank1623/MindWave/blob/main/Machine%20Learning/NLP_cloth_similarity_search/similarity_search.ipynb)
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
@@ -157,6 +168,9 @@
 - [Logistic Regression - Heart Disease Dataset - R](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Heart%20Disease%20dataset%20-%20R)
 - [DBSCAN - Mall Customer Dataset](https://github.com/NisargPipaliya/GSSOC_MindWave/tree/main/Machine%20Learning/DBSCAN%20-%20Mall%20Customer%20Dataset)
 
+
+- [Random Forest Regression- Used Car Price Prediction](https://github.com/Samyakta-P/MindWave-Samyakta-used-car-price/tree/main/Machine%20Learning/Used%20Car%20Price%20Prediction)
+
 - [Logistic Regression-Predict Hotel Cancellation](https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/391/commits/95f5ea0f9f9915ca840675a1e9f5b9bb35a2be89#diff-2466fc1ef6d2cd794e0d64a20f7ef59a541c191c5e1e9f51cc683776f6c15b6d)
 
 - [Anime Recommendation System Dataset](https://github.com/sahaycodes/MindWave/tree/anime_rec/Machine%20Learning/Anime_Recommendation%20System)
@@ -166,7 +180,14 @@
 - [Corona Virus Outbreak Prediction](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
 
-## Datasets
+- [Linear Regression- Movie Revenue Prediction](https://github.com/smty2018/MindWave/tree/main/Machine%20Learning/Movie%20Revenue%20Prediction)
+
+
+- [Water Quality Prediction Model](https://github.com/sahaycodes/MindWave/tree/waterquality/Machine%20Learning/Water%20Quality%20Prediction%20Model)
+
+- [NLP- News Scraper and Summariser](https://github.com/mkswagger/MindWave/blob/main/Machine%20Learning/NLP_News_Summariser/summariser_scraper.py)
+
+
 
 - [Effective Targeting of Advertisments](https://www.kaggle.com/datasets/hiimanshuagarwal/advertising-ef)
 
@@ -196,9 +217,15 @@
 
 - [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
 
+- [Loan Status Prediction_Linear-Regression](https://github.com/i-am-SnehaChauhan/MindWave/tree/main/Machine%20Learning/LoanStatusPrediction_Linear-Regression)
+  
+- [RandomForest Healthy Food Predictor](https://github.com/barkhaaroraa/MindWave/tree/main/Machine%20Learning/RandomForest_healthy%20food%20predictor)
 
+- [Linear Regression - Medical Insurance Cost - Julia](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Linear%20Regression%20-%20Medical%20Insurance%20Cost%20-%20Julia)
 
 ## Implementation Ideas
+
+  - Naive Bayes Classification
   - Linear Regression
   - Logistic Regression
   - Ridge & Lasso Regression
