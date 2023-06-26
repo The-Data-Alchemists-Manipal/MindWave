@@ -13,6 +13,10 @@
 - <a href="https://github.com/mkswagger/MindWave/tree/main/Data%20Analytics/EDA_Indian_Cuisine/dataset"> Data Analytics - Indian Cuisine </a>
 
 
+rn
+- [Book Data Analysis](https://github.com/Akhil-77/MindWave_ML/tree/main/Data%20Analytics/Bookdata_analysis) - <a href="https://www.kaggle.com/code/tisha9991/book-store/input?select=Books+Data+with+Category+Language+and+Summary"> Book-Crossing: User review ratings on Kaggle </a>
+- <a href="[https://github.com/tanujbordikar/MindWave/tree/grocery_sales/main/Data%20Analytics/Grocery_Sales_Analysis](https://github.com/tanujbordikar/MindWave/tree/grocery_sales/Data%20Analytics/Grocery_Sales_Analysis)"> Book Data Analysis and Recommendations </a>
+ main
 ## Implementation Ideas
 
 - Exploratory Data Analysis
@@ -26,4 +30,5 @@
 - Recommendation System
 - Big data analysis
 - EDA Analysis
+- Book Data Analysis and Recommendation
 - Exploratory Data Analysis
