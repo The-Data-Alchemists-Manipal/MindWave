@@ -115,6 +115,8 @@
 
 - [Naive Bayes - Kaggle Spam Dataset](https://github.com/PraNavKumAr01/MindWave/blob/main/Machine%20Learning/NaiveBayes%20-%20SpamDataset/MultinomialNaiveBayes_Spam.ipynb)
 
+- [NLP - cloth_similarity_search](https://github.com/shashank1623/MindWave/blob/main/Machine%20Learning/NLP_cloth_similarity_search/similarity_search.ipynb)
+
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
 
@@ -175,7 +177,15 @@
 - [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
 
 - [Corona Virus Outbreak Prediction](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
+
+
+- [Linear Regression- Movie Revenue Prediction](https://github.com/smty2018/MindWave/tree/main/Machine%20Learning/Movie%20Revenue%20Prediction)
+
+
+- [Water Quality Prediction Model](https://github.com/sahaycodes/MindWave/tree/waterquality/Machine%20Learning/Water%20Quality%20Prediction%20Model)
+
 - [NLP- News Scraper and Summariser](https://github.com/mkswagger/MindWave/blob/main/Machine%20Learning/NLP_News_Summariser/summariser_scraper.py)
+
 
 
 - [Effective Targeting of Advertisments](https://www.kaggle.com/datasets/hiimanshuagarwal/advertising-ef)
@@ -209,6 +219,8 @@
 - [Loan Status Prediction_Linear-Regression](https://github.com/i-am-SnehaChauhan/MindWave/tree/main/Machine%20Learning/LoanStatusPrediction_Linear-Regression)
   
 - [RandomForest Healthy Food Predictor](https://github.com/barkhaaroraa/MindWave/tree/main/Machine%20Learning/RandomForest_healthy%20food%20predictor)
+
+- [Linear Regression - Medical Insurance Cost - Julia](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Linear%20Regression%20-%20Medical%20Insurance%20Cost%20-%20Julia)
 
 ## Implementation Ideas
 
