@@ -6,10 +6,4 @@ To learn about Image Processing using OpenCV, visit : [Know about Image Processi
 To contribute in various image processing based projects, visit : [Know about Projects](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects)
 
 
-<<<<<<< Updated upstream
 1. [License-Plate-Detection](https://github.com/shubhexists/MindWave/tree/main/OpenCV%20Projects/LicensePlateDetection)
-=======
-1. [License-Plate-Detection](https://github.com/shubhexists/MindWave/tree/main/ImageProcessing/Projects/LicensePlateDetection)
-
-2. [RoadLaneDetection] (https://github.com/shubhexists/MindWave/tree/main/ImageProcessing/Projects/RoadLaneDetection)
->>>>>>> Stashed changes
