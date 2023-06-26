@@ -12,6 +12,8 @@
 - <a href="https://github.com/VB-deeksha/MindWave/blob/main/Data%20Analytics/Covid_19_Analysis%20Project.ipynb"> Covid_19_data </a>
 - <a href="https://github.com/mkswagger/MindWave/tree/main/Data%20Analytics/EDA_Indian_Cuisine/dataset"> Data Analytics - Indian Cuisine </a>
 
+- [Time Series Analysis](https://github.com/Akhil-77/MindWave_ML/tree/main/Data%20Analytics/Time%20Series%20Forecasting) - <a href="https://www.kaggle.com/datasets/akhiljethwa/world-energy-statistics"> Global Energy Dataset on Kaggle </a>
+
 
 - [Time Series Analysis](https://github.com/Akhil-77/MindWave_ML/tree/main/Data%20Analytics/Time%20Series%20Forecasting) - <a href="https://www.kaggle.com/datasets/akhiljethwa/world-energy-statistics"> Global Energy Dataset on Kaggle </a>
 - <a href="https://github.com/tanujbordikar/MindWave/grocery_sales/main/Data%20Analytics/Grocery_Sales_Analysis"> Data Analytics - Grocery Sales Analysis </a>
@@ -24,7 +26,7 @@
 - <a href="[https://github.com/tanujbordikar/MindWave/tree/grocery_sales/main/Data%20Analytics/Grocery_Sales_Analysis](https://github.com/tanujbordikar/MindWave/tree/grocery_sales/Data%20Analytics/Grocery_Sales_Analysis)"> Data Analytics - Grocery Sales Analysis </a>
 
 - <a href="[https://github.com/tanujbordikar/MindWave/tree/grocery_sales/main/Data%20Analytics/Grocery_Sales_Analysis](https://github.com/tanujbordikar/MindWave/tree/grocery_sales/Data%20Analytics/Grocery_Sales_Analysis)"> Book Data Analysis and Recommendations </a>
-  
+
 ## Implementation Ideas
 
 - Exploratory Data Analysis
