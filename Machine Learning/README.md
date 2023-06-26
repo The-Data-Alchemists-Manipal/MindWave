@@ -178,9 +178,14 @@
 
 - [Corona Virus Outbreak Prediction](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
+
+- [Linear Regression- Movie Revenue Prediction](https://github.com/smty2018/MindWave/tree/main/Machine%20Learning/Movie%20Revenue%20Prediction)
+
+
 - [Water Quality Prediction Model](https://github.com/sahaycodes/MindWave/tree/waterquality/Machine%20Learning/Water%20Quality%20Prediction%20Model)
 
 - [NLP- News Scraper and Summariser](https://github.com/mkswagger/MindWave/blob/main/Machine%20Learning/NLP_News_Summariser/summariser_scraper.py)
+
 
 
 - [Effective Targeting of Advertisments](https://www.kaggle.com/datasets/hiimanshuagarwal/advertising-ef)
