@@ -53,12 +53,14 @@
 - <a href = "https://github.com/Kota-Karthik/MindWave_fork/blob/microOrganismClassification%23405/Deep%20Learning/MicroOrganisms_classification/CNN_microorganisms.ipynb" > CNN - Micro Organism Classification</a>
 - <a href = "https://github.com/Kota-Karthik/MindWave_fork/blob/RealOrFake_JobPosting_Classification%23334/Deep%20Learning/Real%20or%20fake%20job%20classification/BidirectionalRNN.ipynb
 " >BidirectionRNN-Real or fake job classification</a>
+- <a href = "https://github.com/Kota-Karthik/MindWave_fork/blob/microOrganismClassification%23405/Deep%20Learning/MicroOrganisms_classification/CNN_microorganisms.ipynb" > CNN - Micro Organism Classification</a>
 
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/ECG_Heartbeat_Categorization_%23224/Deep%20Learning/ECG%20Categorization/model-algorithm.ipynb"> CNN - ECG categorization </a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/Tomato_Leaf_Disease_Detection_by_using_CNN_%2398/Deep%20Learning/Tomato%20Leaf%20Disease%20Detection/CNN_Tomato_Leaf_Disease_Detection.ipynb">CNN - Tomato Leaf Disease Detection</a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/WCE_Curated_Colon_Disease_classification_%23168/Deep%20Learning/WCE%20Curated%20Colon%20Disease%20classification/model.algorithm.ipynb">CNN - WCE curated colon disease</a>
 - <a href="https://github.com/Soumya1219/MindWave/blob/master/Deep%20Learning/Traffic%20Sign%20Recognition/Traffic-Sign-Recognition.ipynb"> CNN - Traffic Sign Recognition
  </a>
+
 
 - <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">ANN - Music genre classification</a>
 - <a href="https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset">ANN - Movie recommendation</a>
@@ -69,11 +71,16 @@
 - <a href="https://www.kaggle.com/datasets/gpiosenka/100-bird-species">ANN - Birds classification</a>
 - <a href="https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images">ANN - Pneumonia detection</a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/bloodCells_classification_%23189/Deep%20Learning/blood%20cells%20classification/model-algorithm.ipynb">ANN - Blood cell classification</a>
+- <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/Food_classification%23393/Deep%20Learning/Food%20image%20classification/CNN-food_classification.ipynb">CNN -Food classification</a>
+- <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/Moview%20Review%20Sentiment%20Analysis">DL- Movie review sentiment anaylsis</a>
+- <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Pytorch_NLTK-Alice_Dataset-Word_Embedding">NLTK - Alice Dataset - Word Embedding Using Pytorch</a>
+
 
 
 
   
   ## Implementation Ideas
+
   
 - LeNet
 - AlexNet
