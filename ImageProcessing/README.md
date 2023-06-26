@@ -7,3 +7,6 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 
 1. [License-Plate-Detection](https://github.com/shubhexists/MindWave/tree/main/OpenCV%20Projects/LicensePlateDetection)
+
+2. [Road-Lane-Detection](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/RoadLaneDetection)
+
