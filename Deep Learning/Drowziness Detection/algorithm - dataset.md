@@ -5,6 +5,7 @@ Ultralytics YOLOv8 is a cutting-edge, state-of-the-art (SOTA) model that builds 
 
 
 - [ Ultralytics Model Repo ]
+- [Notebook Link]
 
 
 ## Prerequisites 
@@ -91,4 +92,5 @@ The path must be the saved model path /weights/last.pt
    [PyTorch Installation]: <https://pytorch.org/get-started/locally/>
    [COCO classes]: <https://gist.github.com/AruniRC/7b3dadd004da04c80198557db5da4bda>
    [LabellImg]: <https://github.com/heartexlabs/labelImg>
+   [Notebook Link]: <https://github.com/Mochoye/MindWave/blob/mochoye/Deep%20Learning/Drowziness%20Detection/algorithm_dataset.ipynb>
  
