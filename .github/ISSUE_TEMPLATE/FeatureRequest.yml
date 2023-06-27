@@ -1,6 +1,5 @@
 name: 💡 Feature request
 description: Have a new idea/feature ? Please suggest!
-labels: ["enhancement"]
 body:
   - type: textarea
     id: description
