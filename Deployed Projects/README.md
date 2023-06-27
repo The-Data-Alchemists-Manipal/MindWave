@@ -6,3 +6,4 @@
 4.) [Diabetes Prediction System.](https://github.com/dishamodi0910/MindWave/tree/DeployNewProject/Deployed%20Projects/Diabetes_Detection) <br>
 5.) [Basic voice assistant.](https://github.com/The-Data-Alchemists-Manipal/MindWave/issues/257) <br>
 6.) [SMS Spam Classifier.](https://github.com/shruti-2412/MindWave/tree/main/Deployed%20Projects/SMS-Spam-Classifier) <br>
+7.) [Plant Disease Detection.](https://savi-plant-disease-detection-app.netlify.app/) <br>
