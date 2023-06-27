@@ -1,0 +1,2 @@
+- The jupyter notebook includes analyzing the dataset by identifying patterns, trends, and correlations that can help retailers optimize their marketing, pricing, and product strategies to increase sales and revenue.
+- The dataset is a generic one with around 10K entries and 11 columns, and is meant to be used as a practice dataset.
