@@ -41,6 +41,7 @@
 - [RandomForestClassifier - Credit Card Fraud Detection Dataset](https://github.com/sujanrupu/MindWave/tree/main/Machine%20Learning/RnadomForestClassifier-CreditCardFraudDataset)
 
  - [Linear Regression - Kolkata House Price Dataset](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
+ - [Support Vector Machine - Real Logo Detection](https://github.com/Shreyg-27/MindWave/tree/main/Machine%20Learning/SVM%20Real%20Logo%20Detection)
 
 
 ## Datasets
@@ -58,6 +59,7 @@
 - [AdaBoost_CERN Electron Collision](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
+- [Support Vector Machine](https://github.com/Shreyg-27/MindWave/tree/main/Machine%20Learning/SVM%20Real%20Logo%20Detection)
 
 
 ## Implementation Ideas
