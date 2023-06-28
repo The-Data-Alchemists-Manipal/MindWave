@@ -1,0 +1,7 @@
+uuid
+flask
+tensorflow-cpu
+flask
+keras
+matplotlib
+scikit-learn
