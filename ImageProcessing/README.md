@@ -13,3 +13,6 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 3. [Drone-Detection](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/Drone-Detection)
 
+4. [Face-Detection](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/FaceDetection)
+
+
