@@ -16,3 +16,4 @@ To contribute in various image processing based projects, visit : [Know about Pr
 4. [Face-Detection](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/FaceDetection)
 
 
+4. [Parking-Space-Detection](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/ParkingSpaceDetection)
