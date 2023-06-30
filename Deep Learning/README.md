@@ -85,6 +85,8 @@
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Pytorch_NLTK-Alice_Dataset-Word_Embedding">NLTK - Alice Dataset - Word Embedding Using Pytorch</a>
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Gesture-Controlled-Virtual-Mouse">Gesture Controlled Virtual Mouse</a>
 
+- <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Gesture-Controlled-Virtual-Mouse">IMDB Analysis</a>
+
 
 
   
