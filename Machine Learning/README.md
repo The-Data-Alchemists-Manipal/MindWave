@@ -81,6 +81,8 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
+- [Linear Regression - Car Price Prediction](https://github.com/parridhi/MindWave/tree/main/Machine%20Learning/LinearRegression_CarPricePrediction)
+
 rl
 data
 
