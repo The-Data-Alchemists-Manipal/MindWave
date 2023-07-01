@@ -237,6 +237,7 @@ data
 - [ScikitLearn - Species_Distribution_Modeling](https://github.com/sujanrupu/MindWave/blob/main/Machine%20Learning/ScikitLearn_Species_Distribution_Modeling.ipynb)
   
 - [Torch_Parrot - Paraphrase Generation and Detection](https://github.com/sujanrupu/MindWave/blob/main/Machine%20Learning/Torch_Parrot_Paraphrase_Detection.ipynb)
+- [Amazon Product length prdiction](/Amazon_product_length_prediction/nlp-with_regression.ipynb.ipynb)
 
  main
 ## Implementation Ideas
