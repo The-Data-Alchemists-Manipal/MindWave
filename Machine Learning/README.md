@@ -59,7 +59,7 @@
 - [AdaBoost_CERN Electron Collision](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
-- [Support Vector Machine](https://github.com/Shreyg-27/MindWave/tree/main/Machine%20Learning/SVM%20Real%20Logo%20Detection)
+- [Support Vector Machine - Real Logo Detection](https://github.com/Shreyg-27/MindWave/tree/main/Machine%20Learning/SVM%20Real%20Logo%20Detection)
 
 
 ## Implementation Ideas
