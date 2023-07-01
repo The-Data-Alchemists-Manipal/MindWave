@@ -87,6 +87,7 @@
 - <a href="https://github.com/lakshmishreea122003/MindWave/tree/branch2/Deep%20Learning/neural-style-transfer">Neural Style Transfer using VGG19<a>
 
 
+
   
   ## Implementation Ideas
 
@@ -103,3 +104,4 @@
 - ResNet50
 - VGG16
 - VGG19
+  
