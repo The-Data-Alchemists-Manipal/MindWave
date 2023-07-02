@@ -81,12 +81,14 @@
 - <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/anime_image_classification%23462/Deep%20Learning/Anime%20Image%20classification/main.ipynb">CNN - anime Image classification</a>
 - <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/Food_classification%23393/Deep%20Learning/Food%20image%20classification/CNN-food_classification.ipynb">CNN -Food classification</a>
 - <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/Moview%20Review%20Sentiment%20Analysis">DL- Movie review sentiment anaylsis</a>
+- <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/Traffic Signal Violation Detection System">DL - Traffic Signal Violation Detection System</a>
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Pytorch_NLTK-Alice_Dataset-Word_Embedding">NLTK - Alice Dataset - Word Embedding Using Pytorch</a>
+- <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Gesture-Controlled-Virtual-Mouse">Gesture Controlled Virtual Mouse</a>
+- <a href="https://github.com/lakshmishreea122003/MindWave/tree/branch2/Deep%20Learning/neural-style-transfer">Neural Style Transfer using VGG19<a>
+- <a href="https://github.com/sujanrupu/MindWave/tree/main/Horse%20Human%20Detection%20using%20CNN">Horse Human Detection using CNN </a>
+- <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/IMDB%20analysis">IMDB Analysis</a>
 
 
-
-
-  
   ## Implementation Ideas
 
   
@@ -101,3 +103,5 @@
 - Bidirectional RNN
 - ResNet50
 - VGG16
+- VGG19
+  
