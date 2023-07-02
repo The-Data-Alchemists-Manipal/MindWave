@@ -11,3 +11,5 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 2. [Road-Lane-Detection](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/RoadLaneDetection)
 
+3. [Edge Detection](https://github.com/Mochoye/MindWave/tree/Edge/ImageProcessing/Projects/Edge%20Detection)
+
