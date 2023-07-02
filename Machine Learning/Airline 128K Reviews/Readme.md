@@ -2,6 +2,8 @@ In this project , we have performed extensive EDA on 128K Airline Reviews Datase
 
 Dataset-https://www.kaggle.com/datasets/joelljungstrom/128k-airline-reviews
 
+[Note - The Dataset is >25MB , therfore , the link for the dataset is uploaded above)
+
 The main focus of this project was to understand the relation between customers' overall experience with Airlines 
 and what all parameters in the dataset correlate to most other parameters 
 
