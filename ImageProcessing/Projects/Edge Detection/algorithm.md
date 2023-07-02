@@ -6,3 +6,5 @@ Then Gray scaling it, using gaussian blur on the image and then sending it to Ca
 The edges are shown using Matplotlib
 
 
+It does not require any dataset. Whatever image you give it will give you the necessary output
+
