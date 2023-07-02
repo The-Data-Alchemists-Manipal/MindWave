@@ -31,6 +31,9 @@ Tasks Performed :-
 
 Screenshots :- 
 
+
+
+
 ![air](https://github.com/sahaycodes/MindWave/assets/99585576/cf3f9357-8667-4f97-9e95-51d49505a44f)
 
 
