@@ -83,6 +83,7 @@ sa
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
+- [Linear Regression - Car Price Prediction](https://github.com/parridhi/MindWave/tree/main/Machine%20Learning/LinearRegression_CarPricePrediction)
 
 
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
@@ -155,6 +156,7 @@ data
 - [RandomForestClassifier - Credit Card Fraud Detection Dataset](https://github.com/sujanrupu/MindWave/tree/main/Machine%20Learning/RnadomForestClassifier-CreditCardFraudDataset)
 
  - [Linear Regression - Kolkata House Price Dataset](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
+ - [Support Vector Machine - Real Logo Detection](https://github.com/Shreyg-27/MindWave/tree/main/Machine%20Learning/SVM%20Real%20Logo%20Detection)
 
  - [K Cross Fold Technique - Bank Marketing Dataset](https://github.com/KaviRana/MindWave/tree/main/Machine%20Learning/K%20fold%20Cross%20Validation%20Technique)
 
@@ -214,6 +216,9 @@ data
 - [Corona Virus Outbreak Prediction](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 - [SVM and diabetes dataset](https://github.com/ASHWIN492/MindWave/tree/main/Machine%20Learning/Support%20Vector%20Machines%20(SVMs)%20on%20Diabetes%20Dataset)
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
+
+- [Support Vector Machine - Real Logo Detection](https://github.com/Shreyg-27/MindWave/tree/main/Machine%20Learning/SVM%20Real%20Logo%20Detection)
+
 - [Logistic Regression- Hotel Booking](https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/391/commits/95f5ea0f9f9915ca840675a1e9f5b9bb35a2be89#diff-047aac678f9f504931110a10d028121790cd07e81138ba5b8afd4508688af66a)
 
 
@@ -225,6 +230,7 @@ data
 
 - [RandomForest and KNN Fraud detection model](https://www.kaggle.com/datasets/ealaxi/banksim1)
 
+
 - [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
 
 - [Loan Status Prediction_Linear-Regression](https://github.com/i-am-SnehaChauhan/MindWave/tree/main/Machine%20Learning/LoanStatusPrediction_Linear-Regression)
@@ -235,8 +241,13 @@ data
 - [Linear Regression - Medical Insurance Cost - Julia](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Linear%20Regression%20-%20Medical%20Insurance%20Cost%20-%20Julia)
 
 - [ScikitLearn - Species_Distribution_Modeling](https://github.com/sujanrupu/MindWave/blob/main/Machine%20Learning/ScikitLearn_Species_Distribution_Modeling.ipynb)
+  
+- [Torch_Parrot - Paraphrase Generation and Detection](https://github.com/sujanrupu/MindWave/blob/main/Machine%20Learning/Torch_Parrot_Paraphrase_Detection.ipynb)
 
- main
+- [Airline 128k Reviews (Logistic Regression Model)](https://github.com/sahaycodes/MindWave/blob/airline/Machine%20Learning/Airline%20128K%20Reviews/Airline-128K%20Reviews%20(1).ipynb)
+
+- [Amazon Product length prdiction](/Amazon_product_length_prediction/nlp-with_regression.ipynb.ipynb)
+
 ## Implementation Ideas
 
   - Naive Bayes Classification
