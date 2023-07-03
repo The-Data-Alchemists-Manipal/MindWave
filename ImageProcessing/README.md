@@ -21,4 +21,8 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 8. [TrafficSignRecognition](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/TrafficSignRecognition)
 
+
+4. [Parking-Space-Detection](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/ParkingSpaceDetection)
+
 9. [Virtual Zoom Gesture](https://github.com/dishamodi0910/MindWave/tree/ZoomGesture/ImageProcessing/Projects/Virtual%20Zoom%20Gesture)
+
