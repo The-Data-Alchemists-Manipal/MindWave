@@ -41,7 +41,7 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
-sa
+
 
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
@@ -95,6 +95,8 @@ sa
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+
+- [RandomForestRegressor- Price Of Flight Ticket](https://github.com/Tanya-1109/MindWave/files/11927026/Data_Train.xlsx)
 
 ## Implementation Ideas
 
@@ -244,9 +246,13 @@ data
   
 - [Torch_Parrot - Paraphrase Generation and Detection](https://github.com/sujanrupu/MindWave/blob/main/Machine%20Learning/Torch_Parrot_Paraphrase_Detection.ipynb)
 
+
+- [RandomForestRegressor- Price Of Flight Ticket](https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/579/commits/31f060142bac7cd466f8ef2aedb674ccb35f7d78#diff-363e22bad2dc3bca96778e669755bc03a602e5e4b427d9ae19e89f91e9e6e0c1)
+
 - [Airline 128k Reviews (Logistic Regression Model)](https://github.com/sahaycodes/MindWave/blob/airline/Machine%20Learning/Airline%20128K%20Reviews/Airline-128K%20Reviews%20(1).ipynb)
 
 - [Amazon Product length prdiction](/Amazon_product_length_prediction/nlp-with_regression.ipynb.ipynb)
+
 
 ## Implementation Ideas
 
