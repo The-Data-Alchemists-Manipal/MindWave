@@ -15,4 +15,6 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 4. [Face-Detection](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/FaceDetection)
 
+5. [Virtual Drag and Drop](https://github.com/dishamodi0910/MindWave/tree/ZoomGesture/ImageProcessing/Projects/Virtual_Drag_Drop)
 
+6. [Virtual Zoom Gesture](https://github.com/dishamodi0910/MindWave/tree/ZoomGesture/ImageProcessing/Projects/Virtual%20Zoom%20Gesture)
