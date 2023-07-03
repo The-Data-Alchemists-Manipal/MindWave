@@ -17,4 +17,8 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 5. [Virtual Drag and Drop](https://github.com/dishamodi0910/MindWave/tree/ZoomGesture/ImageProcessing/Projects/Virtual_Drag_Drop)
 
-6. [Virtual Zoom Gesture](https://github.com/dishamodi0910/MindWave/tree/ZoomGesture/ImageProcessing/Projects/Virtual%20Zoom%20Gesture)
+6. [Document-Scanner](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/DocumentScanner)
+
+7. [TrafficSignRecognition](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/TrafficSignRecognition)
+
+8. [Virtual Zoom Gesture](https://github.com/dishamodi0910/MindWave/tree/ZoomGesture/ImageProcessing/Projects/Virtual%20Zoom%20Gesture)
