@@ -237,9 +237,11 @@ data
 - [ScikitLearn - Species_Distribution_Modeling](https://github.com/sujanrupu/MindWave/blob/main/Machine%20Learning/ScikitLearn_Species_Distribution_Modeling.ipynb)
   
 - [Torch_Parrot - Paraphrase Generation and Detection](https://github.com/sujanrupu/MindWave/blob/main/Machine%20Learning/Torch_Parrot_Paraphrase_Detection.ipynb)
+
 - [Airline 128k Reviews (Logistic Regression Model)](https://github.com/sahaycodes/MindWave/blob/airline/Machine%20Learning/Airline%20128K%20Reviews/Airline-128K%20Reviews%20(1).ipynb)
 
- main
+- [Amazon Product length prdiction](/Amazon_product_length_prediction/nlp-with_regression.ipynb.ipynb)
+
 ## Implementation Ideas
 
   - Naive Bayes Classification
