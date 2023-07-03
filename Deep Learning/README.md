@@ -83,11 +83,14 @@
 - <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/Moview%20Review%20Sentiment%20Analysis">DL- Movie review sentiment anaylsis</a>
 - <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/Traffic Signal Violation Detection System">DL - Traffic Signal Violation Detection System</a>
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Pytorch_NLTK-Alice_Dataset-Word_Embedding">NLTK - Alice Dataset - Word Embedding Using Pytorch</a>
+- <a href="https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Deep%20Learning/Food%20Detector">Food Detector<a/> 
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Gesture-Controlled-Virtual-Mouse">Gesture Controlled Virtual Mouse</a>
 - <a href="https://github.com/lakshmishreea122003/MindWave/tree/branch2/Deep%20Learning/neural-style-transfer">Neural Style Transfer using VGG19<a>
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Horse%20Human%20Detection%20using%20CNN">Horse Human Detection using CNN </a>
 - <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/IMDB%20analysis">IMDB Analysis</a>
 - <a href="https://github.com/sujanrupu/MindWave/blob/main/Deep%20Learning/CNN_Speech_Emotion_Recognition.ipynb">CNN - Speech Emotion Recognition</a>
+
+  
 
 
 
