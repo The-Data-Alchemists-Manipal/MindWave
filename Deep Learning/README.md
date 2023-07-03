@@ -24,6 +24,7 @@
 - <a href="https://github.com/Shashank1130/MindWave/blob/Loan-Repayment-System/Deep%20Learning/ANN_Loan_Repayment_System.ipynb"> ANN - Loan repayment System </a>
 - <a href="https://github.com/ranodeepbanerjee/MindWave/blob/main/Deep%20Learning/CNN-Image_Based_Species_Recognition.ipynb"> CNN - Image Based Species Recognition
 - <a href="https://github.com/YB73/MindWave/blob/YB73-IEEECISFRAUD/Deep%20Learning/CNN_IEEECISFRAUD.ipynb">CNN - IEEECISFraudDetection</a>
+
 - <a href="https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/code">CNN - Tomato Leaf Disease Detection</a>
 - <a href="https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset">CNN - Monkey pox  Disease Detection</a>
 - <a href="https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning">CNN - WCE curated colon disease</a>
@@ -33,6 +34,7 @@
 - <a href="https://github.com/okaditya84/MindWave/blob/main/Deep%20Learning/Profanity_checker.ipynb">NLP - Profanity Checker</a>
 - <a href="https://github.com/Nandini-singh05/MindWave/blob/main/Deep%20Learning/CNN_SiameseNetwork_LFW.ipynb">CNN-SiameseNetwork-LFW</a>
 - <a href="https://github.com/NisargPipaliya/GSSOC_MindWave/blob/main/Deep%20Learning/LSTM_NEXT_WORD_PREDICTION/LSTM_NEXT_WORD_PREDICTION_final.ipynb"> LSTM - Next Word Prediction </a>
+
 - <a href="https://github.com/Shreyg-27/MindWave/blob/main/Deep%20Learning/CNN_Animal_Species_Classification.ipynb">CNN - Animal Species Classification</a>
 - <a href="https://github.com/nk-droid/MindWave/blob/nk-droid-PIIDoc/Deep%20Learning/CNN_PIIDoc.ipynb"> CNN - PII Documents Classification </a>
 - <a href="https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/code">CNN - Tomato Leaf Disease Detection</a>
@@ -68,6 +70,9 @@
  </a>
 
 
+
+## Implementation Ideas
+
 - <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">ANN - Music genre classification</a>
 - <a href="https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset">ANN - Movie recommendation</a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/birds_classification_%23115/Deep%20Learning/Birds%20classification/model-algorithm.ipynb">ANN - Birds classification</a>
@@ -83,11 +88,17 @@
 - <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/Moview%20Review%20Sentiment%20Analysis">DL- Movie review sentiment anaylsis</a>
 - <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/Traffic Signal Violation Detection System">DL - Traffic Signal Violation Detection System</a>
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Pytorch_NLTK-Alice_Dataset-Word_Embedding">NLTK - Alice Dataset - Word Embedding Using Pytorch</a>
+- <a href="https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Deep%20Learning/Food%20Detector">Food Detector<a/> 
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Gesture-Controlled-Virtual-Mouse">Gesture Controlled Virtual Mouse</a>
-
-
+- <a href="https://github.com/lakshmishreea122003/MindWave/tree/branch2/Deep%20Learning/neural-style-transfer">Neural Style Transfer using VGG19<a>
+- <a href="https://github.com/sujanrupu/MindWave/tree/main/Horse%20Human%20Detection%20using%20CNN">Horse Human Detection using CNN </a>
+- <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/IMDB%20analysis">IMDB Analysis</a>
+- <a href="https://github.com/sujanrupu/MindWave/blob/main/Deep%20Learning/CNN_Speech_Emotion_Recognition.ipynb">CNN - Speech Emotion Recognition</a>
 
   
+
+
+
   ## Implementation Ideas
 
   
@@ -102,3 +113,5 @@
 - Bidirectional RNN
 - ResNet50
 - VGG16
+- VGG19
+  
