@@ -155,6 +155,7 @@ data
 - [RandomForestClassifier - Credit Card Fraud Detection Dataset](https://github.com/sujanrupu/MindWave/tree/main/Machine%20Learning/RnadomForestClassifier-CreditCardFraudDataset)
 
  - [Linear Regression - Kolkata House Price Dataset](https://github.com/dibyarupnath/MindWave/tree/eff1aec59c7b3824d6b4570fa8d41c4507c7b869/Machine%20Learning/Linear%20Regression%20-%20Kolkata%20House%20Price%20Dataset)
+ - [Support Vector Machine - Real Logo Detection](https://github.com/Shreyg-27/MindWave/tree/main/Machine%20Learning/SVM%20Real%20Logo%20Detection)
 
  - [K Cross Fold Technique - Bank Marketing Dataset](https://github.com/KaviRana/MindWave/tree/main/Machine%20Learning/K%20fold%20Cross%20Validation%20Technique)
 
@@ -214,6 +215,9 @@ data
 - [Corona Virus Outbreak Prediction](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 - [SVM and diabetes dataset](https://github.com/ASHWIN492/MindWave/tree/main/Machine%20Learning/Support%20Vector%20Machines%20(SVMs)%20on%20Diabetes%20Dataset)
 - [ExtraTree Classifier - Eye State Prediction](https://github.com/Rahul-Jain-1/MindWave/tree/main/Machine%20Learning/Eye%20State%20Classification)
+
+- [Support Vector Machine - Real Logo Detection](https://github.com/Shreyg-27/MindWave/tree/main/Machine%20Learning/SVM%20Real%20Logo%20Detection)
+
 - [Logistic Regression- Hotel Booking](https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/391/commits/95f5ea0f9f9915ca840675a1e9f5b9bb35a2be89#diff-047aac678f9f504931110a10d028121790cd07e81138ba5b8afd4508688af66a)
 
 
@@ -224,6 +228,7 @@ data
 - [BlueBerry Yield Prediction - Regression](https://github.com/Durga-Sowjanya-Sanku/MindWave/tree/New/Machine%20Learning/Regression-Blueberry%20Yield%20Prediction)
 
 - [RandomForest and KNN Fraud detection model](https://www.kaggle.com/datasets/ealaxi/banksim1)
+
 
 - [Kmeans clustering - Credit card clustering](https://github.com/lcs2022026/MindWave_fork/blob/credit_card_clustering_%23144/Machine%20Learning/credit_card_clustering/Kmeans-CreditCardClustering.ipynb)
 
