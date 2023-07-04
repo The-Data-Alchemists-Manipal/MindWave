@@ -24,7 +24,7 @@
 - <a href="https://github.com/Shashank1130/MindWave/blob/Loan-Repayment-System/Deep%20Learning/ANN_Loan_Repayment_System.ipynb"> ANN - Loan repayment System </a>
 - <a href="https://github.com/ranodeepbanerjee/MindWave/blob/main/Deep%20Learning/CNN-Image_Based_Species_Recognition.ipynb"> CNN - Image Based Species Recognition
 - <a href="https://github.com/YB73/MindWave/blob/YB73-IEEECISFRAUD/Deep%20Learning/CNN_IEEECISFRAUD.ipynb">CNN - IEEECISFraudDetection</a>
-
+- <a href="https://github.com/The-Data-Alchemists-Manipal/MindWave/issues/537">CNN - Gender Classification</a>
 - <a href="https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/code">CNN - Tomato Leaf Disease Detection</a>
 - <a href="https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset">CNN - Monkey pox  Disease Detection</a>
 - <a href="https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning">CNN - WCE curated colon disease</a>
