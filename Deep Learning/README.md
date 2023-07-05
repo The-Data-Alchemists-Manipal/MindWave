@@ -94,6 +94,7 @@
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Horse%20Human%20Detection%20using%20CNN">Horse Human Detection using CNN </a>
 - <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/IMDB%20analysis">IMDB Analysis</a>
 - <a href="https://github.com/sujanrupu/MindWave/blob/main/Deep%20Learning/CNN_Speech_Emotion_Recognition.ipynb">CNN - Speech Emotion Recognition</a>
+- <a href="https://github.com/lakshmishreea122003/face-detedtion-MTCNN">Face Detection MTCNN</a>
 
   
 
@@ -114,4 +115,5 @@
 - ResNet50
 - VGG16
 - VGG19
+- MTCNN
   
