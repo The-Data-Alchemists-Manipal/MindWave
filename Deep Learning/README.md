@@ -68,7 +68,8 @@
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/WCE_Curated_Colon_Disease_classification_%23168/Deep%20Learning/WCE%20Curated%20Colon%20Disease%20classification/model.algorithm.ipynb">CNN - WCE curated colon disease</a>
 - <a href="https://github.com/Soumya1219/MindWave/blob/master/Deep%20Learning/Traffic%20Sign%20Recognition/Traffic-Sign-Recognition.ipynb"> CNN - Traffic Sign Recognition
  </a>
-
+- <a href="https://github.com/Shubhra-31/MindWave/blob/main/Deep%20Learning/Tfidf_LightGBM_Netflix%20Movies%20and%20TV%20Shows/Lightgbm_Netflix%20Movies%20and%20TV%20Shows%20.ipynb"> Tfidf-LightGBM- Netflix Movies and TV Shows 
+ </a>
 
 
 ## Implementation Ideas
