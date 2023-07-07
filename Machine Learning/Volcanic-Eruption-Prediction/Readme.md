@@ -9,7 +9,7 @@ In this competition, using your data science skills, you’ll predict when a vol
 
 With enough notice, areas around a volcano can be safely evacuated prior to their destruction. Seismic activity is a good indicator of an impending eruption, but earlier precursors must be identified to improve longer-term predictability. The impact of your participation could be felt worldwide with tens of thousands of lives saved by more predictable volcanic ruptures and earlier evacuations.
 
-## data 
+## Data 
 
 Dataset Description
 Detecting volcanic eruptions before they happen is an important problem that has historically proven to be a very difficult. This competition provides you with readings from several seismic sensors around a volcano and challenges you to estimate how long it will be until the next eruption. The data represent a classic signal processing setup that has resisted traditional methods.
@@ -25,3 +25,5 @@ time_to_eruption: The target value, the time until the next eruption.
 
 [train|test]/*.csv: the data files. Each file contains ten minutes of logs from ten different sensors arrayed around a volcano. The readings have been normalized within each segment, in part to ensure that the readings fall within the range of int16 values. If you are using the Pandas library you may find that you still need to load the data as float32 due to the presence of some nulls.
 
+
+dataset link :- https://www.kaggle.com/competitions/predict-volcanic-eruptions-ingv-oe/data
