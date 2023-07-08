@@ -21,6 +21,7 @@ To contribute in various image processing based projects, visit : [Know about Pr
 6. [Document-Scanner](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/DocumentScanner)
 
 
+<<<<<<< Updated upstream
 
 7. [Document-Scanner](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/DocumentScanner)
 
@@ -40,3 +41,8 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 14. [Cartoonize-Image](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/CartoonizeImage)
 15. [Virtual Drag and Drop](https://github.com/dishamodi0910/MindWave/tree/ZoomGesture/ImageProcessing/Projects/Virtual_Drag_Drop)
+=======
+8. [People-Counter](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/PeopleCounter)
+
+9. [Eye-Color-Detection](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/EyeColorDetection)
+>>>>>>> Stashed changes
