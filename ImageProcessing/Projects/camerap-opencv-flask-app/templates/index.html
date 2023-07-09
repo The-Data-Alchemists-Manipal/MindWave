@@ -1,0 +1,36 @@
+<!--<!DOCTYPE html>-->
+<!--<html>-->
+<!--<head>-->
+<!--    <title>Video Streaming Example</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--    <h1>Video Streaming</h1>-->
+<!--    <img src="{{ url_for('video_feed') }}">-->
+<!--</body>-->
+<!--</html>-->
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Video Streaming Example</title>
+    <script>
+        function showVideoFeed(number) {
+            var feedUrl = "{{ url_for('video_feed') }}";
+            var newUrl = feedUrl + number;
+            document.getElementById("video").src = newUrl;
+        }
+    </script>
+</head>
+<body>
+    <h1>Video Streaming</h1>
+    <button onclick="showVideoFeed(1)">gray</button>
+    <button onclick="showVideoFeed(2)">red</button>
+    <button onclick="showVideoFeed(3)">green</button>
+    <button onclick="showVideoFeed(4)">blue</button>
+    <button onclick="showVideoFeed(5)">binary image</button>
+    <button onclick="showVideoFeed(6)">thresholded color</button>
+    <br><br>
+    <img id="video" src="{{ url_for('video_feed') }}">
+</body>
+</html>

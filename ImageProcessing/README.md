@@ -40,3 +40,8 @@ To contribute in various image processing based projects, visit : [Know about Pr
 16. [People-Counter](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/PeopleCounter)
 
 17. [Eye-Color-Detection](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/EyeColorDetection)
+
+18. [Virtual Quiz](https://github.com/dishamodi0910/MindWave/tree/main/ImageProcessing/Projects/Virtual_Quiz)
+19. [People-Counter](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/PeopleCounter)
+
+
