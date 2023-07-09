@@ -15,13 +15,7 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 5. [AI Virtual Mouse](https://github.com/dishamodi0910/MindWave/tree/nain/ImageProcessing/Projects/AI_Virtual_Mouse)
 
-3. [Image-processing-matlab](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/Image-processing-matlab)
-
-
-
 6. [Document-Scanner](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/DocumentScanner)
-
-
 
 7. [Document-Scanner](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/DocumentScanner)
 
@@ -40,4 +34,16 @@ To contribute in various image processing based projects, visit : [Know about Pr
 13. [Edge Detection](https://github.com/Mochoye/MindWave/tree/Edge/ImageProcessing/Projects/Edge%20Detection)
 
 14. [Cartoonize-Image](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/CartoonizeImage)
+
 15. [Virtual Drag and Drop](https://github.com/dishamodi0910/MindWave/tree/ZoomGesture/ImageProcessing/Projects/Virtual_Drag_Drop)
+
+16. [People-Counter](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/PeopleCounter)
+
+17. [Eye-Color-Detection](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/EyeColorDetection)
+
+18. [Facial-Expression](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/FacialExpression)
+
+19. [Virtual Quiz](https://github.com/dishamodi0910/MindWave/tree/main/ImageProcessing/Projects/Virtual_Quiz)
+20. [People-Counter](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/PeopleCounter)
+21. [Image-processing-matlab](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/Image-processing-matlab)
+
