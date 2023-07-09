@@ -10,3 +10,4 @@
 
 5. [Camerap-opencv-flask-app](https://github.com/lakshmishreea122003/camera_flask_opencv_app)
    
+6. [Eye Detection](https://github.com/dishamodi0910/MindWave/tree/VirtualMouse/ImageProcessing/Projects/Eye%20Detection)
