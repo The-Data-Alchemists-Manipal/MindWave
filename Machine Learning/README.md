@@ -260,6 +260,9 @@ data
 - [Amazon Product length prdiction](/Amazon_product_length_prediction/nlp-with_regression.ipynb.ipynb)
 
 
+- [XG-Booster- Big Sales Prediction](https://github.com/Garvit414/MindWave/tree/main/Machine%20Learning/BigMart%20Sales%20Prediction) 
+
+
 ## Implementation Ideas
 
   - Naive Bayes Classification
