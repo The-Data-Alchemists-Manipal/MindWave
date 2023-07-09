@@ -45,5 +45,5 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 19. [Virtual Quiz](https://github.com/dishamodi0910/MindWave/tree/main/ImageProcessing/Projects/Virtual_Quiz)
 20. [People-Counter](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/PeopleCounter)
-
+21. [Image-processing-matlab](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/Image-processing-matlab)
 
