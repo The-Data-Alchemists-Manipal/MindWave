@@ -1,0 +1,5 @@
+Question,Choice1,Choice2,Choice3,Choice4,Answer
+What are number of bits in a byte?,8,16,32,64,1,
+What is the largest number that can be represented by 8 bits?,255,256,257,258,1,
+What is number of bytes in a kilobyte?,1024,1000,100,10,1,
+What is the name of the first computer programmer?,Ada Lovelace,Charles Babbage,Alan Turing,Steve Jobs,1
