@@ -37,6 +37,9 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 15. [Virtual Drag and Drop](https://github.com/dishamodi0910/MindWave/tree/ZoomGesture/ImageProcessing/Projects/Virtual_Drag_Drop)
 
+
+
+
 16. [People-Counter](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/PeopleCounter)
 
 17. [Eye-Color-Detection](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/EyeColorDetection)
@@ -47,3 +50,4 @@ To contribute in various image processing based projects, visit : [Know about Pr
 20. [People-Counter](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/PeopleCounter)
 21. [Image-processing-matlab](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/Image-processing-matlab)
 
+22. [Virtual Keyboard](https://github.com/dishamodi0910/MindWave/tree/VirtualKeyboard/ImageProcessing/Projects/VirtualKeyBoard)
