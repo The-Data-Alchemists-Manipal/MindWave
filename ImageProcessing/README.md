@@ -40,3 +40,5 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 14. [Cartoonize-Image](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/CartoonizeImage)
 15. [Virtual Drag and Drop](https://github.com/dishamodi0910/MindWave/tree/ZoomGesture/ImageProcessing/Projects/Virtual_Drag_Drop)
+
+16. [Virtual Keyboard](https://github.com/dishamodi0910/MindWave/tree/VirtualKeyboard/ImageProcessing/Projects/VirtualKeyBoard)
