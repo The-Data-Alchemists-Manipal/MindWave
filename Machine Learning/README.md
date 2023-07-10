@@ -259,6 +259,9 @@ data
 
 - [Amazon Product length prdiction](/Amazon_product_length_prediction/nlp-with_regression.ipynb.ipynb)
 
+- [Credit Card Fraud Detection - SMOTE ](https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/649/files)
+
+
 
 ## Implementation Ideas
 
