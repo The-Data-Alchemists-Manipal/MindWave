@@ -2,6 +2,8 @@
 
 ## Implemented Algorithms
 
+
+- [KNN Image Classifier - Forest vs Dessert Data](https://github.com/Akhil-77/MindWave_ML/tree/main/Machine%20Learning/KNN_Image_Classifier)
  - [Decision Tree CLassifier - Iris Flower CLassification](https://github.com/Sindhu-2004/MindWave/blob/main/Machine%20Learning/iris_classification.ipynb)
 - [Logistic Regression - earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/LogisticRegression_EarthquakePrediction.ipynb)
 - [Naive Bayes classification - Earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/NaiveBayes_EarthquakePrediction.ipynb)
@@ -69,6 +71,8 @@
 
 
 - [LeNet - MNIST Dataset](https://github.com/dibyarupnath/MindWave/tree/lenet-mnist/Machine%20Learning/LeNet%20-%20MNIST%20Dataset)
+
+- [Decision Tree Classifier-Employee Promotion Prediction](https://github.com/smty2018/MindWave/tree/dtc/Machine%20Learning/Decision%20Tree%20Classifier-Employee%20Promotion%20Prediction)
 
 
 - [Logistic Regression - Titanic Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/titanic---logistic/Machine%20Learning/Logistic%20Regression%20-%20Titanic%20Dataset)
@@ -245,6 +249,8 @@ data
 - [ScikitLearn - Species_Distribution_Modeling](https://github.com/sujanrupu/MindWave/blob/main/Machine%20Learning/ScikitLearn_Species_Distribution_Modeling.ipynb)
   
 - [Torch_Parrot - Paraphrase Generation and Detection](https://github.com/sujanrupu/MindWave/blob/main/Machine%20Learning/Torch_Parrot_Paraphrase_Detection.ipynb)
+  
+- [Colorful Tic Tac Toe Game with GUI using tkinter](https://github.com/The-Data-Alchemists-Manipal/MindWave/blob/1d5a792c74bea6ffe4f0d14061912db0414a616c/Machine%20Learning/Obesity%20Classification/Algorithm-dataset/algorithm%20and%20dataset.ipynb).
 
 
 - [RandomForestRegressor- Price Of Flight Ticket](https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/579/commits/31f060142bac7cd466f8ef2aedb674ccb35f7d78#diff-363e22bad2dc3bca96778e669755bc03a602e5e4b427d9ae19e89f91e9e6e0c1)
