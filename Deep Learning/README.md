@@ -98,7 +98,7 @@
 - <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/IMDB%20analysis">IMDB Analysis</a>
 - <a href="https://github.com/sujanrupu/MindWave/blob/main/Deep%20Learning/CNN_Speech_Emotion_Recognition.ipynb">CNN - Speech Emotion Recognition</a>
 - <a href="https://github.com/lakshmishreea122003/face-detedtion-MTCNN">Face Detection MTCNN</a>
-
+- <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Gender_Recognition_Using_Voice">Gender Recognition Using Voice</a>
   
 
 

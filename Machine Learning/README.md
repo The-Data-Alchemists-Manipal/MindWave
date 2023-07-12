@@ -99,8 +99,13 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+- [Self-Organizing-Maps](https://github.com/ayush-09/MindWave/blob/som/Machine%20Learning/Self-Organizing-Map/Self_Organizing_Map.ipynb)
+
+
+
 
 - [RandomForestRegressor- Price Of Flight Ticket](https://github.com/Tanya-1109/MindWave/files/11927026/Data_Train.xlsx)
+
 
 ## Implementation Ideas
 
@@ -272,7 +277,11 @@ data
   - Random Forest
   - XGBoost
   - AdaBoost
+
+  - SOM
+
   - KNN
   - Cross Validation Techniques 
   - K fold CV technique
   - Passive Agressive Classifier
+

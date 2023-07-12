@@ -55,3 +55,6 @@ To contribute in various image processing based projects, visit : [Know about Pr
 22. [Virtual Keyboard](https://github.com/dishamodi0910/MindWave/tree/VirtualKeyboard/ImageProcessing/Projects/VirtualKeyBoard)
 
 23. [Virtual-Painting](https://github.com/dishamodi0910/MindWave/tree/VirtualKeyboard/ImageProcessing/Projects/VirtualPainting)
+
+24. [Signature-Verification](https://github.com/dishamodi0910/MindWave/tree/VirtualKeyboard/ImageProcessing/Projects/SignatureVerification)
+
