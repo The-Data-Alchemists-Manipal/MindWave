@@ -21,11 +21,13 @@
 - <a href="https://github.com/RoopakMallik/MindWave/tree/4238410ba778cc84f90b4fa41ef2d024fb2f688a/Data%20Analytics/Uber_Data_Analysis"> Uber_Data_Analysis </a>
 
 - [Game Development Analysis](https://github.com/smty2018/MindWave/tree/game_dev/Data%20Analytics/Game_Development_Analysis)
-- [Test Flight Data Analysis](https://github.com/smty2018/MindWave/tree/tfda/Data%20Analytics/Flight%20Test%20Data%20Analytics) 
+- [Test Flight Data Analysis](https://github.com/smty2018/MindWave/tree/tfda/Data%20Analytics/Flight%20Test%20Data%20Analytics)
+- [Data Science Salaries](https://github.com/sahaycodes/MindWave/tree/data/Data%20Analytics/Data%20Science%20Salaries-EDA)
 
 
 
 - [Book Data Analysis](https://github.com/Akhil-77/MindWave_ML/tree/main/Data%20Analytics/Bookdata_analysis) - <a href="https://www.kaggle.com/code/tisha9991/book-store/input?select=Books+Data+with+Category+Language+and+Summary"> Book-Crossing: User review ratings on Kaggle </a>
+
 
 
 - <a href="[https://github.com/tanujbordikar/MindWave/tree/grocery_sales/main/Data%20Analytics/Grocery_Sales_Analysis](https://github.com/tanujbordikar/MindWave/tree/grocery_sales/Data%20Analytics/Grocery_Sales_Analysis)"> Data Analytics - Grocery Sales Analysis </a>
@@ -35,7 +37,7 @@
 
 - <a href="[https://github.com/tanujbordikar/MindWave/tree/grocery_sales/main/Data%20Analytics/Grocery_Sales_Analysis](https://github.com/tanujbordikar/MindWave/Data Analysis/International Debt Statistics)"> International Debt Statistics </a>
 
--[Data Science Salaries](https://github.com/sahaycodes/MindWave/tree/data/Data%20Analytics/Data%20Science%20Salaries-EDA)
+
 
 =======
 
