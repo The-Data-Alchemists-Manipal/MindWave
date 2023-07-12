@@ -14,6 +14,7 @@
 - <a herf="https://github.com/NisargPipaliya/GSSOC_MindWave/blob/main/Deep%20Learning/ANN_Telco_Customer_Churn.ipynb">ANN - Telco Customer Churn</a>
 - <a href="https://github.com/nk-droid/MindWave/blob/nk-droid-RetinaDamage/Deep%20Learning/CNN_RetinaDamage.ipynb"> CNN - Retina Damage Detection </a>
 - <a href="https://github.com/YB73/MindWave/blob/nk-droid-RetinaDamage/Deep%20Learning/CNN_RetinaDamage.ipynb"> CNN - Retina Damage Detection </a>
+- <a href="https://github.com/ayush-09/MindWave/blob/ad/Deep%20Learning/AutoEncoder-Deep-Learning/AutoEncoders.ipynb">AutoEncoder- Movie Recommendation</a>
 - <a href = "https://github.com/SAPNILPATEL/MindWave/blob/Drowsiness_Detection/Deep%20Learning/YOLOV5_Drowsiness_Detection.ipynb"> YOLOV5 - Drowsiness_Detection </a>
 - <a href="https://github.com/kunal1383/MindWave/blob/main/Deep%20Learning/CNN-%20Image%20Classification%20using%20Dogs%20vs%20Cats%20Dataset.ipynb"> CNN - Image Classifcation </a>
 - <a href="https://github.com/YB73/MindWave/blob/YB73-IEEECISFRAUD/Deep%20Learning/CNN-Flickr8k.ipynb">CNN - Flickr8k (Image Caption Generator)</a>
@@ -98,7 +99,7 @@
 - <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/IMDB%20analysis">IMDB Analysis</a>
 - <a href="https://github.com/sujanrupu/MindWave/blob/main/Deep%20Learning/CNN_Speech_Emotion_Recognition.ipynb">CNN - Speech Emotion Recognition</a>
 - <a href="https://github.com/lakshmishreea122003/face-detedtion-MTCNN">Face Detection MTCNN</a>
-
+- <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Gender_Recognition_Using_Voice">Gender Recognition Using Voice</a>
   
 
 
@@ -115,6 +116,7 @@
 - LSTM
 - GRU
 - Bidirectional RNN
+- AutoEncoder
 - ResNet50
 - VGG16
 - VGG19
