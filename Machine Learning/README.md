@@ -6,6 +6,7 @@
 - [KNN Image Classifier - Forest vs Dessert Data](https://github.com/Akhil-77/MindWave_ML/tree/main/Machine%20Learning/KNN_Image_Classifier)
  - [Decision Tree CLassifier - Iris Flower CLassification](https://github.com/Sindhu-2004/MindWave/blob/main/Machine%20Learning/iris_classification.ipynb)
 - [Logistic Regression - earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/LogisticRegression_EarthquakePrediction.ipynb)
+- [RandomForestClassifier-pubg](https://github.com/Pritamstudent/MindWave/tree/issue-524/Machine%20Learning/RandomForestClassifier-pubg)
 - [Naive Bayes classification - Earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/NaiveBayes_EarthquakePrediction.ipynb)
 - [Support Vector Machine - Earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/SVM_EarthquakePrediction.ipynb)
 - [Support Vector Machine - Breast Cancer Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/Breast%20Cancer%20Prediction.ipynb)
