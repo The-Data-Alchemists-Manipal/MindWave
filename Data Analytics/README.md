@@ -35,6 +35,8 @@
 
 - <a href="[https://github.com/tanujbordikar/MindWave/tree/grocery_sales/main/Data%20Analytics/Grocery_Sales_Analysis](https://github.com/tanujbordikar/MindWave/Data Analysis/International Debt Statistics)"> International Debt Statistics </a>
 
+-[Data Science Salaries](https://github.com/sahaycodes/MindWave/tree/data/Data%20Analytics/Data%20Science%20Salaries-EDA)
+
 =======
 
 ## Implementation Ideas
