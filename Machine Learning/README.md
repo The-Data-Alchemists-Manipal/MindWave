@@ -87,6 +87,7 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
+
 - [Linear Regression - Car Price Prediction](https://github.com/parridhi/MindWave/tree/main/Machine%20Learning/LinearRegression_CarPricePrediction)
 
 
@@ -99,8 +100,14 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+- [Self-Organizing-Maps](https://github.com/ayush-09/MindWave/blob/som/Machine%20Learning/Self-Organizing-Map/Self_Organizing_Map.ipynb)
+
+
+
 
 - [RandomForestRegressor- Price Of Flight Ticket](https://github.com/Tanya-1109/MindWave/files/11927026/Data_Train.xlsx)
+- [Logistic Regression - Hate Speech and Offensive Language](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Hate%20Speech%20and%20Offensive%20Language/LogisticRegression_HateSpeechAndOffensiveLanguageDetection.ipynb)
+
 
 ## Implementation Ideas
 
@@ -275,7 +282,11 @@ data
   - Random Forest
   - XGBoost
   - AdaBoost
+
+  - SOM
+
   - KNN
   - Cross Validation Techniques 
   - K fold CV technique
   - Passive Agressive Classifier
+
