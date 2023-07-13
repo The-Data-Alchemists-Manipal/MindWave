@@ -266,6 +266,9 @@ data
 
 - [Amazon Product length prdiction](/Amazon_product_length_prediction/nlp-with_regression.ipynb.ipynb)
 
+- [Credit Card Fraud Detection - SMOTE ](https://github.com/brahmamyv/MindWave/tree/ccf/Machine%20Learning/Credit%20Card%20Fraud%20Detection-SMOTE)
+
+
 
 ## Implementation Ideas
 
