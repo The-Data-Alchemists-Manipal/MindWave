@@ -2,6 +2,8 @@
 
 ## Implemented Algorithms
 
+
+- [KNN Image Classifier - Forest vs Dessert Data](https://github.com/Akhil-77/MindWave_ML/tree/main/Machine%20Learning/KNN_Image_Classifier)
  - [Decision Tree CLassifier - Iris Flower CLassification](https://github.com/Sindhu-2004/MindWave/blob/main/Machine%20Learning/iris_classification.ipynb)
 - [Logistic Regression - earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/LogisticRegression_EarthquakePrediction.ipynb)
 - [Naive Bayes classification - Earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/NaiveBayes_EarthquakePrediction.ipynb)
@@ -70,6 +72,8 @@
 
 - [LeNet - MNIST Dataset](https://github.com/dibyarupnath/MindWave/tree/lenet-mnist/Machine%20Learning/LeNet%20-%20MNIST%20Dataset)
 
+- [Decision Tree Classifier-Employee Promotion Prediction](https://github.com/smty2018/MindWave/tree/dtc/Machine%20Learning/Decision%20Tree%20Classifier-Employee%20Promotion%20Prediction)
+
 
 - [Logistic Regression - Titanic Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/titanic---logistic/Machine%20Learning/Logistic%20Regression%20-%20Titanic%20Dataset)
 - [Linear Regression - California Dataset - R](https://github.com/itsdebartha/MindWave/tree/9f4900d287096e4a930f110d2d79dbed159b2251/Machine%20Learning/Linear%20Regression%20-%20California%20dataset%20-%20R)
@@ -83,6 +87,7 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
+
 - [Linear Regression - Car Price Prediction](https://github.com/parridhi/MindWave/tree/main/Machine%20Learning/LinearRegression_CarPricePrediction)
 
 
@@ -95,8 +100,14 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+- [Self-Organizing-Maps](https://github.com/ayush-09/MindWave/blob/som/Machine%20Learning/Self-Organizing-Map/Self_Organizing_Map.ipynb)
+
+
+
 
 - [RandomForestRegressor- Price Of Flight Ticket](https://github.com/Tanya-1109/MindWave/files/11927026/Data_Train.xlsx)
+- [Logistic Regression - Hate Speech and Offensive Language](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Hate%20Speech%20and%20Offensive%20Language/LogisticRegression_HateSpeechAndOffensiveLanguageDetection.ipynb)
+
 
 ## Implementation Ideas
 
@@ -245,6 +256,8 @@ data
 - [ScikitLearn - Species_Distribution_Modeling](https://github.com/sujanrupu/MindWave/blob/main/Machine%20Learning/ScikitLearn_Species_Distribution_Modeling.ipynb)
   
 - [Torch_Parrot - Paraphrase Generation and Detection](https://github.com/sujanrupu/MindWave/blob/main/Machine%20Learning/Torch_Parrot_Paraphrase_Detection.ipynb)
+  
+- [Colorful Tic Tac Toe Game with GUI using tkinter](https://github.com/The-Data-Alchemists-Manipal/MindWave/blob/1d5a792c74bea6ffe4f0d14061912db0414a616c/Machine%20Learning/Obesity%20Classification/Algorithm-dataset/algorithm%20and%20dataset.ipynb).
 
 
 - [RandomForestRegressor- Price Of Flight Ticket](https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/579/commits/31f060142bac7cd466f8ef2aedb674ccb35f7d78#diff-363e22bad2dc3bca96778e669755bc03a602e5e4b427d9ae19e89f91e9e6e0c1)
@@ -266,8 +279,11 @@ data
   - Random Forest
   - XGBoost
   - AdaBoost
+
+  - SOM
+
   - KNN
   - Cross Validation Techniques 
   - K fold CV technique
   - Passive Agressive Classifier
-  - Random Forest Regressor
+  - RandomForestRegressor
