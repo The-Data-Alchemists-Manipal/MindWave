@@ -23,3 +23,6 @@ To contribute in various image processing based projects, visit : [Know about Pr
 16. [People-Counter](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/ImageProcessing/Projects/PeopleCounter)
 17. [Image-processing-matlab](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/ImageProcessing/Projects/Image-processing-matlab)
 18. [Virtual Keyboard](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/ImageProcessing/Projects/VirtualKeyBoard)
+19. [Virtual-Painting](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/ImageProcessing/Projects/VirtualPainting)
+20. [Signature-Verification](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/ImageProcessing/Projects/SignatureVerification)
+
