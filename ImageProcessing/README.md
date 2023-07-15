@@ -47,7 +47,14 @@ To contribute in various image processing based projects, visit : [Know about Pr
 18. [Facial-Expression](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/FacialExpression)
 
 19. [Virtual Quiz](https://github.com/dishamodi0910/MindWave/tree/main/ImageProcessing/Projects/Virtual_Quiz)
+
 20. [People-Counter](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/PeopleCounter)
+
 21. [Image-processing-matlab](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/Image-processing-matlab)
 
 22. [Virtual Keyboard](https://github.com/dishamodi0910/MindWave/tree/VirtualKeyboard/ImageProcessing/Projects/VirtualKeyBoard)
+
+23. [Virtual-Painting](https://github.com/dishamodi0910/MindWave/tree/VirtualKeyboard/ImageProcessing/Projects/VirtualPainting)
+
+24. [Signature-Verification](https://github.com/dishamodi0910/MindWave/tree/VirtualKeyboard/ImageProcessing/Projects/SignatureVerification)
+
