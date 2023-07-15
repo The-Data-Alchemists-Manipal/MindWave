@@ -58,3 +58,4 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 24. [Signature-Verification](https://github.com/dishamodi0910/MindWave/tree/VirtualKeyboard/ImageProcessing/Projects/SignatureVerification)
 
+25. [Virtual-Background](https://github.com/dishamodi0910/MindWave/tree/VirtualKeyboard/ImageProcessing/Projects/VirtualBackground)
