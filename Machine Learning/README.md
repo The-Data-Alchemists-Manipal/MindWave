@@ -2,7 +2,7 @@
 
 ## Implemented Algorithms
 
-
+- [KNN Image Classifier - Forest vs Dessert Data](https://github.com/Akhil-77/MindWave_ML/tree/main/Machine%20Learning/KNN_Image_Classifier)
 - [KNN Image Classifier - Forest vs Dessert Data](https://github.com/Akhil-77/MindWave_ML/tree/main/Machine%20Learning/KNN_Image_Classifier)
  - [Decision Tree CLassifier - Iris Flower CLassification](https://github.com/Sindhu-2004/MindWave/blob/main/Machine%20Learning/iris_classification.ipynb)
 - [Logistic Regression - earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/LogisticRegression_EarthquakePrediction.ipynb)
@@ -107,6 +107,9 @@
 
 - [RandomForestRegressor- Price Of Flight Ticket](https://github.com/Tanya-1109/MindWave/files/11927026/Data_Train.xlsx)
 - [Logistic Regression - Hate Speech and Offensive Language](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Hate%20Speech%20and%20Offensive%20Language/LogisticRegression_HateSpeechAndOffensiveLanguageDetection.ipynb)
+
+- [LSTM - Stock price Prediction](https://github.com/Volcano-Dragon/MindWave/tree/main/Machine%20Learning/LSTM%20-%20Stock%20Price%20Prediction)
+
 
 
 ## Implementation Ideas
