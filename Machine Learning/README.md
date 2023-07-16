@@ -108,6 +108,7 @@
 - [RandomForestRegressor- Price Of Flight Ticket](https://github.com/Tanya-1109/MindWave/files/11927026/Data_Train.xlsx)
 - [Logistic Regression - Hate Speech and Offensive Language](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Hate%20Speech%20and%20Offensive%20Language/LogisticRegression_HateSpeechAndOffensiveLanguageDetection.ipynb)
 
+- [Gold Price Prediction System](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/RandomForest_GoldPrice_Prediction)
 
 ## Implementation Ideas
 
