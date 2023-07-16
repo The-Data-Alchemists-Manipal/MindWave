@@ -68,6 +68,9 @@
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/WCE_Curated_Colon_Disease_classification_%23168/Deep%20Learning/WCE%20Curated%20Colon%20Disease%20classification/model.algorithm.ipynb">CNN - WCE curated colon disease</a>
 - <a href="https://github.com/Soumya1219/MindWave/blob/master/Deep%20Learning/Traffic%20Sign%20Recognition/Traffic-Sign-Recognition.ipynb"> CNN - Traffic Sign Recognition
  </a>
+ - <a href="https://github.com/smty2018/MindWave/tree/lstm/Deep%20Learning/Gasoline%20Price%20Time%20Series%20Forecasting"> LSTN, ARIMA-Gasoline Price Time series forecasting
+ </a>
+
 
 
 
