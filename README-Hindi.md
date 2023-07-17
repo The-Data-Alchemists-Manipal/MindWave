@@ -1,3 +1,4 @@
+[English](README.md) | हिंदी
 # माइंडवेव
 <div id="top"></div>
 <div align="center">
