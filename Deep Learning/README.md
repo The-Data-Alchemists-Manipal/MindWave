@@ -82,6 +82,7 @@
 - <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/Food_classification%23393/Deep%20Learning/Food%20image%20classification/CNN-food_classification.ipynb">CNN -Food classification</a>
 - <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/Moview%20Review%20Sentiment%20Analysis">DL- Movie review sentiment anaylsis</a>
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Pytorch_NLTK-Alice_Dataset-Word_Embedding">NLTK - Alice Dataset - Word Embedding Using Pytorch</a>
+- <a href="https://github.com/shraddha761/MindWave/tree/main/Deep%20Learning/Deep_Lake">Deep Lake</a>
 
 
 
