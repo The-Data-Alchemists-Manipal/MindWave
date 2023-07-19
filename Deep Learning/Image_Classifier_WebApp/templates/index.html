@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="eng">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href={{url_for('static' , filename='css/normalize.css' )}}>
+    <link rel="stylesheet" href={{url_for('static' , filename='css/grid.css' )}}>
+    <link rel='stylesheet' href={{url_for('static' , filename='css/style.css' )}}>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,300&display=swap"
+        rel="stylesheet" type='text/css'>
+    <title>Image Classification WebApp</title>
+    <meta name="keywords" content="cutom file input, styling, label, cross-browser, accessible, input type file" />
+
+    <style>
+        .content {
+            max-width: 500px;
+            margin: auto;
+        }
+
+        .btn-success {
+            color: #fff;
+            background-color: #5cb85c;
+            border-color: #4cae4c;
+            width: inherit;
+        }
+    </style>
+
+
+</head>
+
+<body>
+    <div class="bg-img" style="background: #360033;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0b8793, #360033);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0b8793, #360033); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+">
+        <div class="content">
+            <div class="index-main">
+
+                <div style="width : 100%; padding-top : 5%;">
+                    <div class="header-content">
+                        <h1 style="text-align: center;color: rgb(198, 29, 29)"><span class="header-content-text">IMAGE
+                                CLASSIFICATION</span></h1>
+                    </div>
+                </div>
+
+                <div class="upload-section">
+
+                    <div class="upload-file">
+                        <form class="file-form" action="/success" method="post" , enctype="multipart/form-data">
+                            <input class="file-form-input" type="file", name="file" />
+                            <button class="btn btn-success btn-lg">Upload</button>
+                        </form>
+                    </div>
+
+                    <div class="uploadOR">
+                        <span>OR</span>
+                    </div>
+
+                    <div class="upload-link">
+                        <form class="link-form" action="/success" method="post" , enctype="multipart/form-data">
+                            <input class="link-form-input" type="text" ,maxlength="1000" , name="link"
+                                placeholder="Paste the image URL(not the site address)" />
+                            <button class="btn btn-success btn-lg">Proceed</button>
+                        </form>
+                    </div>
+                    <div class="header-content-sub">
+                        <p style="text-align:center ; margin-top: 15px;color: red" class="header-content-info">{{error}}
+                        </p>
+                    </div>
+                </div>
+
+                <div class="footer">
+                    <div class="header-content-sub" >
+                        <p style="text-align: center;color: #ffffff;" class="header-content-info">This Is A Image Classification Model Which takes Images As Input And Gives Output Based On Learning From The Machine Learning Model</p>
+                    </div>
+                    <div class="header-content-sub">
+                        <p style="text-align: center;color:#ffffff" class="header-content-info">The Model Takes The Following As Input :Dog , Cat , Horse , Deer, Frog , Airplane , Truck , Automobile , Ship , Bird</p>
+                    </div>
+                </div>
+                <div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+
+</html>
