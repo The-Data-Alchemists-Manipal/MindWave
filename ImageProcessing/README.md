@@ -58,4 +58,6 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 24. [Signature-Verification](https://github.com/dishamodi0910/MindWave/tree/VirtualKeyboard/ImageProcessing/Projects/SignatureVerification)
 
-2. [Thumbnailator](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/Thumbnailator)
+25. [Thumbnailator](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/Thumbnailator)
+
+26. [Vehicle-Counter](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/VehicleCounter)
