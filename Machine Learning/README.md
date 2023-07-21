@@ -103,7 +103,7 @@
 
 - [Self-Organizing-Maps](https://github.com/ayush-09/MindWave/blob/som/Machine%20Learning/Self-Organizing-Map/Self_Organizing_Map.ipynb)
 
-
+-  [SVM,Decision Tree Classifier-DNA Seq Analysis and Animal Classification](https://github.com/smty2018/MindWave/tree/DNA-Seq-Analysis-and-Animal-Classification)
 
 
 - [RandomForestRegressor- Price Of Flight Ticket](https://github.com/Tanya-1109/MindWave/files/11927026/Data_Train.xlsx)
