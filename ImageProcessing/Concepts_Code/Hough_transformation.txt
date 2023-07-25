@@ -1,0 +1,30 @@
+The hough transform is a feature extraction technique used in image analysis, computer vision, and digital image processing. The purpose of the technique is to find imperfect instances of objects within a certain class of shapes by a voting procedure. This voting procedure is carried out in a parameter space, from which object candidates are obtained as local maxima in a so-called accumulator space that is explicitly constructed by the algorithm for computing the hough transform.
+
+It can be used in the following cases:
+Detect the shape even if it's broken or distorted a little bit
+Detect the shape even if it's touching the boundaries of the image
+Detect multiple shapes in the same image
+
+Hough Transformation Algorithm:
+1. Edge detection e.g. using the Canny edge detector.
+2. Mapping of edge points to the Hough space and storage in an accumulator.
+3. Interpretation of the accumulator to yield lines of infinite length. The interpretation is done by thresholding and possibly other constraints.
+4. Conversion of infinite lines to finite lines.
+
+
+OpenCV implements two kind of Hough Line Transforms
+1. The Standard Hough Transform (HoughLines method)
+2. The Probabilistic Hough Line Transform (HoughLinesP method)
+
+The Standard Hough Transform (HoughLines method)
+The HoughLines method implements the standard or basic Hough Transform. This technique is good for cases where you already know the shape you are looking for in an image and you want to find instances of that shape in the image. In our case, we want to find lines in the image, so we are using the HoughLines method.
+
+
+The Probabilistic Hough Line Transform (HoughLinesP method)
+The HoughLinesP method is a more efficient version of the HoughLines method. It is based on the same principles as the HoughLines method, but instead of taking every point on an edge, it takes only a random subset of points. It is therefore more efficient and faster than the standard Hough Line Transform. It returns the beginning and ending coordinates of the detected lines, which is different from the HoughLines method, which returns the parameters (rho and theta) of the detected lines.
+
+The HoughLinesP method takes a few more parameters than the HoughLines method, which are:
+minLineLength - The minimum number of points that can form a line. Lines with less than this number of points are disregarded.
+maxLineGap - The maximum gap between two points to be considered in the same line.
+
+
