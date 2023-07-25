@@ -44,7 +44,7 @@
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/ECG_Heartbeat_Categorization_%23224/Deep%20Learning/ECG%20Categorization/model-algorithm.ipynb"> CNN - ECG categorization </a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/Tomato_Leaf_Disease_Detection_by_using_CNN_%2398/Deep%20Learning/Tomato%20Leaf%20Disease%20Detection/CNN_Tomato_Leaf_Disease_Detection.ipynb">CNN - Tomato Leaf Disease Detection</a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/WCE_Curated_Colon_Disease_classification_%23168/Deep%20Learning/WCE%20Curated%20Colon%20Disease%20classification/model.algorithm.ipynb">CNN - WCE curated colon disease</a>
-- <a href = "https://github.com/Soumya1219/MindWave/blob/sample/Deep%20Learning/Sentimental%20Analsyis%20on%20IMDB%20Reviews/Sentimental-Analysis-IMDB-Reviews.ipynb">LSTM - Sentimental Analysis on IMDB Reviews</a>
+- <a href = "https://github.com/Soumya1219/MindWave/blob/sample/Deep%20Learning/Sentimental%20Analsyis%20on%20IMDB%20Reviews/Sentimental-Analysis-IMDB-Reviews.ipynb">NLP - Sentimental Analysis on IMDB Reviews</a>
 
 
 ## Implementation Ideas
