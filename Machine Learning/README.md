@@ -109,7 +109,9 @@
 - [RandomForestRegressor- Price Of Flight Ticket](https://github.com/Tanya-1109/MindWave/files/11927026/Data_Train.xlsx)
 - [Logistic Regression - Hate Speech and Offensive Language](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Hate%20Speech%20and%20Offensive%20Language/LogisticRegression_HateSpeechAndOffensiveLanguageDetection.ipynb)
 
-
+- <a href='https://github.com/pgs17/MindWave-GSSOC-/blob/RandomForest-SmokerUK/Machine%20Learning/RandomForest_Smoker_UK.ipynb'>Random_Forest_Classifier-SmokerUK</a>
+ 
+ main
 ## Implementation Ideas
 
 - [Logistic Regression - Effective Targeting of Advertisments](./Effective%20Targeting%20of%20Advertisments/)
