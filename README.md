@@ -48,7 +48,7 @@ Open Source has played a critical role in the growth and success of data science
 ## Tech Stack Used
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
+![Python](https://raw.githubusercontent.com/sammi-stack/MindWave/main/Deployed%20Projects/selenium_automation_google_search_query.py)
 
 ## Code of Conduct 
 
