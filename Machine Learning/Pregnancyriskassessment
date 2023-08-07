@@ -1,0 +1,134 @@
+import pandas as pd
+df = pd.read_excel('/content/Risk assessment.xlsx')
+# Importing necessary libraries
+import pandas as pd
+from sklearn import preprocessing
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import OneHotEncoder
+
+
+# Split 'Blood Pressure (mmHg)' into two separate columns for systolic and diastolic pressures
+df[['Systolic BP', 'Diastolic BP']] = df['Blood Pressure (mmHg)'].str.split('/', expand=True)
+
+# Convert new columns to numeric
+df['Systolic BP'] = pd.to_numeric(df['Systolic BP'])
+df['Diastolic BP'] = pd.to_numeric(df['Diastolic BP'])
+
+# Drop original Blood Pressure column
+df.drop('Blood Pressure (mmHg)', axis=1, inplace=True)
+
+# Encode categorical variables
+categorical_features = ['Ethnicity', 'Medical History', 'Previous Complications',
+                        'Exercise Routine', 'Smoking Status', 'Alcohol Consumption',
+                        'Dietary Habits', 'Outcome']
+
+# Normalize the continuous variables
+continuous_features = ['Age', 'Height (cm)', 'Weight (kg)', 'Gestational Age (weeks)',
+                       'Previous Pregnancies', 'Systolic BP', 'Diastolic BP',
+                       'Blood Glucose (mg/dL)']
+scaler = StandardScaler()
+
+df[continuous_features] = scaler.fit_transform(df[continuous_features])
+df = pd.get_dummies(df, columns=categorical_features)  # One hot encoding for categorical variables
+
+# Defining X and Y
+y = df['Outcome_Healthy birth']  # Change this based on the different outcomes
+X = df.drop(columns=['Outcome_Healthy birth', 'Outcome_Preterm birth', 'Outcome_Preterm labor'])  # Drop all outcome columns for X
+
+from sklearn.model_selection import train_test_split
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Importing necessary libraries
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+
+
+
+# Number of features in the data (after one-hot-encoding, minus the outcome columns)
+n_features = X_train.shape[1]
+
+# Initialize the constructor
+model = Sequential()
+
+# Add an input layer
+model.add(Dense(32, activation='relu', input_shape=(n_features,)))
+
+# Add one hidden layer
+model.add(Dense(16, activation='relu'))
+
+# Add an output layer
+model.add(Dense(1, activation='sigmoid'))
+
+model.compile(loss='binary_crossentropy',
+              optimizer='adam',
+              metrics=['accuracy'])
+
+model.fit(X_train, y_train,epochs=20, batch_size=32, verbose=1)
+
+# User input
+patient_id = input("Enter Patient ID: ")
+age = input("Enter Age: ")
+height = input("Enter Height in cm: ")
+weight = input("Enter Weight in kg: ")
+ethnicity = input("Enter Ethnicity: ")
+medical_history = input("Enter Medical History: ")
+gestational_age = input("Enter Gestational Age in weeks: ")
+previous_pregnancies = input("Enter Number of Previous Pregnancies: ")
+previous_complications = input("Enter Previous Complications: ")
+blood_pressure = input("Enter Blood Pressure (mmHg) like '120/80': ")
+blood_glucose = input("Enter blood glucose:")
+exercise_routine = input("Enter Exercise Routine: ")
+smoking_status = input("Enter Smoking Status: ")
+alcohol_consumption = input("Enter Alcohol Consumption: ")
+dietary_habits = input("Enter Dietary Habits: ")
+
+# Split 'Blood Pressure' into 'Systolic BP' and 'Diastolic BP'
+systolic_bp, diastolic_bp = map(int, blood_pressure.split('/'))
+
+# Create a DataFrame for the user input
+user_input = pd.DataFrame({'Patient ID': [patient_id],
+                           'Age': [age],
+                           'Height (cm)': [height],
+                           'Weight (kg)': [weight],
+                           'Ethnicity': [ethnicity],
+                           'Medical History': [medical_history],
+                           'Gestational Age (weeks)': [gestational_age],
+                           'Previous Pregnancies': [previous_pregnancies],
+                           'Previous Complications': [previous_complications],
+                           'Systolic BP': [systolic_bp],
+                           'Diastolic BP': [diastolic_bp],
+                           'Blood Glucose (mg/dL)' : [blood_glucose],
+                           'Exercise Routine': [exercise_routine],
+                           'Smoking Status': [smoking_status],
+                           'Alcohol Consumption': [alcohol_consumption],
+                           'Dietary Habits': [dietary_habits]})
+
+# Scale numerical features
+columns_to_scale = ['Age', 'Height (cm)', 'Weight (kg)', 'Gestational Age (weeks)',
+                    'Previous Pregnancies', 'Systolic BP', 'Diastolic BP','Blood Glucose (mg/dL)']
+user_input[columns_to_scale] = scaler.transform(user_input[columns_to_scale])
+
+# Create a one-hot encoded version of the user input
+user_input_encoded = pd.get_dummies(user_input)
+
+# Get missing columns in the user input
+missing_cols = set(X.columns) - set(user_input_encoded.columns)
+
+# Add missing columns in user_input_encoded with default value equal to 0
+for col in missing_cols:
+    user_input_encoded[col] = 0
+
+# Ensure the order of column in the user input is in the same order as in X
+user_input_encoded = user_input_encoded[X.columns]
+
+# Generate prediction for user input using the model
+prediction = model.predict(user_input_encoded)
+
+# Print prediction in words
+if prediction < 0.5:
+    print("The patient is at risk of preterm birth.")
+else:
+    print("The patient is not at risk of preterm birth.")
+
