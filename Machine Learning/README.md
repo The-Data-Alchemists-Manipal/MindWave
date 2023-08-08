@@ -101,14 +101,17 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+- [Gradient Boosting Classifier- Forest Fire Prediction](https://github.com/smty2018/MindWave/tree/gbc/Machine%20Learning/Forest%20Fire%20Prediction-GradientBoostingClassifier)
+
 - [Self-Organizing-Maps](https://github.com/ayush-09/MindWave/blob/som/Machine%20Learning/Self-Organizing-Map/Self_Organizing_Map.ipynb)
 
-
+-  [SVM,Decision Tree Classifier-DNA Seq Analysis and Animal Classification](https://github.com/smty2018/MindWave/tree/DNA-Seq-Analysis-and-Animal-Classification)
 
 
 - [RandomForestRegressor- Price Of Flight Ticket](https://github.com/Tanya-1109/MindWave/files/11927026/Data_Train.xlsx)
 - [Logistic Regression - Hate Speech and Offensive Language](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Hate%20Speech%20and%20Offensive%20Language/LogisticRegression_HateSpeechAndOffensiveLanguageDetection.ipynb)
 
+- [Laptop Price Prediction System](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/Laptop_Price_Predictio)
 
 ## Implementation Ideas
 

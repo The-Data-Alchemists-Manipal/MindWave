@@ -36,7 +36,7 @@
 
 
 - <a href="[https://github.com/tanujbordikar/MindWave/tree/grocery_sales/main/Data%20Analytics/Grocery_Sales_Analysis](https://github.com/tanujbordikar/MindWave/Data Analysis/International Debt Statistics)"> International Debt Statistics </a>
-
+- <a href=https://github.com/rahulkothuri/MindWave/tree/main/Data%20Analytics/YouTube%20Channel%20Analysis> Data Analytics - YouTube Channels Analysis  </a>
 
 
 =======
