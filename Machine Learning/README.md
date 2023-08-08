@@ -45,7 +45,6 @@
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 
-
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
@@ -53,6 +52,7 @@
 - [Naive Bayes - Kaggle Spam Dataset](https://github.com/PraNavKumAr01/MindWave/blob/main/Machine%20Learning/NaiveBayes%20-%20SpamDataset/MultinomialNaiveBayes_Spam.ipynb)
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
+
 - [Logistic Regression - Effective Targeting of Advertisments](./Effective%20Targeting%20of%20Advertisments/)
 
 
@@ -134,7 +134,6 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
- main
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
@@ -148,7 +147,6 @@
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
 
-data
 - [Logistic Regression_Scikit-Learn Breast Cancer Dataset](https://github.com/adityabachu/MindWave/blob/main/Machine%20Learning/Logistic%20Regression_Scikit-Learn%20Breast%20Cancer%20Prediction/Logistic%20Regression_Scikit-Learn%20Breast%20Cancer%20Dataset.ipynb)
 
 - [Parkinsons disease prediction model](https://github.com/tushtithakur/MindWave/tree/main/Machine%20Learning/Parkinsons%20disease%20prediction%20model)
