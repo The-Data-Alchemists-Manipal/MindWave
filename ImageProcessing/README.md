@@ -58,12 +58,11 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 24. [Signature-Verification](https://github.com/dishamodi0910/MindWave/tree/VirtualKeyboard/ImageProcessing/Projects/SignatureVerification)
 
-25. [Thumbnailator](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/Thumbnailator)
 
-26. [TrafficLightDetection](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/TrafficLightDetection)
+25. [Virtual-Makeup](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/VirtualMakeup)
 
+26. [Handwritten-Digits-Recognition](https://github.com/dishamodi0910/MindWave/tree/ImageProcessing/ImageProcessing/Projects/HandwrittenDigitsRecognition)
 
-26. [Thumbnailator](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/Thumbnailator)
 
 27. [TrafficLightDetection](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/TrafficLightDetection)
 
@@ -71,3 +70,9 @@ To contribute in various image processing based projects, visit : [Know about Pr
 
 29. [Normal image to Water Color Art](https://github.com/Mochoye/MindWave/tree/watercolor/ImageProcessing/Projects/Water_color_art)
 
+30. [Thumbnailator](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/Thumbnailator)
+
+31. [TrafficLightDetection](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/TrafficLightDetection)
+
+
+32. [Thumbnailator](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/Thumbnailator)
