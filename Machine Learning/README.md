@@ -101,6 +101,8 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+- [Gradient Boosting Classifier- Forest Fire Prediction](https://github.com/smty2018/MindWave/tree/gbc/Machine%20Learning/Forest%20Fire%20Prediction-GradientBoostingClassifier)
+
 - [Self-Organizing-Maps](https://github.com/ayush-09/MindWave/blob/som/Machine%20Learning/Self-Organizing-Map/Self_Organizing_Map.ipynb)
 
 
