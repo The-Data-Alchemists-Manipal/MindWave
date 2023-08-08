@@ -84,6 +84,10 @@
 - <a href="https://www.kaggle.com/datasets/gpiosenka/100-bird-species">ANN - Birds classification</a>
 - <a href="https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images">ANN - Pneumonia detection</a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/bloodCells_classification_%23189/Deep%20Learning/blood%20cells%20classification/model-algorithm.ipynb">ANN - Blood cell classification</a>
+
+- <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/cyber_bullying%23328/Deep%20Learning/Cyber_bullying/RNN.ipynb
+">RNN- cyber bullying classification</a>
+
 - <a href="https://github.com/Juhibhojani/MindWave/blob/Juhibhojani-patch-1/Deep%20Learning/SVM_Spam_Ham.ipynb"> SVM - Spam Ham Classifier </a>
 - <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/anime_image_classification%23462/Deep%20Learning/Anime%20Image%20classification/main.ipynb">CNN - anime Image classification</a>
 - <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/Food_classification%23393/Deep%20Learning/Food%20image%20classification/CNN-food_classification.ipynb">CNN -Food classification</a>
@@ -91,6 +95,7 @@
 - <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/Traffic Signal Violation Detection System">DL - Traffic Signal Violation Detection System</a>
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Pytorch_NLTK-Alice_Dataset-Word_Embedding">NLTK - Alice Dataset - Word Embedding Using Pytorch</a>
 - <a href="https://github.com/shraddha761/MindWave/blob/master/Deep%20Learning/Neural-Doodle.ipynb"> Neural Doodle </a>
+
 
 - <a href="https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Deep%20Learning/Food%20Detector">Food Detector<a/> 
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Gesture-Controlled-Virtual-Mouse">Gesture Controlled Virtual Mouse</a>
