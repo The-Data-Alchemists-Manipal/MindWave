@@ -61,3 +61,13 @@ To contribute in various image processing based projects, visit : [Know about Pr
 25. [Thumbnailator](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/Thumbnailator)
 
 26. [TrafficLightDetection](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/TrafficLightDetection)
+
+
+26. [Thumbnailator](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/Thumbnailator)
+
+27. [TrafficLightDetection](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/TrafficLightDetection)
+
+28. [FunnyFilters](https://github.com/shraddha761/MindWave/tree/ImageProcessing/ImageProcessing/Projects/FunnyFilters)
+
+29. [Normal image to Water Color Art](https://github.com/Mochoye/MindWave/tree/watercolor/ImageProcessing/Projects/Water_color_art)
+
