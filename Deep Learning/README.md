@@ -25,6 +25,7 @@
 - <a href="https://github.com/Shashank1130/MindWave/blob/Loan-Repayment-System/Deep%20Learning/ANN_Loan_Repayment_System.ipynb"> ANN - Loan repayment System </a>
 - <a href="https://github.com/ranodeepbanerjee/MindWave/blob/main/Deep%20Learning/CNN-Image_Based_Species_Recognition.ipynb"> CNN - Image Based Species Recognition
 - <a href="https://github.com/YB73/MindWave/blob/YB73-IEEECISFRAUD/Deep%20Learning/CNN_IEEECISFRAUD.ipynb">CNN - IEEECISFraudDetection</a>
+- <a href="https://github.com/Venkatapranay/MindWave/blob/main/Deep%20Learning/Gender_Classification/ANN_Gender_classification.ipynb">ANN-Gender Classification</a>
 
 - <a href="https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/code">CNN - Tomato Leaf Disease Detection</a>
 - <a href="https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset">CNN - Monkey pox  Disease Detection</a>
@@ -67,8 +68,13 @@
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/ECG_Heartbeat_Categorization_%23224/Deep%20Learning/ECG%20Categorization/model-algorithm.ipynb"> CNN - ECG categorization </a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/Tomato_Leaf_Disease_Detection_by_using_CNN_%2398/Deep%20Learning/Tomato%20Leaf%20Disease%20Detection/CNN_Tomato_Leaf_Disease_Detection.ipynb">CNN - Tomato Leaf Disease Detection</a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/WCE_Curated_Colon_Disease_classification_%23168/Deep%20Learning/WCE%20Curated%20Colon%20Disease%20classification/model.algorithm.ipynb">CNN - WCE curated colon disease</a>
+- <a href = "https://github.com/Soumya1219/MindWave/blob/sample/Deep%20Learning/Sentimental%20Analsyis%20on%20IMDB%20Reviews/Sentimental-Analysis-IMDB-Reviews.ipynb">LSTM - Sentiment Analysis on IMDB Reviews</a>
 - <a href="https://github.com/Shubhra-31/MindWave/blob/main/Deep%20Learning/Tfidf_LightGBM_Netflix%20Movies%20and%20TV%20Shows/Lightgbm_Netflix%20Movies%20and%20TV%20Shows%20.ipynb"> Tfidf-LightGBM-Netlfix Movies and TV Shows </a>
+- <a href="https://github.com/Shreyg-27/MindWave/tree/main/Deep%20Learning/Posture_Detection_Posenet">CNN - Posture Detection</a>
 - <a href="https://github.com/Soumya1219/MindWave/blob/master/Deep%20Learning/Traffic%20Sign%20Recognition/Traffic-Sign-Recognition.ipynb"> CNN - Traffic Sign Recognition
+ </a>
+ - <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/restaurent_reviews_classification%23339/Deep%20Learning/restaurent%20reviews%20classification/RNN.ipynb
+"> RNN - restaurant reviews classification
  </a>
 
 
@@ -84,14 +90,16 @@
 - <a href="https://www.kaggle.com/datasets/gpiosenka/100-bird-species">ANN - Birds classification</a>
 - <a href="https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images">ANN - Pneumonia detection</a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/bloodCells_classification_%23189/Deep%20Learning/blood%20cells%20classification/model-algorithm.ipynb">ANN - Blood cell classification</a>
+- <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/cyber_bullying%23328/Deep%20Learning/Cyber_bullying/RNN.ipynb
+">RNN- cyber bullying classification</a>
 - <a href="https://github.com/Juhibhojani/MindWave/blob/Juhibhojani-patch-1/Deep%20Learning/SVM_Spam_Ham.ipynb"> SVM - Spam Ham Classifier </a>
 - <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/anime_image_classification%23462/Deep%20Learning/Anime%20Image%20classification/main.ipynb">CNN - anime Image classification</a>
 - <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/Food_classification%23393/Deep%20Learning/Food%20image%20classification/CNN-food_classification.ipynb">CNN -Food classification</a>
 - <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/Moview%20Review%20Sentiment%20Analysis">DL- Movie review sentiment anaylsis</a>
 - <a href="https://github.com/okaditya84/MindWave/tree/main/Deep%20Learning/Traffic Signal Violation Detection System">DL - Traffic Signal Violation Detection System</a>
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Pytorch_NLTK-Alice_Dataset-Word_Embedding">NLTK - Alice Dataset - Word Embedding Using Pytorch</a>
+- <a href="https://github.com/shraddha761/MindWave/tree/main/Deep%20Learning/Deep_Lake">Deep Lake</a>
 - <a href="https://github.com/shraddha761/MindWave/blob/master/Deep%20Learning/Neural-Doodle.ipynb"> Neural Doodle </a>
-
 - <a href="https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Deep%20Learning/Food%20Detector">Food Detector<a/> 
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Gesture-Controlled-Virtual-Mouse">Gesture Controlled Virtual Mouse</a>
 - <a href="https://github.com/lakshmishreea122003/MindWave/tree/branch2/Deep%20Learning/neural-style-transfer">Neural Style Transfer using VGG19</a>
@@ -100,7 +108,10 @@
 - <a href="https://github.com/sujanrupu/MindWave/blob/main/Deep%20Learning/CNN_Speech_Emotion_Recognition.ipynb">CNN - Speech Emotion Recognition</a>
 - <a href="https://github.com/lakshmishreea122003/face-detedtion-MTCNN">Face Detection MTCNN</a>
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Gender_Recognition_Using_Voice">Gender Recognition Using Voice</a>
-  
+- <a href="https://github.com/sahaycodes/MindWave/tree/emo/Deep%20Learning/Facial%20Expression%20to%20Emoji%20Converter">Facial Expression to Emoji Converter
+- <a href="https://github.com/Shreyg-27/MindWave/tree/main/Deep%20Learning/Posture_Detection_Posenet">CNN - Posture Detection</a>
+- <a href="https://github.com/sujanrupu/MindWave/blob/main/Deep%20Learning/Helmet_Detection"> Helmet Detection </a>
+- <a href="https://github.com/lakshmishreea122003/FaceNet-Face-Recognition">FaceNet Face Recognition</a>
 
 
 
@@ -121,4 +132,6 @@
 - VGG16
 - VGG19
 - MTCNN
-  
+- PoseNet
+- FaceNet
+

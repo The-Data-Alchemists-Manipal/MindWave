@@ -39,9 +39,9 @@
 
 - <a href="https://github.com/Juhibhojani/MindWave/blob/main/Data%20Analytics/Internshala%20Internships_Analysis/Internships_Analytics.ipynb"> Internshala Internship Analysis</a>
 
+- <a href=https://github.com/rahulkothuri/MindWave/tree/main/Data%20Analytics/YouTube%20Channel%20Analysis> Data Analytics - YouTube Channels Analysis  </a>
 
 
-=======
 
 
 ## Implementation Ideas
