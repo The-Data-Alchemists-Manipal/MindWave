@@ -270,9 +270,9 @@
 - [Airline 128k Reviews (Logistic Regression Model)](https://github.com/sahaycodes/MindWave/blob/airline/Machine%20Learning/Airline%20128K%20Reviews/Airline-128K%20Reviews%20(1).ipynb)
 
 - [Amazon Product length prdiction](/Amazon_product_length_prediction/nlp-with_regression.ipynb.ipynb)
+- [Volcanic-Eruption-Prediction(RandomForestRegressor)](/Volcanic-Eruption-Prediction/algorithm_dataset.ipynb)
 
 - [Credit Card Fraud Detection - SMOTE ](https://github.com/brahmamyv/MindWave/tree/ccf/Machine%20Learning/Credit%20Card%20Fraud%20Detection-SMOTE)
-
 
 
 ## Implementation Ideas
@@ -294,4 +294,4 @@
   - Cross Validation Techniques 
   - K fold CV technique
   - Passive Agressive Classifier
-
+  - RandomForestRegressor
