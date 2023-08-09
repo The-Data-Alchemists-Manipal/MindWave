@@ -108,6 +108,8 @@
 - <a href="https://github.com/sujanrupu/MindWave/blob/main/Deep%20Learning/CNN_Speech_Emotion_Recognition.ipynb">CNN - Speech Emotion Recognition</a>
 - <a href="https://github.com/lakshmishreea122003/face-detedtion-MTCNN">Face Detection MTCNN</a>
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Gender_Recognition_Using_Voice">Gender Recognition Using Voice</a>
+- <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/IMDB_spoiler_detection%23475/Deep%20Learning/IMDB%20spoiler%20detection/BERT.ipynb
+">Bidirectional RNN-IMDB spoiler detection</a>
 - <a href="https://github.com/sahaycodes/MindWave/tree/emo/Deep%20Learning/Facial%20Expression%20to%20Emoji%20Converter">Facial Expression to Emoji Converter
 - <a href="https://github.com/Shreyg-27/MindWave/tree/main/Deep%20Learning/Posture_Detection_Posenet">CNN - Posture Detection</a>
 - <a href="https://github.com/sujanrupu/MindWave/blob/main/Deep%20Learning/Helmet_Detection"> Helmet Detection </a>
