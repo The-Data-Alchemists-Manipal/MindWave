@@ -73,6 +73,8 @@
 - <a href="https://github.com/Shreyg-27/MindWave/tree/main/Deep%20Learning/Posture_Detection_Posenet">CNN - Posture Detection</a>
 - <a href="https://github.com/Soumya1219/MindWave/blob/master/Deep%20Learning/Traffic%20Sign%20Recognition/Traffic-Sign-Recognition.ipynb"> CNN - Traffic Sign Recognition
  </a>
+ - <a href="https://github.com/smty2018/MindWave/tree/lstm/Deep%20Learning/Gasoline%20Price%20Time%20Series%20Forecasting"> LSTN, ARIMA-Gasoline Price Time series forecasting
+ </a>
  - <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/restaurent_reviews_classification%23339/Deep%20Learning/restaurent%20reviews%20classification/RNN.ipynb
 "> RNN - restaurant reviews classification
  </a>
