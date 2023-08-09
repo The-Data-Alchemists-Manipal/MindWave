@@ -69,11 +69,14 @@
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/WCE_Curated_Colon_Disease_classification_%23168/Deep%20Learning/WCE%20Curated%20Colon%20Disease%20classification/model.algorithm.ipynb">CNN - WCE curated colon disease</a>
 - <a href = "https://github.com/Soumya1219/MindWave/blob/sample/Deep%20Learning/Sentimental%20Analsyis%20on%20IMDB%20Reviews/Sentimental-Analysis-IMDB-Reviews.ipynb">LSTM - Sentiment Analysis on IMDB Reviews</a>
 - <a href="https://github.com/Shubhra-31/MindWave/blob/main/Deep%20Learning/Tfidf_LightGBM_Netflix%20Movies%20and%20TV%20Shows/Lightgbm_Netflix%20Movies%20and%20TV%20Shows%20.ipynb"> Tfidf-LightGBM-Netlfix Movies and TV Shows </a>
+- <a href="https://github.com/Shreyg-27/MindWave/tree/main/Deep%20Learning/Posture_Detection_Posenet">CNN - Posture Detection</a>
 - <a href="https://github.com/Soumya1219/MindWave/blob/master/Deep%20Learning/Traffic%20Sign%20Recognition/Traffic-Sign-Recognition.ipynb"> CNN - Traffic Sign Recognition
  </a>
  - <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/restaurent_reviews_classification%23339/Deep%20Learning/restaurent%20reviews%20classification/RNN.ipynb
 "> RNN - restaurant reviews classification
  </a>
+
+
 
 ## Implementation Ideas
 
@@ -103,6 +106,7 @@
 - <a href="https://github.com/sujanrupu/MindWave/blob/main/Deep%20Learning/CNN_Speech_Emotion_Recognition.ipynb">CNN - Speech Emotion Recognition</a>
 - <a href="https://github.com/lakshmishreea122003/face-detedtion-MTCNN">Face Detection MTCNN</a>
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Gender_Recognition_Using_Voice">Gender Recognition Using Voice</a>
+- <a href="https://github.com/Shreyg-27/MindWave/tree/main/Deep%20Learning/Posture_Detection_Posenet">CNN - Posture Detection</a>
 - <a href="https://github.com/sujanrupu/MindWave/blob/main/Deep%20Learning/Helmet_Detection"> Helmet Detection </a>
 - <a href="https://github.com/lakshmishreea122003/FaceNet-Face-Recognition">FaceNet Face Recognition</a>
 
@@ -126,7 +130,6 @@
 - VGG16
 - VGG19
 - MTCNN
+- PoseNet
 - FaceNet
 
-
-  
