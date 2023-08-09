@@ -5,12 +5,13 @@
 
 - [KNN Image Classifier - Forest vs Dessert Data](https://github.com/Akhil-77/MindWave_ML/tree/main/Machine%20Learning/KNN_Image_Classifier)
  - [Decision Tree CLassifier - Iris Flower CLassification](https://github.com/Sindhu-2004/MindWave/blob/main/Machine%20Learning/iris_classification.ipynb)
+- [Linear Regression - Salary_data](https://github.com/Pritamstudent/MindWave/tree/issue-490/Machine%20Learning/Linear%20Regression%20-%20salary_data)
 - [Logistic Regression - earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/LogisticRegression_EarthquakePrediction.ipynb)
 - [Naive Bayes classification - Earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/NaiveBayes_EarthquakePrediction.ipynb)
 - [Support Vector Machine - Earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/SVM_EarthquakePrediction.ipynb)
 - [Support Vector Machine - Breast Cancer Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/Breast%20Cancer%20Prediction.ipynb)
 - [Logistic Regression - Titanic Dataset](https://github.com/Soumya-Kushwaha/MindWave/tree/titanic---logistic/Machine%20Learning/Logistic%20Regression%20-%20Titanic%20Dataset)
-
+ 
 - [Linear Regression - House Price Prediction](https://github.com/Sindhu-2004/MindWave/blob/patch1/Machine%20Learning/House_prediction.ipynb)
 
 
@@ -43,8 +44,6 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
-
-
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
@@ -52,6 +51,8 @@
 - [Naive Bayes - Kaggle Spam Dataset](https://github.com/PraNavKumAr01/MindWave/blob/main/Machine%20Learning/NaiveBayes%20-%20SpamDataset/MultinomialNaiveBayes_Spam.ipynb)
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
+
+
 - [Logistic Regression - Effective Targeting of Advertisments](./Effective%20Targeting%20of%20Advertisments/)
 
 
@@ -100,15 +101,20 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+- [Gradient Boosting Classifier- Forest Fire Prediction](https://github.com/smty2018/MindWave/tree/gbc/Machine%20Learning/Forest%20Fire%20Prediction-GradientBoostingClassifier)
+
 - [Self-Organizing-Maps](https://github.com/ayush-09/MindWave/blob/som/Machine%20Learning/Self-Organizing-Map/Self_Organizing_Map.ipynb)
 
-
+-  [SVM,Decision Tree Classifier-DNA Seq Analysis and Animal Classification](https://github.com/smty2018/MindWave/tree/DNA-Seq-Analysis-and-Animal-Classification)
 
 
 - [RandomForestRegressor- Price Of Flight Ticket](https://github.com/Tanya-1109/MindWave/files/11927026/Data_Train.xlsx)
 - [Logistic Regression - Hate Speech and Offensive Language](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Hate%20Speech%20and%20Offensive%20Language/LogisticRegression_HateSpeechAndOffensiveLanguageDetection.ipynb)
 
 - [Random Forest Regressor - Gold Price Prediction System](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/RandomForest_GoldPrice_Prediction)
+- [LSTM - Stock price Prediction](https://github.com/Volcano-Dragon/MindWave/tree/main/Machine%20Learning/LSTM%20-%20Stock%20Price%20Prediction)
+- [Laptop Price Prediction System](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/Laptop_Price_Predictio)
+
 
 ## Implementation Ideas
 
@@ -131,7 +137,6 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
- main
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
@@ -145,7 +150,6 @@
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
 
-data
 - [Logistic Regression_Scikit-Learn Breast Cancer Dataset](https://github.com/adityabachu/MindWave/blob/main/Machine%20Learning/Logistic%20Regression_Scikit-Learn%20Breast%20Cancer%20Prediction/Logistic%20Regression_Scikit-Learn%20Breast%20Cancer%20Dataset.ipynb)
 
 - [Parkinsons disease prediction model](https://github.com/tushtithakur/MindWave/tree/main/Machine%20Learning/Parkinsons%20disease%20prediction%20model)
