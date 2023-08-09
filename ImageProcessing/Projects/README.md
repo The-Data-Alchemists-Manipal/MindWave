@@ -7,3 +7,9 @@
 3. [Road-Lane-Detection](https://github.com/dishamodi0910/MindWave/tree/main/ImageProcessing/Projects/RoadLaneDetection)
 
 4. [AI-Based Virtual Mouse](https://github.com/dishamodi0910/MindWave/tree/VirtualMouse/ImageProcessing/Projects/AI_Virtual_Mouse)
+
+5. [Camerap-opencv-flask-app](https://github.com/lakshmishreea122003/camera_flask_opencv_app)
+   
+6. [Eye Detection](https://github.com/dishamodi0910/MindWave/tree/VirtualMouse/ImageProcessing/Projects/Eye%20Detection)
+
+7. [Water Color Art](https://github.com/Mochoye/MindWave/tree/watercolor/ImageProcessing/Projects/Water_color_art)

@@ -1,3 +1,4 @@
+English | [हिंदी](README-Hindi.md)
 # MindWave
 <div id="top"></div>
 <div align="center">
