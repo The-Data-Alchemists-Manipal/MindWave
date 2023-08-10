@@ -44,8 +44,6 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
-
-
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
@@ -53,6 +51,8 @@
 - [Naive Bayes - Kaggle Spam Dataset](https://github.com/PraNavKumAr01/MindWave/blob/main/Machine%20Learning/NaiveBayes%20-%20SpamDataset/MultinomialNaiveBayes_Spam.ipynb)
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
+
+
 - [Logistic Regression - Effective Targeting of Advertisments](./Effective%20Targeting%20of%20Advertisments/)
 
 
@@ -101,13 +101,19 @@
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
+- [Gradient Boosting Classifier- Forest Fire Prediction](https://github.com/smty2018/MindWave/tree/gbc/Machine%20Learning/Forest%20Fire%20Prediction-GradientBoostingClassifier)
+
 - [Self-Organizing-Maps](https://github.com/ayush-09/MindWave/blob/som/Machine%20Learning/Self-Organizing-Map/Self_Organizing_Map.ipynb)
 
-
+-  [SVM,Decision Tree Classifier-DNA Seq Analysis and Animal Classification](https://github.com/smty2018/MindWave/tree/DNA-Seq-Analysis-and-Animal-Classification)
 
 
 - [RandomForestRegressor- Price Of Flight Ticket](https://github.com/Tanya-1109/MindWave/files/11927026/Data_Train.xlsx)
 - [Logistic Regression - Hate Speech and Offensive Language](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Hate%20Speech%20and%20Offensive%20Language/LogisticRegression_HateSpeechAndOffensiveLanguageDetection.ipynb)
+
+- [Random Forest Regressor - Gold Price Prediction System](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/RandomForest_GoldPrice_Prediction)
+- [LSTM - Stock price Prediction](https://github.com/Volcano-Dragon/MindWave/tree/main/Machine%20Learning/LSTM%20-%20Stock%20Price%20Prediction)
+- [Laptop Price Prediction System](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/Laptop_Price_Predictio)
 
 
 ## Implementation Ideas
@@ -131,7 +137,6 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
- main
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
@@ -145,7 +150,6 @@
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
 
-data
 - [Logistic Regression_Scikit-Learn Breast Cancer Dataset](https://github.com/adityabachu/MindWave/blob/main/Machine%20Learning/Logistic%20Regression_Scikit-Learn%20Breast%20Cancer%20Prediction/Logistic%20Regression_Scikit-Learn%20Breast%20Cancer%20Dataset.ipynb)
 
 - [Parkinsons disease prediction model](https://github.com/tushtithakur/MindWave/tree/main/Machine%20Learning/Parkinsons%20disease%20prediction%20model)
@@ -266,6 +270,9 @@ data
 - [Airline 128k Reviews (Logistic Regression Model)](https://github.com/sahaycodes/MindWave/blob/airline/Machine%20Learning/Airline%20128K%20Reviews/Airline-128K%20Reviews%20(1).ipynb)
 
 - [Amazon Product length prdiction](/Amazon_product_length_prediction/nlp-with_regression.ipynb.ipynb)
+- [Volcanic-Eruption-Prediction(RandomForestRegressor)](/Volcanic-Eruption-Prediction/algorithm_dataset.ipynb)
+
+- [Credit Card Fraud Detection - SMOTE ](https://github.com/brahmamyv/MindWave/tree/ccf/Machine%20Learning/Credit%20Card%20Fraud%20Detection-SMOTE)
 
 
 ## Implementation Ideas
@@ -287,4 +294,4 @@ data
   - Cross Validation Techniques 
   - K fold CV technique
   - Passive Agressive Classifier
-
+  - RandomForestRegressor
