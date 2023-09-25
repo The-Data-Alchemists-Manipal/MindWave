@@ -1,0 +1,12 @@
+# This is a Python code for word embedding using Pytorch.
+
+# Given by :
+[Aman Kumar](https://github.com/amankumar100)
+
+## Basic Installation Requirement
+## You have to install Pytorch library
+In CMD Run this Command : pip install pip install torch torchvision
+
+You can import the datasets from Kaggle.
+
+## Now run the code to get the output. You can directly run it or use the terminal on VSCode
