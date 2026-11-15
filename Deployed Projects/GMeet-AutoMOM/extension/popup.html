@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; width: 350px; padding: 15px; margin: 0;}
+    h2 { margin-top: 0; font-size: 18px; border-bottom: 1px solid #ccc; padding-bottom: 5px;}
+    button { padding: 10px; margin: 10px 0; width: 100%; cursor: pointer; border: none; border-radius: 4px; font-weight: bold;}
+    #startBtn { background-color: #0F9D58; color: white; }
+    #stopBtn { background-color: #DB4437; color: white; display: none; }
+    #momResult { margin-top: 15px; font-size: 13px; background: #f1f3f4; padding: 10px; border-radius: 4px; white-space: pre-wrap; line-height: 1.4;}
+    .hidden { display: none !important; }
+    .warning { color: #DB4437; font-size: 12px; font-weight: bold;}
+  </style>
+</head>
+<body>
+  <h2>GMeet MOM Creator</h2>
+  <p class="warning">⚠️ Turn ON Captions (CC) in Google Meet before recording.</p>
+  
+  <button id="startBtn">Start Recording</button>
+  <button id="stopBtn" class="hidden">Stop & Generate MOM</button>
+  
+  <div id="loading" class="hidden">🤖 NLP is analyzing the meeting...</div>
+  <div id="momResult"></div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
