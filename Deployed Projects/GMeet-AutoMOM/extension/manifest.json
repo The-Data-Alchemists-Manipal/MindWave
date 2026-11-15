@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "GMeet MOM Creator",
+  "version": "1.0",
+  "description": "Records Google Meet transcripts and generates Minutes of Meeting using NLP.",
+  "permissions": ["storage"],
+  "host_permissions": [
+    "*://meet.google.com/*",
+    "http://127.0.0.1:5000/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://meet.google.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
